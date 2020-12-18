@@ -1,0 +1,1369 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 8.0' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       157,          7]
+NotebookDataLength[     56143,       1361]
+NotebookOptionsPosition[     49871,       1258]
+NotebookOutlinePosition[     50342,       1275]
+CellTagsIndexPosition[     50299,       1272]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+
+Cell[CellGroupData[{
+Cell[BoxData[{
+ RowBox[{"SetDirectory", "[", 
+  RowBox[{"NotebookDirectory", "[", "]"}], "]"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{
+   RowBox[{"MakeLabelText", "[", 
+    RowBox[{"text_", ",", "color_", ",", "background_"}], "]"}], ":=", 
+   RowBox[{"Style", "[", 
+    RowBox[{
+     RowBox[{"\"\< \>\"", "~~", "text", "~~", "\"\< \>\""}], ",", " ", 
+     RowBox[{"FontFamily", "\[Rule]", "\"\<Arial Bold\>\""}], ",", "Bold", 
+     ",", " ", 
+     RowBox[{"Antialiasing", "\[Rule]", "True"}], ",", 
+     RowBox[{"FontSize", "\[Rule]", "18"}], ",", " ", "color", ",", 
+     RowBox[{"Background", "\[Rule]", "background"}]}], "]"}]}], 
+  "\[IndentingNewLine]"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{"ExportLabel", "[", 
+   RowBox[{"text_", ",", "gr_", ",", "bg_"}], "]"}], ":=", 
+  RowBox[{"(", 
+   RowBox[{
+    RowBox[{
+     RowBox[{"Export", "[", 
+      RowBox[{"#", ",", 
+       RowBox[{"Rotate", "[", 
+        RowBox[{
+         RowBox[{"Import", "[", "#", "]"}], ",", 
+         FractionBox["\[Pi]", "2"]}], "]"}], ",", 
+       RowBox[{"Background", "\[Rule]", "bg"}]}], "]"}], "&"}], "[", 
+    RowBox[{"Export", "[", 
+     RowBox[{
+      RowBox[{
+       RowBox[{"ToLowerCase", "[", "text", "]"}], "~~", "\"\<.png\>\""}], ",",
+       "gr", ",", " ", 
+      RowBox[{"ImageResolution", "\[Rule]", "200"}], ",", " ", 
+      RowBox[{"Background", "\[Rule]", "bg"}]}], "]"}], "]"}], 
+   ")"}]}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{"MakeLabel", "[", 
+   RowBox[{"text_", ",", "color_", ",", " ", "background_"}], "]"}], ":=", 
+  RowBox[{
+   RowBox[{
+    RowBox[{"ExportLabel", "[", 
+     RowBox[{"text", ",", 
+      RowBox[{
+       RowBox[{"Print", "[", "#", "]"}], ";", "#"}], ",", "background"}], 
+     "]"}], "&"}], "@", 
+   RowBox[{"MakeLabelText", "[", 
+    RowBox[{"text", ",", "color", ",", "background"}], 
+    "]"}]}]}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{"MakeLabel", "[", 
+   RowBox[{"{", 
+    RowBox[{"text_", ",", "color_", ",", " ", 
+     RowBox[{"background_", ":", "Black"}]}], "}"}], "]"}], ":=", 
+  RowBox[{"MakeLabel", "[", 
+   RowBox[{"text", ",", "color", ",", 
+    RowBox[{"Lighter", "[", 
+     RowBox[{"background", ",", "0.85"}], "]"}]}], "]"}]}]}], "Input",
+ CellChangeTimes->{{3.817268291647768*^9, 3.817268448611033*^9}, {
+   3.817268483388892*^9, 3.8172685033742323`*^9}, {3.817268715627149*^9, 
+   3.817268719933207*^9}, {3.817268755650182*^9, 3.817268756122514*^9}, {
+   3.817269126234342*^9, 3.817269156013817*^9}, {3.817269393724152*^9, 
+   3.817269426742303*^9}, 3.8172694743038054`*^9, {3.817269737045433*^9, 
+   3.817269962657008*^9}, {3.81727002352872*^9, 3.8172700246103086`*^9}, {
+   3.8172700764459333`*^9, 3.817270240379306*^9}, {3.817270298850254*^9, 
+   3.8172702990431957`*^9}, {3.81727039244744*^9, 3.8172704083986893`*^9}, 
+   3.817270459943686*^9, {3.817270524997602*^9, 3.817270596060328*^9}, {
+   3.817270874228998*^9, 3.8172709679450827`*^9}, {3.817271010094215*^9, 
+   3.817271052254507*^9}},
+ CellLabel->
+  "In[160]:=",ExpressionUUID->"77eec204-a9b9-4efc-baad-e65e00623e86"],
+
+Cell[BoxData["\<\"/Users/pablo/Seafile/Pablo/Web/FranklinWeb/_assets/icons\"\>\
+"], "Output",
+ CellChangeTimes->{{3.817271032029909*^9, 3.817271073483811*^9}},
+ CellLabel->
+  "Out[160]=",ExpressionUUID->"ce3ece04-1c66-4250-83e8-b72dff1a2161"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"Export", "[", 
+  RowBox[{"\"\<test.png\>\"", ",", 
+   RowBox[{"Style", "[", 
+    RowBox[{"\"\<TEST\>\"", ",", "Red"}], "]"}], ",", 
+   RowBox[{"Background", "\[Rule]", "LightBlue"}]}], "]"}]], "Input",
+ CellChangeTimes->{{3.817269510594626*^9, 3.8172695810025463`*^9}, {
+   3.817269645654055*^9, 3.8172697270820827`*^9}, {3.817269998997826*^9, 
+   3.817270010919558*^9}, {3.817270054010049*^9, 3.817270069736773*^9}, {
+   3.8172703371285973`*^9, 3.81727035726441*^9}, {3.81727062076507*^9, 
+   3.817270650028722*^9}, {3.8172706930975103`*^9, 3.817270819843601*^9}, {
+   3.817270856075325*^9, 3.8172708666495028`*^9}, 3.8172709966564817`*^9},
+ CellLabel->
+  "In[165]:=",ExpressionUUID->"a002501a-5c14-4890-8030-f82b52b8995e"],
+
+Cell[BoxData["\<\"test.png\"\>"], "Output",
+ CellChangeTimes->{{3.8172707369661903`*^9, 3.817270832129603*^9}, {
+   3.817270862817058*^9, 3.817270867370079*^9}, {3.817270983959643*^9, 
+   3.817270997108026*^9}, 3.817271073652114*^9},
+ CellLabel->
+  "Out[165]=",ExpressionUUID->"46104ba2-fa89-408f-9562-e7f4c0997d23"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"MakeLabel", "[", 
+  RowBox[{"{", 
+   RowBox[{"\"\<PRR\>\"", ",", "Blue"}], "}"}], "]"}]], "Input",
+ CellChangeTimes->{{3.806734704421336*^9, 3.806734739110401*^9}, 
+   3.817270253536257*^9},
+ CellLabel->
+  "In[166]:=",ExpressionUUID->"e38ebb05-a6ba-44ec-865c-11a975d2ebdf"],
+
+Cell[BoxData[
+ StyleBox["\<\" PRR \"\>",
+  StripOnInput->False,
+  LineColor->RGBColor[0, 0, 1],
+  FrontFaceColor->RGBColor[0, 0, 1],
+  BackFaceColor->RGBColor[0, 0, 1],
+  GraphicsColor->RGBColor[0, 0, 1],
+  Antialiasing->True,
+  FontFamily->"Arial Bold",
+  FontSize->18,
+  FontWeight->Bold,
+  FontColor->RGBColor[0, 0, 1],
+  Background->RGBColor[0.85, 0.85, 0.85]]], "Print",
+ CellChangeTimes->{{3.817270939970263*^9, 3.81727097054611*^9}, 
+   3.8172710736590023`*^9},
+ CellLabel->
+  "During evaluation of \
+In[166]:=",ExpressionUUID->"c971d70b-a9dd-42ee-b76d-8d43c67d72ea"],
+
+Cell[BoxData["\<\"prr.png\"\>"], "Output",
+ CellChangeTimes->{{3.806734727067333*^9, 3.806734739586668*^9}, 
+   3.817267532093363*^9, 3.817267588942232*^9, {3.817267673434196*^9, 
+   3.817267702937801*^9}, 3.8172681020110073`*^9, {3.8172681362379427`*^9, 
+   3.817268191211123*^9}, {3.817268341639307*^9, 3.817268392161322*^9}, {
+   3.8172684445535088`*^9, 3.817268450143674*^9}, 3.817270257312171*^9, {
+   3.817270940153249*^9, 3.81727097073131*^9}, 3.8172710738468857`*^9},
+ CellLabel->
+  "Out[166]=",ExpressionUUID->"70f0e110-5760-4b76-bee8-94b6d41d8eec"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"MakeLabel", "[", 
+  RowBox[{"{", 
+   RowBox[{"\"\<NRP\>\"", ",", 
+    RowBox[{"Darker", "[", 
+     RowBox[{"Red", ",", ".3"}], "]"}], ",", "Yellow"}], "}"}], 
+  "]"}]], "Input",
+ CellChangeTimes->{{3.817267389963529*^9, 3.817267393198976*^9}, 
+   3.817270253541587*^9, {3.817270474009926*^9, 3.8172704869480352`*^9}, {
+   3.8172705292762613`*^9, 3.817270529410128*^9}},
+ CellLabel->
+  "In[167]:=",ExpressionUUID->"6e22b29f-3f0e-4062-ad45-6f9d7fcb7f0a"],
+
+Cell[BoxData[
+ StyleBox["\<\" NRP \"\>",
+  StripOnInput->False,
+  LineColor->RGBColor[0.7, 0., 0.],
+  FrontFaceColor->RGBColor[0.7, 0., 0.],
+  BackFaceColor->RGBColor[0.7, 0., 0.],
+  GraphicsColor->RGBColor[0.7, 0., 0.],
+  Antialiasing->True,
+  FontFamily->"Arial Bold",
+  FontSize->18,
+  FontWeight->Bold,
+  FontColor->RGBColor[0.7, 0., 0.],
+  Background->RGBColor[1., 1., 0.85]]], "Print",
+ CellChangeTimes->{3.817270530067885*^9, 3.817271073854089*^9},
+ CellLabel->
+  "During evaluation of \
+In[167]:=",ExpressionUUID->"f72d3d47-274b-4927-8e2d-3477a3bf2e84"],
+
+Cell[BoxData["\<\"nrp.png\"\>"], "Output",
+ CellChangeTimes->{
+  3.817267589202948*^9, {3.817267673679091*^9, 3.817267703103651*^9}, 
+   3.817267796394979*^9, 3.817268102175365*^9, {3.817268136409157*^9, 
+   3.8172681503620234`*^9}, 3.817268460198248*^9, 3.8172702663701468`*^9, {
+   3.817270302673574*^9, 3.817270317624755*^9}, {3.8172703969635897`*^9, 
+   3.8172704115286407`*^9}, 3.817270475384366*^9, 3.817270530100485*^9, 
+   3.8172710740058327`*^9},
+ CellLabel->
+  "Out[167]=",ExpressionUUID->"cad31e55-a534-4a36-8f88-f1f9e56d5b2b"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"MakeLabel", "[", 
+  RowBox[{"{", 
+   RowBox[{"\"\<ADM\>\"", ",", 
+    RowBox[{"Darker", "[", 
+     RowBox[{"Yellow", ",", ".5"}], "]"}], ",", "Yellow"}], "}"}], 
+  "]"}]], "Input",
+ CellChangeTimes->{{3.779179647789109*^9, 3.779179687236558*^9}, {
+   3.7801184413822317`*^9, 3.780118442018696*^9}, {3.8172675809792843`*^9, 
+   3.8172675822705*^9}, {3.817267844135271*^9, 3.817267880027465*^9}, 
+   3.817270253545566*^9},
+ CellLabel->
+  "In[168]:=",ExpressionUUID->"6e95e1ec-581c-4457-b876-952550d38d07"],
+
+Cell[BoxData[
+ StyleBox["\<\" ADM \"\>",
+  StripOnInput->False,
+  LineColor->RGBColor[0.5, 0.5, 0.],
+  FrontFaceColor->RGBColor[0.5, 0.5, 0.],
+  BackFaceColor->RGBColor[0.5, 0.5, 0.],
+  GraphicsColor->RGBColor[0.5, 0.5, 0.],
+  Antialiasing->True,
+  FontFamily->"Arial Bold",
+  FontSize->18,
+  FontWeight->Bold,
+  FontColor->RGBColor[0.5, 0.5, 0.],
+  Background->RGBColor[1., 1., 0.85]]], "Print",
+ CellChangeTimes->{
+  3.8172706030295343`*^9, {3.8172708820792437`*^9, 3.817270933861711*^9}, {
+   3.817271013104732*^9, 3.817271074012298*^9}},
+ CellLabel->
+  "During evaluation of \
+In[168]:=",ExpressionUUID->"cbd738ba-4606-4af2-b872-817b3a0cb3fc"],
+
+Cell[BoxData["\<\"adm.png\"\>"], "Output",
+ CellChangeTimes->{
+  3.817270603053749*^9, {3.817270882179103*^9, 3.817270934037425*^9}, {
+   3.817271013297803*^9, 3.8172710741664867`*^9}},
+ CellLabel->
+  "Out[168]=",ExpressionUUID->"62cb1feb-ab50-483a-8acc-4617630167da"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"MakeLabel", "[", 
+  RowBox[{"{", 
+   RowBox[{"\"\<COM\>\"", ",", 
+    RowBox[{"Darker", "[", 
+     RowBox[{"Red", ",", ".2"}], "]"}]}], "}"}], "]"}]], "Input",
+ CellChangeTimes->{{3.779430108831676*^9, 3.7794301305712843`*^9}, 
+   3.817270253549245*^9},
+ CellLabel->
+  "In[169]:=",ExpressionUUID->"de0cd2c1-07e0-474b-beb3-54962bd828bb"],
+
+Cell[BoxData[
+ StyleBox["\<\" COM \"\>",
+  StripOnInput->False,
+  LineColor->RGBColor[0.8, 0., 0.],
+  FrontFaceColor->RGBColor[0.8, 0., 0.],
+  BackFaceColor->RGBColor[0.8, 0., 0.],
+  GraphicsColor->RGBColor[0.8, 0., 0.],
+  Antialiasing->True,
+  FontFamily->"Arial Bold",
+  FontSize->18,
+  FontWeight->Bold,
+  FontColor->RGBColor[0.8, 0., 0.],
+  Background->RGBColor[0.85, 0.85, 0.85]]], "Print",
+ CellChangeTimes->{
+  3.779430130988839*^9, 3.817267589503792*^9, {3.8172676740517893`*^9, 
+   3.8172677033409567`*^9}, 3.817268102458549*^9, {3.817268136691226*^9, 
+   3.817268150656733*^9}, 3.81727107417421*^9},
+ CellLabel->
+  "During evaluation of \
+In[169]:=",ExpressionUUID->"1f338575-d103-43b1-bde2-f540d06d166e"],
+
+Cell[BoxData["\<\"com.png\"\>"], "Output",
+ CellChangeTimes->{
+  3.779430131670627*^9, 3.817267589759115*^9, {3.8172676742038727`*^9, 
+   3.817267703495619*^9}, 3.817268102672874*^9, {3.817268136996464*^9, 
+   3.81726815082528*^9}, 3.817271074347583*^9},
+ CellLabel->
+  "Out[169]=",ExpressionUUID->"769d91ad-f044-44c8-abd7-4279cc83ca6a"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"MakeLabel", "[", 
+  RowBox[{"{", 
+   RowBox[{"\"\<MP4\>\"", ",", "Purple"}], "}"}], "]"}]], "Input",
+ CellChangeTimes->{{3.714116798468959*^9, 3.714116808819763*^9}, 
+   3.817270253553111*^9},
+ CellLabel->
+  "In[170]:=",ExpressionUUID->"27af561f-c13e-42e7-ae11-8dfbf86b75ad"],
+
+Cell[BoxData[
+ StyleBox["\<\" MP4 \"\>",
+  StripOnInput->False,
+  LineColor->RGBColor[0.5, 0, 0.5],
+  FrontFaceColor->RGBColor[0.5, 0, 0.5],
+  BackFaceColor->RGBColor[0.5, 0, 0.5],
+  GraphicsColor->RGBColor[0.5, 0, 0.5],
+  Antialiasing->True,
+  FontFamily->"Arial Bold",
+  FontSize->18,
+  FontWeight->Bold,
+  FontColor->RGBColor[0.5, 0, 0.5],
+  Background->RGBColor[0.85, 0.85, 0.85]]], "Print",
+ CellChangeTimes->{{3.714116799894945*^9, 3.714116809094829*^9}, 
+   3.8172675898249702`*^9, {3.817267674210445*^9, 3.8172677035029716`*^9}, 
+   3.817268102686837*^9, {3.817268137004497*^9, 3.8172681508358097`*^9}, 
+   3.817271074359272*^9},
+ CellLabel->
+  "During evaluation of \
+In[170]:=",ExpressionUUID->"2f5dd52a-854d-4255-9cc6-676bd50856c0"],
+
+Cell[BoxData["\<\"mp4.png\"\>"], "Output",
+ CellChangeTimes->{{3.714116800373314*^9, 3.71411680922892*^9}, 
+   3.817267590010367*^9, {3.817267674455881*^9, 3.817267703747548*^9}, 
+   3.8172681029285097`*^9, {3.8172681372075233`*^9, 3.817268151068022*^9}, 
+   3.817271074516644*^9},
+ CellLabel->
+  "Out[170]=",ExpressionUUID->"cdb3f752-accf-427a-97e2-e00ae52f33f9"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"MakeLabel", "[", 
+  RowBox[{"{", 
+   RowBox[{"\"\<.nb\>\"", ",", "Red"}], "}"}], "]"}]], "Input",
+ CellChangeTimes->{{3.713449306664349*^9, 3.713449323575824*^9}, 
+   3.8172702535564537`*^9},
+ CellLabel->
+  "In[171]:=",ExpressionUUID->"11ff68ff-c7d7-4608-9a33-20e0202d9bc8"],
+
+Cell[BoxData[
+ StyleBox["\<\" .nb \"\>",
+  StripOnInput->False,
+  LineColor->RGBColor[1, 0, 0],
+  FrontFaceColor->RGBColor[1, 0, 0],
+  BackFaceColor->RGBColor[1, 0, 0],
+  GraphicsColor->RGBColor[1, 0, 0],
+  Antialiasing->True,
+  FontFamily->"Arial Bold",
+  FontSize->18,
+  FontWeight->Bold,
+  FontColor->RGBColor[1, 0, 0],
+  Background->RGBColor[0.85, 0.85, 0.85]]], "Print",
+ CellChangeTimes->{{3.713449312065771*^9, 3.713449323988535*^9}, 
+   3.8172675900232573`*^9, {3.817267674525292*^9, 3.817267703798049*^9}, 
+   3.8172681030926647`*^9, {3.817268137286025*^9, 3.8172681512097*^9}, 
+   3.817271074581192*^9},
+ CellLabel->
+  "During evaluation of \
+In[171]:=",ExpressionUUID->"7a561d4d-29eb-492e-84c2-bad38f72f0cf"],
+
+Cell[BoxData["\<\".nb.png\"\>"], "Output",
+ CellChangeTimes->{{3.7134493140876293`*^9, 3.713449324165291*^9}, 
+   3.81726759017358*^9, {3.817267674693468*^9, 3.817267703932578*^9}, 
+   3.8172681032960587`*^9, {3.8172681374113817`*^9, 3.817268151347598*^9}, 
+   3.817271074729579*^9},
+ CellLabel->
+  "Out[171]=",ExpressionUUID->"eeea919c-7425-47eb-9932-a84b05fc7d15"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"MakeLabel", "[", 
+  RowBox[{"{", 
+   RowBox[{"\"\<RSEF\>\"", ",", "Gray"}], "}"}], "]"}]], "Input",
+ CellChangeTimes->{{3.691497473538827*^9, 3.691497481491247*^9}, 
+   3.817270253559791*^9},
+ CellLabel->
+  "In[172]:=",ExpressionUUID->"975e0ace-c8f6-4955-b168-749d09a3ecca"],
+
+Cell[BoxData[
+ StyleBox["\<\" RSEF \"\>",
+  StripOnInput->False,
+  LineColor->GrayLevel[0.5],
+  FrontFaceColor->GrayLevel[0.5],
+  BackFaceColor->GrayLevel[0.5],
+  GraphicsColor->GrayLevel[0.5],
+  Antialiasing->True,
+  FontFamily->"Arial Bold",
+  FontSize->18,
+  FontWeight->Bold,
+  FontColor->GrayLevel[0.5],
+  Background->RGBColor[0.85, 0.85, 0.85]]], "Print",
+ CellChangeTimes->{
+  3.691497481962833*^9, 3.817267590178958*^9, {3.817267674700667*^9, 
+   3.81726770393999*^9}, 3.817268103302102*^9, {3.81726813741897*^9, 
+   3.817268151353992*^9}, 3.817271074735559*^9},
+ CellLabel->
+  "During evaluation of \
+In[172]:=",ExpressionUUID->"44e19f6f-4165-4325-897c-30973565e7d7"],
+
+Cell[BoxData["\<\"rsef.png\"\>"], "Output",
+ CellChangeTimes->{
+  3.69149748357763*^9, 3.81726759031171*^9, {3.817267674873385*^9, 
+   3.8172677040884323`*^9}, 3.8172681035059137`*^9, {3.817268137580118*^9, 
+   3.8172681515017633`*^9}, 3.817271074948229*^9},
+ CellLabel->
+  "Out[172]=",ExpressionUUID->"90e4a4e8-610c-4c79-9852-7c0da292d26e"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"MakeLabel", "[", 
+  RowBox[{"{", 
+   RowBox[{"\"\<2DM\>\"", ",", 
+    RowBox[{"Darker", "@", 
+     RowBox[{"Darker", "@", "Green"}]}]}], "}"}], "]"}]], "Input",
+ CellChangeTimes->{{3.6901036811520042`*^9, 3.6901036969677887`*^9}, 
+   3.817270253580635*^9},
+ CellLabel->
+  "In[183]:=",ExpressionUUID->"ba569cf9-256a-4a82-8063-2875b720e498"],
+
+Cell[BoxData[
+ StyleBox["\<\" 2DM \"\>",
+  StripOnInput->False,
+  LineColor->RGBColor[0, 
+    Rational[4, 9], 0],
+  FrontFaceColor->RGBColor[0, 
+    Rational[4, 9], 0],
+  BackFaceColor->RGBColor[0, 
+    Rational[4, 9], 0],
+  GraphicsColor->RGBColor[0, 
+    Rational[4, 9], 0],
+  Antialiasing->True,
+  FontFamily->"Arial Bold",
+  FontSize->18,
+  FontWeight->Bold,
+  FontColor->RGBColor[0, 
+    Rational[4, 9], 0],
+  Background->RGBColor[0.85, 0.85, 0.85]]], "Print",
+ CellChangeTimes->{{3.69010369318452*^9, 3.690103697560923*^9}, 
+   3.817267363055685*^9, 3.817267593928335*^9, {3.817267678739647*^9, 
+   3.817267707610544*^9}, {3.81726814139193*^9, 3.817268155577759*^9}, 
+   3.817271078966648*^9},
+ CellLabel->
+  "During evaluation of \
+In[183]:=",ExpressionUUID->"94c874b7-da8f-475b-beea-9ec7154d8db7"],
+
+Cell[BoxData["\<\"2dm.png\"\>"], "Output",
+ CellChangeTimes->{{3.690103693864175*^9, 3.690103697761135*^9}, 
+   3.817267363205496*^9, 3.8172675940793667`*^9, {3.81726767889825*^9, 
+   3.817267707813006*^9}, {3.817268141549197*^9, 3.81726815579394*^9}, 
+   3.8172710791313677`*^9},
+ CellLabel->
+  "Out[183]=",ExpressionUUID->"d991d41a-26cc-4609-928a-d5a9f36a1261"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[{
+ RowBox[{"MakeLabel", "[", 
+  RowBox[{"{", 
+   RowBox[{"\"\<PRX\>\"", ",", "Purple", ",", "Yellow"}], "}"}], 
+  "]"}], "\[IndentingNewLine]", 
+ RowBox[{"MakeLabel", "[", 
+  RowBox[{"{", 
+   RowBox[{"\"\<NAT\>\"", ",", 
+    RowBox[{"Darker", "[", 
+     RowBox[{"Red", ",", ".3"}], "]"}], ",", "Yellow"}], "}"}], 
+  "]"}]}], "Input",
+ CellChangeTimes->{{3.654948135202086*^9, 3.6549481579125967`*^9}, {
+  3.654948366719214*^9, 3.6549483801657743`*^9}, {3.6549486201904287`*^9, 
+  3.654948650444723*^9}, {3.6549487224547443`*^9, 3.6549487279246273`*^9}, {
+  3.654948775410554*^9, 3.654948777954377*^9}, {3.8172702535632553`*^9, 
+  3.8172702535651197`*^9}},
+ CellLabel->
+  "In[173]:=",ExpressionUUID->"45029b0a-8ded-4d72-b71e-de48d8c37fd1"],
+
+Cell[BoxData[
+ StyleBox["\<\" PRX \"\>",
+  StripOnInput->False,
+  LineColor->RGBColor[0.5, 0, 0.5],
+  FrontFaceColor->RGBColor[0.5, 0, 0.5],
+  BackFaceColor->RGBColor[0.5, 0, 0.5],
+  GraphicsColor->RGBColor[0.5, 0, 0.5],
+  Antialiasing->True,
+  FontFamily->"Arial Bold",
+  FontSize->18,
+  FontWeight->Bold,
+  FontColor->RGBColor[0.5, 0, 0.5],
+  Background->RGBColor[1., 1., 0.85]]], "Print",
+ CellChangeTimes->{{3.654948135804109*^9, 3.65494820515606*^9}, {
+   3.6549483672243567`*^9, 3.654948422816884*^9}, 3.654948499966703*^9, 
+   3.654948531687731*^9, {3.654948612504786*^9, 3.654948620736988*^9}, {
+   3.65494865116234*^9, 3.654948728411384*^9}, 3.6549487783308783`*^9, 
+   3.8172675903172293`*^9, {3.81726767488039*^9, 3.817267704096146*^9}, 
+   3.817268103515181*^9, {3.8172681375879517`*^9, 3.81726815152256*^9}, 
+   3.817271074955452*^9},
+ CellLabel->
+  "During evaluation of \
+In[173]:=",ExpressionUUID->"566793a4-4524-4ded-ac33-7160998387c4"],
+
+Cell[BoxData["\<\"prx.png\"\>"], "Output",
+ CellChangeTimes->{{3.654948136056942*^9, 3.654948205392437*^9}, {
+   3.6549483674643517`*^9, 3.65494842306612*^9}, 3.654948500221595*^9, 
+   3.6549485319321823`*^9, {3.654948612744752*^9, 3.65494862099291*^9}, {
+   3.654948651411611*^9, 3.6549487286651087`*^9}, 3.654948778587694*^9, 
+   3.817267590447776*^9, {3.817267675089275*^9, 3.817267704243422*^9}, 
+   3.817268103850809*^9, {3.817268137755094*^9, 3.817268151718215*^9}, 
+   3.8172710751111298`*^9},
+ CellLabel->
+  "Out[173]=",ExpressionUUID->"24ca0d78-10f8-48f3-9127-ae9afd7b2f34"],
+
+Cell[BoxData[
+ StyleBox["\<\" NAT \"\>",
+  StripOnInput->False,
+  LineColor->RGBColor[0.7, 0., 0.],
+  FrontFaceColor->RGBColor[0.7, 0., 0.],
+  BackFaceColor->RGBColor[0.7, 0., 0.],
+  GraphicsColor->RGBColor[0.7, 0., 0.],
+  Antialiasing->True,
+  FontFamily->"Arial Bold",
+  FontSize->18,
+  FontWeight->Bold,
+  FontColor->RGBColor[0.7, 0., 0.],
+  Background->RGBColor[1., 1., 0.85]]], "Print",
+ CellChangeTimes->{{3.654948135804109*^9, 3.65494820515606*^9}, {
+   3.6549483672243567`*^9, 3.654948422816884*^9}, 3.654948499966703*^9, 
+   3.654948531687731*^9, {3.654948612504786*^9, 3.654948620736988*^9}, {
+   3.65494865116234*^9, 3.654948728411384*^9}, 3.6549487783308783`*^9, 
+   3.8172675903172293`*^9, {3.81726767488039*^9, 3.817267704096146*^9}, 
+   3.817268103515181*^9, {3.8172681375879517`*^9, 3.81726815152256*^9}, 
+   3.817271075114085*^9},
+ CellLabel->
+  "During evaluation of \
+In[173]:=",ExpressionUUID->"6a5a6dc4-e2fa-4cf6-addd-db51c2e807f2"],
+
+Cell[BoxData["\<\"nat.png\"\>"], "Output",
+ CellChangeTimes->{{3.654948136056942*^9, 3.654948205392437*^9}, {
+   3.6549483674643517`*^9, 3.65494842306612*^9}, 3.654948500221595*^9, 
+   3.6549485319321823`*^9, {3.654948612744752*^9, 3.65494862099291*^9}, {
+   3.654948651411611*^9, 3.6549487286651087`*^9}, 3.654948778587694*^9, 
+   3.817267590447776*^9, {3.817267675089275*^9, 3.817267704243422*^9}, 
+   3.817268103850809*^9, {3.817268137755094*^9, 3.817268151718215*^9}, 
+   3.8172710752721663`*^9},
+ CellLabel->
+  "Out[174]=",ExpressionUUID->"dbd9f59b-bc7d-48f8-a78c-3e61898819d8"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{" ", 
+  RowBox[{"MakeLabel", "[", 
+   RowBox[{"{", 
+    RowBox[{"\"\<SR\>\"", ",", "Orange"}], "}"}], "]"}]}]], "Input",
+ CellChangeTimes->{
+  3.6549487071990137`*^9, {3.662704532805313*^9, 3.662704567610135*^9}, 
+   3.817270253567728*^9},
+ CellLabel->
+  "In[175]:=",ExpressionUUID->"36a8b756-6f41-41e2-8af2-490b79f94e90"],
+
+Cell[BoxData[
+ StyleBox["\<\" SR \"\>",
+  StripOnInput->False,
+  LineColor->RGBColor[1, 0.5, 0],
+  FrontFaceColor->RGBColor[1, 0.5, 0],
+  BackFaceColor->RGBColor[1, 0.5, 0],
+  GraphicsColor->RGBColor[1, 0.5, 0],
+  Antialiasing->True,
+  FontFamily->"Arial Bold",
+  FontSize->18,
+  FontWeight->Bold,
+  FontColor->RGBColor[1, 0.5, 0],
+  Background->RGBColor[0.85, 0.85, 0.85]]], "Print",
+ CellChangeTimes->{
+  3.662704568585629*^9, 3.817267590595969*^9, {3.817267675252296*^9, 
+   3.817267704426355*^9}, 3.8172681040604753`*^9, {3.817268137924117*^9, 
+   3.817268151905024*^9}, 3.817271075279439*^9},
+ CellLabel->
+  "During evaluation of \
+In[175]:=",ExpressionUUID->"181dc125-9414-4196-8179-ec043829c0f2"],
+
+Cell[BoxData["\<\"sr.png\"\>"], "Output",
+ CellChangeTimes->{
+  3.6627045689635687`*^9, 3.817267590740561*^9, {3.8172676753900223`*^9, 
+   3.817267704587513*^9}, 3.817268104230507*^9, {3.8172681380821037`*^9, 
+   3.8172681520634623`*^9}, 3.817271075447619*^9},
+ CellLabel->
+  "Out[175]=",ExpressionUUID->"f20ee143-ad9d-452d-992d-3c701fdfc5bc"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"MakeLabel", "[", 
+  RowBox[{"{", 
+   RowBox[{"\"\<PR\>\"", ",", 
+    RowBox[{"Darker", "@", "Green"}], ",", "Yellow"}], "}"}], "]"}]], "Input",\
+
+ CellChangeTimes->{{3.662704587178034*^9, 3.6627045915368853`*^9}, {
+   3.662704859564951*^9, 3.6627048614917307`*^9}, 3.8172702535703278`*^9},
+ CellLabel->
+  "In[176]:=",ExpressionUUID->"a32d5998-da15-46d9-ba26-1b0fc132dbbd"],
+
+Cell[BoxData[
+ StyleBox["\<\" PR \"\>",
+  StripOnInput->False,
+  LineColor->RGBColor[0, 
+    Rational[2, 3], 0],
+  FrontFaceColor->RGBColor[0, 
+    Rational[2, 3], 0],
+  BackFaceColor->RGBColor[0, 
+    Rational[2, 3], 0],
+  GraphicsColor->RGBColor[0, 
+    Rational[2, 3], 0],
+  Antialiasing->True,
+  FontFamily->"Arial Bold",
+  FontSize->18,
+  FontWeight->Bold,
+  FontColor->RGBColor[0, 
+    Rational[2, 3], 0],
+  Background->RGBColor[1., 1., 0.85]]], "Print",
+ CellChangeTimes->{
+  3.6627045920809193`*^9, 3.662704861951676*^9, 3.817267590747829*^9, {
+   3.817267675396838*^9, 3.817267704594121*^9}, 3.817268104249382*^9, {
+   3.817268138090557*^9, 3.817268152074079*^9}, 3.8172710754529943`*^9},
+ CellLabel->
+  "During evaluation of \
+In[176]:=",ExpressionUUID->"ae4fbfc1-47dd-4a8f-992c-c0643e1801b6"],
+
+Cell[BoxData["\<\"pr.png\"\>"], "Output",
+ CellChangeTimes->{
+  3.6627045922726917`*^9, 3.662704862136235*^9, 3.817267590871599*^9, {
+   3.8172676755560923`*^9, 3.8172677047363377`*^9}, 3.8172681043813334`*^9, {
+   3.817268138220663*^9, 3.8172681522322903`*^9}, 3.817271075601633*^9},
+ CellLabel->
+  "Out[176]=",ExpressionUUID->"b041854a-d5a1-4817-8c49-551d74d4f64e"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"MakeLabel", "[", 
+  RowBox[{"{", 
+   RowBox[{"\"\<AS\>\"", ",", 
+    RowBox[{"Darker", "@", "Orange"}]}], "}"}], "]"}]], "Input",
+ CellChangeTimes->{{3.688103089304319*^9, 3.688103095364842*^9}, 
+   3.817270253573147*^9},
+ CellLabel->
+  "In[177]:=",ExpressionUUID->"6f17d002-1b2e-4ec8-8c5d-8e19078fd7d2"],
+
+Cell[BoxData[
+ StyleBox["\<\" AS \"\>",
+  StripOnInput->False,
+  LineColor->RGBColor[
+    Rational[2, 3], 0.33333333333333337`, 0],
+  FrontFaceColor->RGBColor[
+    Rational[2, 3], 0.33333333333333337`, 0],
+  BackFaceColor->RGBColor[
+    Rational[2, 3], 0.33333333333333337`, 0],
+  GraphicsColor->RGBColor[
+    Rational[2, 3], 0.33333333333333337`, 0],
+  Antialiasing->True,
+  FontFamily->"Arial Bold",
+  FontSize->18,
+  FontWeight->Bold,
+  FontColor->RGBColor[
+    Rational[2, 3], 0.33333333333333337`, 0],
+  Background->RGBColor[0.85, 0.85, 0.85]]], "Print",
+ CellChangeTimes->{
+  3.6881030957734337`*^9, 3.817267590958437*^9, {3.8172676756665497`*^9, 
+   3.8172677047426977`*^9}, 3.817268104431237*^9, {3.8172681382282133`*^9, 
+   3.817268152289689*^9}, 3.8172710756732273`*^9},
+ CellLabel->
+  "During evaluation of \
+In[177]:=",ExpressionUUID->"6f790a10-2204-4c4e-a706-7ba1e3509797"],
+
+Cell[BoxData["\<\"as.png\"\>"], "Output",
+ CellChangeTimes->{
+  3.6881030976074953`*^9, 3.817267591127678*^9, {3.817267675810689*^9, 
+   3.817267704884739*^9}, 3.8172681045641527`*^9, {3.817268138371636*^9, 
+   3.8172681524340487`*^9}, 3.81727107584371*^9},
+ CellLabel->
+  "Out[177]=",ExpressionUUID->"9416cd4f-429c-48e4-ba42-39e22da75ffa"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"MakeLabel", "/@", 
+  RowBox[{"{", 
+   RowBox[{
+    RowBox[{"{", 
+     RowBox[{"\"\<PRL\>\"", ",", 
+      RowBox[{"Darker", "@", "Red"}]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"\"\<PRB\>\"", ",", 
+      RowBox[{"Darker", "@", "Blue"}]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"\"\<NJP\>\"", ",", "Purple"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"\"\<PE\>\"", ",", 
+      RowBox[{"Darker", "@", "Yellow"}]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"\"\<EPJB\>\"", ",", 
+      RowBox[{"Darker", "@", 
+       RowBox[{"Darker", "@", "Green"}]}]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"\"\<arXiv\>\"", ",", "Black"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"\"\<SSC\>\"", ",", 
+      RowBox[{"Darker", "@", 
+       RowBox[{"Darker", "@", "Cyan"}]}]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"\"\<APL\>\"", ",", 
+      RowBox[{"Darker", "@", "Orange"}]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"\"\<KEY\>\"", ",", "Orange"}], "}"}], ",", " ", 
+    RowBox[{"{", 
+     RowBox[{"\"\<PDF\>\"", ",", 
+      RowBox[{"Darker", "@", "Red"}]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"\"\<NL\>\"", ",", 
+      RowBox[{"Darker", "@", 
+       RowBox[{"Darker", "@", "Yellow"}]}]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"\"\<PRX\>\"", ",", "Purple", ",", "Yellow"}], "}"}], ",", 
+    "\[IndentingNewLine]", 
+    RowBox[{"{", 
+     RowBox[{"\"\<NAT\>\"", ",", 
+      RowBox[{"Darker", "[", 
+       RowBox[{"Red", ",", ".3"}], "]"}], ",", "Yellow"}], "}"}]}], 
+   "}"}]}]], "Input",
+ CellChangeTimes->{{3.654946770701722*^9, 3.654946776620163*^9}, {
+   3.654947266315956*^9, 3.6549472729239817`*^9}, {3.654947462798397*^9, 
+   3.654947477457858*^9}, {3.654947522552846*^9, 3.654947555122631*^9}, {
+   3.654947903993513*^9, 3.654947984622469*^9}, {3.654948229624968*^9, 
+   3.654948241225431*^9}, {3.654948388049911*^9, 3.6549483897613783`*^9}, {
+   3.654948604796022*^9, 3.654948608558799*^9}, 3.817270253577404*^9},
+ CellLabel->
+  "In[178]:=",ExpressionUUID->"935e2335-4d69-450c-ac59-6f7aee532f42"],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ StyleBox["\<\" PRL \"\>",
+  StripOnInput->False,
+  LineColor->RGBColor[
+    Rational[2, 3], 0, 0],
+  FrontFaceColor->RGBColor[
+    Rational[2, 3], 0, 0],
+  BackFaceColor->RGBColor[
+    Rational[2, 3], 0, 0],
+  GraphicsColor->RGBColor[
+    Rational[2, 3], 0, 0],
+  Antialiasing->True,
+  FontFamily->"Arial Bold",
+  FontSize->18,
+  FontWeight->Bold,
+  FontColor->RGBColor[
+    Rational[2, 3], 0, 0],
+  Background->RGBColor[0.85, 0.85, 0.85]]], "Print",
+ CellChangeTimes->{
+  3.558156665930122*^9, 3.558156731244676*^9, 3.5581569190322123`*^9, 
+   3.5581582442852287`*^9, {3.558158280711844*^9, 3.558158287679162*^9}, 
+   3.558158363172884*^9, {3.558158395821336*^9, 3.558158414513187*^9}, {
+   3.5581585197914248`*^9, 3.558158534850239*^9}, 3.5835827013385897`*^9, {
+   3.6030181806311283`*^9, 3.603018202930386*^9}, 3.604900298694193*^9, {
+   3.6049023467792587`*^9, 3.604902381046781*^9}, {3.6049024153647614`*^9, 
+   3.604902432349434*^9}, {3.654947266755066*^9, 3.654947273562913*^9}, 
+   3.6549474777201767`*^9, {3.654947515280013*^9, 3.654947555883209*^9}, 
+   3.654947906109728*^9, {3.6549479457904053`*^9, 3.654947985925764*^9}, {
+   3.654948219554892*^9, 3.6549482420963163`*^9}, 3.654948292307658*^9, 
+   3.654948424733945*^9, 3.6549485057296247`*^9, 3.6549486091554947`*^9, 
+   3.8172673150817842`*^9, 3.817267591194174*^9, {3.817267675819356*^9, 
+   3.817267704982071*^9}, 3.81726810457055*^9, {3.817268138461588*^9, 
+   3.817268152440984*^9}, 3.8172710758655977`*^9},
+ CellLabel->
+  "During evaluation of \
+In[178]:=",ExpressionUUID->"e2601ec9-83ff-439e-9f9f-363e372ad6ea"],
+
+Cell[BoxData[
+ StyleBox["\<\" PRB \"\>",
+  StripOnInput->False,
+  LineColor->RGBColor[0, 0, 
+    Rational[2, 3]],
+  FrontFaceColor->RGBColor[0, 0, 
+    Rational[2, 3]],
+  BackFaceColor->RGBColor[0, 0, 
+    Rational[2, 3]],
+  GraphicsColor->RGBColor[0, 0, 
+    Rational[2, 3]],
+  Antialiasing->True,
+  FontFamily->"Arial Bold",
+  FontSize->18,
+  FontWeight->Bold,
+  FontColor->RGBColor[0, 0, 
+    Rational[2, 3]],
+  Background->RGBColor[0.85, 0.85, 0.85]]], "Print",
+ CellChangeTimes->{
+  3.558156665930122*^9, 3.558156731244676*^9, 3.5581569190322123`*^9, 
+   3.5581582442852287`*^9, {3.558158280711844*^9, 3.558158287679162*^9}, 
+   3.558158363172884*^9, {3.558158395821336*^9, 3.558158414513187*^9}, {
+   3.5581585197914248`*^9, 3.558158534850239*^9}, 3.5835827013385897`*^9, {
+   3.6030181806311283`*^9, 3.603018202930386*^9}, 3.604900298694193*^9, {
+   3.6049023467792587`*^9, 3.604902381046781*^9}, {3.6049024153647614`*^9, 
+   3.604902432349434*^9}, {3.654947266755066*^9, 3.654947273562913*^9}, 
+   3.6549474777201767`*^9, {3.654947515280013*^9, 3.654947555883209*^9}, 
+   3.654947906109728*^9, {3.6549479457904053`*^9, 3.654947985925764*^9}, {
+   3.654948219554892*^9, 3.6549482420963163`*^9}, 3.654948292307658*^9, 
+   3.654948424733945*^9, 3.6549485057296247`*^9, 3.6549486091554947`*^9, 
+   3.8172673150817842`*^9, 3.817267591194174*^9, {3.817267675819356*^9, 
+   3.817267704982071*^9}, 3.81726810457055*^9, {3.817268138461588*^9, 
+   3.817268152440984*^9}, 3.817271076065675*^9},
+ CellLabel->
+  "During evaluation of \
+In[178]:=",ExpressionUUID->"76af3056-9ee3-4188-9484-9f9e4f530bb4"],
+
+Cell[BoxData[
+ StyleBox["\<\" NJP \"\>",
+  StripOnInput->False,
+  LineColor->RGBColor[0.5, 0, 0.5],
+  FrontFaceColor->RGBColor[0.5, 0, 0.5],
+  BackFaceColor->RGBColor[0.5, 0, 0.5],
+  GraphicsColor->RGBColor[0.5, 0, 0.5],
+  Antialiasing->True,
+  FontFamily->"Arial Bold",
+  FontSize->18,
+  FontWeight->Bold,
+  FontColor->RGBColor[0.5, 0, 0.5],
+  Background->RGBColor[0.85, 0.85, 0.85]]], "Print",
+ CellChangeTimes->{
+  3.558156665930122*^9, 3.558156731244676*^9, 3.5581569190322123`*^9, 
+   3.5581582442852287`*^9, {3.558158280711844*^9, 3.558158287679162*^9}, 
+   3.558158363172884*^9, {3.558158395821336*^9, 3.558158414513187*^9}, {
+   3.5581585197914248`*^9, 3.558158534850239*^9}, 3.5835827013385897`*^9, {
+   3.6030181806311283`*^9, 3.603018202930386*^9}, 3.604900298694193*^9, {
+   3.6049023467792587`*^9, 3.604902381046781*^9}, {3.6049024153647614`*^9, 
+   3.604902432349434*^9}, {3.654947266755066*^9, 3.654947273562913*^9}, 
+   3.6549474777201767`*^9, {3.654947515280013*^9, 3.654947555883209*^9}, 
+   3.654947906109728*^9, {3.6549479457904053`*^9, 3.654947985925764*^9}, {
+   3.654948219554892*^9, 3.6549482420963163`*^9}, 3.654948292307658*^9, 
+   3.654948424733945*^9, 3.6549485057296247`*^9, 3.6549486091554947`*^9, 
+   3.8172673150817842`*^9, 3.817267591194174*^9, {3.817267675819356*^9, 
+   3.817267704982071*^9}, 3.81726810457055*^9, {3.817268138461588*^9, 
+   3.817268152440984*^9}, 3.817271076249819*^9},
+ CellLabel->
+  "During evaluation of \
+In[178]:=",ExpressionUUID->"f96c3437-8cb8-4035-9553-667548f6267f"],
+
+Cell[BoxData[
+ StyleBox["\<\" PE \"\>",
+  StripOnInput->False,
+  LineColor->RGBColor[
+    Rational[2, 3], 
+    Rational[2, 3], 0],
+  FrontFaceColor->RGBColor[
+    Rational[2, 3], 
+    Rational[2, 3], 0],
+  BackFaceColor->RGBColor[
+    Rational[2, 3], 
+    Rational[2, 3], 0],
+  GraphicsColor->RGBColor[
+    Rational[2, 3], 
+    Rational[2, 3], 0],
+  Antialiasing->True,
+  FontFamily->"Arial Bold",
+  FontSize->18,
+  FontWeight->Bold,
+  FontColor->RGBColor[
+    Rational[2, 3], 
+    Rational[2, 3], 0],
+  Background->RGBColor[0.85, 0.85, 0.85]]], "Print",
+ CellChangeTimes->{
+  3.558156665930122*^9, 3.558156731244676*^9, 3.5581569190322123`*^9, 
+   3.5581582442852287`*^9, {3.558158280711844*^9, 3.558158287679162*^9}, 
+   3.558158363172884*^9, {3.558158395821336*^9, 3.558158414513187*^9}, {
+   3.5581585197914248`*^9, 3.558158534850239*^9}, 3.5835827013385897`*^9, {
+   3.6030181806311283`*^9, 3.603018202930386*^9}, 3.604900298694193*^9, {
+   3.6049023467792587`*^9, 3.604902381046781*^9}, {3.6049024153647614`*^9, 
+   3.604902432349434*^9}, {3.654947266755066*^9, 3.654947273562913*^9}, 
+   3.6549474777201767`*^9, {3.654947515280013*^9, 3.654947555883209*^9}, 
+   3.654947906109728*^9, {3.6549479457904053`*^9, 3.654947985925764*^9}, {
+   3.654948219554892*^9, 3.6549482420963163`*^9}, 3.654948292307658*^9, 
+   3.654948424733945*^9, 3.6549485057296247`*^9, 3.6549486091554947`*^9, 
+   3.8172673150817842`*^9, 3.817267591194174*^9, {3.817267675819356*^9, 
+   3.817267704982071*^9}, 3.81726810457055*^9, {3.817268138461588*^9, 
+   3.817268152440984*^9}, 3.817271076437046*^9},
+ CellLabel->
+  "During evaluation of \
+In[178]:=",ExpressionUUID->"25415fa2-d25e-480e-80f5-9565adc4e26a"],
+
+Cell[BoxData[
+ StyleBox["\<\" EPJB \"\>",
+  StripOnInput->False,
+  LineColor->RGBColor[0, 
+    Rational[4, 9], 0],
+  FrontFaceColor->RGBColor[0, 
+    Rational[4, 9], 0],
+  BackFaceColor->RGBColor[0, 
+    Rational[4, 9], 0],
+  GraphicsColor->RGBColor[0, 
+    Rational[4, 9], 0],
+  Antialiasing->True,
+  FontFamily->"Arial Bold",
+  FontSize->18,
+  FontWeight->Bold,
+  FontColor->RGBColor[0, 
+    Rational[4, 9], 0],
+  Background->RGBColor[0.85, 0.85, 0.85]]], "Print",
+ CellChangeTimes->{
+  3.558156665930122*^9, 3.558156731244676*^9, 3.5581569190322123`*^9, 
+   3.5581582442852287`*^9, {3.558158280711844*^9, 3.558158287679162*^9}, 
+   3.558158363172884*^9, {3.558158395821336*^9, 3.558158414513187*^9}, {
+   3.5581585197914248`*^9, 3.558158534850239*^9}, 3.5835827013385897`*^9, {
+   3.6030181806311283`*^9, 3.603018202930386*^9}, 3.604900298694193*^9, {
+   3.6049023467792587`*^9, 3.604902381046781*^9}, {3.6049024153647614`*^9, 
+   3.604902432349434*^9}, {3.654947266755066*^9, 3.654947273562913*^9}, 
+   3.6549474777201767`*^9, {3.654947515280013*^9, 3.654947555883209*^9}, 
+   3.654947906109728*^9, {3.6549479457904053`*^9, 3.654947985925764*^9}, {
+   3.654948219554892*^9, 3.6549482420963163`*^9}, 3.654948292307658*^9, 
+   3.654948424733945*^9, 3.6549485057296247`*^9, 3.6549486091554947`*^9, 
+   3.8172673150817842`*^9, 3.817267591194174*^9, {3.817267675819356*^9, 
+   3.817267704982071*^9}, 3.81726810457055*^9, {3.817268138461588*^9, 
+   3.817268152440984*^9}, 3.817271076586646*^9},
+ CellLabel->
+  "During evaluation of \
+In[178]:=",ExpressionUUID->"170bdbce-005c-421a-85d2-21d26553b0fd"],
+
+Cell[BoxData[
+ StyleBox["\<\" arXiv \"\>",
+  StripOnInput->False,
+  LineColor->GrayLevel[0],
+  FrontFaceColor->GrayLevel[0],
+  BackFaceColor->GrayLevel[0],
+  GraphicsColor->GrayLevel[0],
+  Antialiasing->True,
+  FontFamily->"Arial Bold",
+  FontSize->18,
+  FontWeight->Bold,
+  FontColor->GrayLevel[0],
+  Background->RGBColor[0.85, 0.85, 0.85]]], "Print",
+ CellChangeTimes->{
+  3.558156665930122*^9, 3.558156731244676*^9, 3.5581569190322123`*^9, 
+   3.5581582442852287`*^9, {3.558158280711844*^9, 3.558158287679162*^9}, 
+   3.558158363172884*^9, {3.558158395821336*^9, 3.558158414513187*^9}, {
+   3.5581585197914248`*^9, 3.558158534850239*^9}, 3.5835827013385897`*^9, {
+   3.6030181806311283`*^9, 3.603018202930386*^9}, 3.604900298694193*^9, {
+   3.6049023467792587`*^9, 3.604902381046781*^9}, {3.6049024153647614`*^9, 
+   3.604902432349434*^9}, {3.654947266755066*^9, 3.654947273562913*^9}, 
+   3.6549474777201767`*^9, {3.654947515280013*^9, 3.654947555883209*^9}, 
+   3.654947906109728*^9, {3.6549479457904053`*^9, 3.654947985925764*^9}, {
+   3.654948219554892*^9, 3.6549482420963163`*^9}, 3.654948292307658*^9, 
+   3.654948424733945*^9, 3.6549485057296247`*^9, 3.6549486091554947`*^9, 
+   3.8172673150817842`*^9, 3.817267591194174*^9, {3.817267675819356*^9, 
+   3.817267704982071*^9}, 3.81726810457055*^9, {3.817268138461588*^9, 
+   3.817268152440984*^9}, 3.81727107673767*^9},
+ CellLabel->
+  "During evaluation of \
+In[178]:=",ExpressionUUID->"0f04973c-1465-4023-bed3-2f1e971c3824"],
+
+Cell[BoxData[
+ StyleBox["\<\" SSC \"\>",
+  StripOnInput->False,
+  LineColor->RGBColor[0, 
+    Rational[4, 9], 
+    Rational[4, 9]],
+  FrontFaceColor->RGBColor[0, 
+    Rational[4, 9], 
+    Rational[4, 9]],
+  BackFaceColor->RGBColor[0, 
+    Rational[4, 9], 
+    Rational[4, 9]],
+  GraphicsColor->RGBColor[0, 
+    Rational[4, 9], 
+    Rational[4, 9]],
+  Antialiasing->True,
+  FontFamily->"Arial Bold",
+  FontSize->18,
+  FontWeight->Bold,
+  FontColor->RGBColor[0, 
+    Rational[4, 9], 
+    Rational[4, 9]],
+  Background->RGBColor[0.85, 0.85, 0.85]]], "Print",
+ CellChangeTimes->{
+  3.558156665930122*^9, 3.558156731244676*^9, 3.5581569190322123`*^9, 
+   3.5581582442852287`*^9, {3.558158280711844*^9, 3.558158287679162*^9}, 
+   3.558158363172884*^9, {3.558158395821336*^9, 3.558158414513187*^9}, {
+   3.5581585197914248`*^9, 3.558158534850239*^9}, 3.5835827013385897`*^9, {
+   3.6030181806311283`*^9, 3.603018202930386*^9}, 3.604900298694193*^9, {
+   3.6049023467792587`*^9, 3.604902381046781*^9}, {3.6049024153647614`*^9, 
+   3.604902432349434*^9}, {3.654947266755066*^9, 3.654947273562913*^9}, 
+   3.6549474777201767`*^9, {3.654947515280013*^9, 3.654947555883209*^9}, 
+   3.654947906109728*^9, {3.6549479457904053`*^9, 3.654947985925764*^9}, {
+   3.654948219554892*^9, 3.6549482420963163`*^9}, 3.654948292307658*^9, 
+   3.654948424733945*^9, 3.6549485057296247`*^9, 3.6549486091554947`*^9, 
+   3.8172673150817842`*^9, 3.817267591194174*^9, {3.817267675819356*^9, 
+   3.817267704982071*^9}, 3.81726810457055*^9, {3.817268138461588*^9, 
+   3.817268152440984*^9}, 3.817271076943742*^9},
+ CellLabel->
+  "During evaluation of \
+In[178]:=",ExpressionUUID->"6d828003-ebf4-4513-9cf9-9d87b27e663d"],
+
+Cell[BoxData[
+ StyleBox["\<\" APL \"\>",
+  StripOnInput->False,
+  LineColor->RGBColor[
+    Rational[2, 3], 0.33333333333333337`, 0],
+  FrontFaceColor->RGBColor[
+    Rational[2, 3], 0.33333333333333337`, 0],
+  BackFaceColor->RGBColor[
+    Rational[2, 3], 0.33333333333333337`, 0],
+  GraphicsColor->RGBColor[
+    Rational[2, 3], 0.33333333333333337`, 0],
+  Antialiasing->True,
+  FontFamily->"Arial Bold",
+  FontSize->18,
+  FontWeight->Bold,
+  FontColor->RGBColor[
+    Rational[2, 3], 0.33333333333333337`, 0],
+  Background->RGBColor[0.85, 0.85, 0.85]]], "Print",
+ CellChangeTimes->{
+  3.558156665930122*^9, 3.558156731244676*^9, 3.5581569190322123`*^9, 
+   3.5581582442852287`*^9, {3.558158280711844*^9, 3.558158287679162*^9}, 
+   3.558158363172884*^9, {3.558158395821336*^9, 3.558158414513187*^9}, {
+   3.5581585197914248`*^9, 3.558158534850239*^9}, 3.5835827013385897`*^9, {
+   3.6030181806311283`*^9, 3.603018202930386*^9}, 3.604900298694193*^9, {
+   3.6049023467792587`*^9, 3.604902381046781*^9}, {3.6049024153647614`*^9, 
+   3.604902432349434*^9}, {3.654947266755066*^9, 3.654947273562913*^9}, 
+   3.6549474777201767`*^9, {3.654947515280013*^9, 3.654947555883209*^9}, 
+   3.654947906109728*^9, {3.6549479457904053`*^9, 3.654947985925764*^9}, {
+   3.654948219554892*^9, 3.6549482420963163`*^9}, 3.654948292307658*^9, 
+   3.654948424733945*^9, 3.6549485057296247`*^9, 3.6549486091554947`*^9, 
+   3.8172673150817842`*^9, 3.817267591194174*^9, {3.817267675819356*^9, 
+   3.817267704982071*^9}, 3.81726810457055*^9, {3.817268138461588*^9, 
+   3.817268152440984*^9}, 3.817271077096232*^9},
+ CellLabel->
+  "During evaluation of \
+In[178]:=",ExpressionUUID->"fcdb4b11-1225-45bb-b478-9b7c8a66c083"],
+
+Cell[BoxData[
+ StyleBox["\<\" KEY \"\>",
+  StripOnInput->False,
+  LineColor->RGBColor[1, 0.5, 0],
+  FrontFaceColor->RGBColor[1, 0.5, 0],
+  BackFaceColor->RGBColor[1, 0.5, 0],
+  GraphicsColor->RGBColor[1, 0.5, 0],
+  Antialiasing->True,
+  FontFamily->"Arial Bold",
+  FontSize->18,
+  FontWeight->Bold,
+  FontColor->RGBColor[1, 0.5, 0],
+  Background->RGBColor[0.85, 0.85, 0.85]]], "Print",
+ CellChangeTimes->{
+  3.558156665930122*^9, 3.558156731244676*^9, 3.5581569190322123`*^9, 
+   3.5581582442852287`*^9, {3.558158280711844*^9, 3.558158287679162*^9}, 
+   3.558158363172884*^9, {3.558158395821336*^9, 3.558158414513187*^9}, {
+   3.5581585197914248`*^9, 3.558158534850239*^9}, 3.5835827013385897`*^9, {
+   3.6030181806311283`*^9, 3.603018202930386*^9}, 3.604900298694193*^9, {
+   3.6049023467792587`*^9, 3.604902381046781*^9}, {3.6049024153647614`*^9, 
+   3.604902432349434*^9}, {3.654947266755066*^9, 3.654947273562913*^9}, 
+   3.6549474777201767`*^9, {3.654947515280013*^9, 3.654947555883209*^9}, 
+   3.654947906109728*^9, {3.6549479457904053`*^9, 3.654947985925764*^9}, {
+   3.654948219554892*^9, 3.6549482420963163`*^9}, 3.654948292307658*^9, 
+   3.654948424733945*^9, 3.6549485057296247`*^9, 3.6549486091554947`*^9, 
+   3.8172673150817842`*^9, 3.817267591194174*^9, {3.817267675819356*^9, 
+   3.817267704982071*^9}, 3.81726810457055*^9, {3.817268138461588*^9, 
+   3.817268152440984*^9}, 3.817271077254521*^9},
+ CellLabel->
+  "During evaluation of \
+In[178]:=",ExpressionUUID->"a01644c1-f866-415a-97d5-88dfe28256b1"],
+
+Cell[BoxData[
+ StyleBox["\<\" PDF \"\>",
+  StripOnInput->False,
+  LineColor->RGBColor[
+    Rational[2, 3], 0, 0],
+  FrontFaceColor->RGBColor[
+    Rational[2, 3], 0, 0],
+  BackFaceColor->RGBColor[
+    Rational[2, 3], 0, 0],
+  GraphicsColor->RGBColor[
+    Rational[2, 3], 0, 0],
+  Antialiasing->True,
+  FontFamily->"Arial Bold",
+  FontSize->18,
+  FontWeight->Bold,
+  FontColor->RGBColor[
+    Rational[2, 3], 0, 0],
+  Background->RGBColor[0.85, 0.85, 0.85]]], "Print",
+ CellChangeTimes->{
+  3.558156665930122*^9, 3.558156731244676*^9, 3.5581569190322123`*^9, 
+   3.5581582442852287`*^9, {3.558158280711844*^9, 3.558158287679162*^9}, 
+   3.558158363172884*^9, {3.558158395821336*^9, 3.558158414513187*^9}, {
+   3.5581585197914248`*^9, 3.558158534850239*^9}, 3.5835827013385897`*^9, {
+   3.6030181806311283`*^9, 3.603018202930386*^9}, 3.604900298694193*^9, {
+   3.6049023467792587`*^9, 3.604902381046781*^9}, {3.6049024153647614`*^9, 
+   3.604902432349434*^9}, {3.654947266755066*^9, 3.654947273562913*^9}, 
+   3.6549474777201767`*^9, {3.654947515280013*^9, 3.654947555883209*^9}, 
+   3.654947906109728*^9, {3.6549479457904053`*^9, 3.654947985925764*^9}, {
+   3.654948219554892*^9, 3.6549482420963163`*^9}, 3.654948292307658*^9, 
+   3.654948424733945*^9, 3.6549485057296247`*^9, 3.6549486091554947`*^9, 
+   3.8172673150817842`*^9, 3.817267591194174*^9, {3.817267675819356*^9, 
+   3.817267704982071*^9}, 3.81726810457055*^9, {3.817268138461588*^9, 
+   3.817268152440984*^9}, 3.817271077431157*^9},
+ CellLabel->
+  "During evaluation of \
+In[178]:=",ExpressionUUID->"92388029-8778-4771-ac04-a1408308ab94"],
+
+Cell[BoxData[
+ StyleBox["\<\" NL \"\>",
+  StripOnInput->False,
+  LineColor->RGBColor[
+    Rational[4, 9], 
+    Rational[4, 9], 0],
+  FrontFaceColor->RGBColor[
+    Rational[4, 9], 
+    Rational[4, 9], 0],
+  BackFaceColor->RGBColor[
+    Rational[4, 9], 
+    Rational[4, 9], 0],
+  GraphicsColor->RGBColor[
+    Rational[4, 9], 
+    Rational[4, 9], 0],
+  Antialiasing->True,
+  FontFamily->"Arial Bold",
+  FontSize->18,
+  FontWeight->Bold,
+  FontColor->RGBColor[
+    Rational[4, 9], 
+    Rational[4, 9], 0],
+  Background->RGBColor[0.85, 0.85, 0.85]]], "Print",
+ CellChangeTimes->{
+  3.558156665930122*^9, 3.558156731244676*^9, 3.5581569190322123`*^9, 
+   3.5581582442852287`*^9, {3.558158280711844*^9, 3.558158287679162*^9}, 
+   3.558158363172884*^9, {3.558158395821336*^9, 3.558158414513187*^9}, {
+   3.5581585197914248`*^9, 3.558158534850239*^9}, 3.5835827013385897`*^9, {
+   3.6030181806311283`*^9, 3.603018202930386*^9}, 3.604900298694193*^9, {
+   3.6049023467792587`*^9, 3.604902381046781*^9}, {3.6049024153647614`*^9, 
+   3.604902432349434*^9}, {3.654947266755066*^9, 3.654947273562913*^9}, 
+   3.6549474777201767`*^9, {3.654947515280013*^9, 3.654947555883209*^9}, 
+   3.654947906109728*^9, {3.6549479457904053`*^9, 3.654947985925764*^9}, {
+   3.654948219554892*^9, 3.6549482420963163`*^9}, 3.654948292307658*^9, 
+   3.654948424733945*^9, 3.6549485057296247`*^9, 3.6549486091554947`*^9, 
+   3.8172673150817842`*^9, 3.817267591194174*^9, {3.817267675819356*^9, 
+   3.817267704982071*^9}, 3.81726810457055*^9, {3.817268138461588*^9, 
+   3.817268152440984*^9}, 3.81727107761548*^9},
+ CellLabel->
+  "During evaluation of \
+In[178]:=",ExpressionUUID->"8331269d-5372-4487-8e9a-8a7d08bd79d0"],
+
+Cell[BoxData[
+ StyleBox["\<\" PRX \"\>",
+  StripOnInput->False,
+  LineColor->RGBColor[0.5, 0, 0.5],
+  FrontFaceColor->RGBColor[0.5, 0, 0.5],
+  BackFaceColor->RGBColor[0.5, 0, 0.5],
+  GraphicsColor->RGBColor[0.5, 0, 0.5],
+  Antialiasing->True,
+  FontFamily->"Arial Bold",
+  FontSize->18,
+  FontWeight->Bold,
+  FontColor->RGBColor[0.5, 0, 0.5],
+  Background->RGBColor[1., 1., 0.85]]], "Print",
+ CellChangeTimes->{
+  3.558156665930122*^9, 3.558156731244676*^9, 3.5581569190322123`*^9, 
+   3.5581582442852287`*^9, {3.558158280711844*^9, 3.558158287679162*^9}, 
+   3.558158363172884*^9, {3.558158395821336*^9, 3.558158414513187*^9}, {
+   3.5581585197914248`*^9, 3.558158534850239*^9}, 3.5835827013385897`*^9, {
+   3.6030181806311283`*^9, 3.603018202930386*^9}, 3.604900298694193*^9, {
+   3.6049023467792587`*^9, 3.604902381046781*^9}, {3.6049024153647614`*^9, 
+   3.604902432349434*^9}, {3.654947266755066*^9, 3.654947273562913*^9}, 
+   3.6549474777201767`*^9, {3.654947515280013*^9, 3.654947555883209*^9}, 
+   3.654947906109728*^9, {3.6549479457904053`*^9, 3.654947985925764*^9}, {
+   3.654948219554892*^9, 3.6549482420963163`*^9}, 3.654948292307658*^9, 
+   3.654948424733945*^9, 3.6549485057296247`*^9, 3.6549486091554947`*^9, 
+   3.8172673150817842`*^9, 3.817267591194174*^9, {3.817267675819356*^9, 
+   3.817267704982071*^9}, 3.81726810457055*^9, {3.817268138461588*^9, 
+   3.817268152440984*^9}, 3.817271077781683*^9},
+ CellLabel->
+  "During evaluation of \
+In[178]:=",ExpressionUUID->"a6063b3d-8ed3-4abe-82e2-d220a4457c26"],
+
+Cell[BoxData[
+ StyleBox["\<\" NAT \"\>",
+  StripOnInput->False,
+  LineColor->RGBColor[0.7, 0., 0.],
+  FrontFaceColor->RGBColor[0.7, 0., 0.],
+  BackFaceColor->RGBColor[0.7, 0., 0.],
+  GraphicsColor->RGBColor[0.7, 0., 0.],
+  Antialiasing->True,
+  FontFamily->"Arial Bold",
+  FontSize->18,
+  FontWeight->Bold,
+  FontColor->RGBColor[0.7, 0., 0.],
+  Background->RGBColor[1., 1., 0.85]]], "Print",
+ CellChangeTimes->{
+  3.558156665930122*^9, 3.558156731244676*^9, 3.5581569190322123`*^9, 
+   3.5581582442852287`*^9, {3.558158280711844*^9, 3.558158287679162*^9}, 
+   3.558158363172884*^9, {3.558158395821336*^9, 3.558158414513187*^9}, {
+   3.5581585197914248`*^9, 3.558158534850239*^9}, 3.5835827013385897`*^9, {
+   3.6030181806311283`*^9, 3.603018202930386*^9}, 3.604900298694193*^9, {
+   3.6049023467792587`*^9, 3.604902381046781*^9}, {3.6049024153647614`*^9, 
+   3.604902432349434*^9}, {3.654947266755066*^9, 3.654947273562913*^9}, 
+   3.6549474777201767`*^9, {3.654947515280013*^9, 3.654947555883209*^9}, 
+   3.654947906109728*^9, {3.6549479457904053`*^9, 3.654947985925764*^9}, {
+   3.654948219554892*^9, 3.6549482420963163`*^9}, 3.654948292307658*^9, 
+   3.654948424733945*^9, 3.6549485057296247`*^9, 3.6549486091554947`*^9, 
+   3.8172673150817842`*^9, 3.817267591194174*^9, {3.817267675819356*^9, 
+   3.817267704982071*^9}, 3.81726810457055*^9, {3.817268138461588*^9, 
+   3.817268152440984*^9}, 3.817271077935173*^9},
+ CellLabel->
+  "During evaluation of \
+In[178]:=",ExpressionUUID->"f429ee99-d096-4b60-b77a-629cc1da84f0"]
+}, Open  ]],
+
+Cell[BoxData[
+ RowBox[{"{", 
+  RowBox[{"\<\"prl.png\"\>", ",", "\<\"prb.png\"\>", ",", "\<\"njp.png\"\>", 
+   ",", "\<\"pe.png\"\>", ",", "\<\"epjb.png\"\>", ",", "\<\"arxiv.png\"\>", 
+   ",", "\<\"ssc.png\"\>", ",", "\<\"apl.png\"\>", ",", "\<\"key.png\"\>", 
+   ",", "\<\"pdf.png\"\>", ",", "\<\"nl.png\"\>", ",", "\<\"prx.png\"\>", 
+   ",", "\<\"nat.png\"\>"}], "}"}]], "Output",
+ CellChangeTimes->{{3.5581563215888453`*^9, 3.558156335148501*^9}, 
+   3.558156366116322*^9, 3.558156409227515*^9, {3.5581565054617577`*^9, 
+   3.5581565793904953`*^9}, 3.558156665895258*^9, 3.5581567312112427`*^9, 
+   3.55815691899797*^9, 3.5581582442512712`*^9, {3.558158280647978*^9, 
+   3.558158287645919*^9}, 3.5581583631506777`*^9, {3.5581583957896547`*^9, 
+   3.558158414480789*^9}, {3.558158519759797*^9, 3.5581585348182993`*^9}, 
+   3.583582700215116*^9, {3.6030181806100492`*^9, 3.603018202900663*^9}, 
+   3.604900300657381*^9, {3.604902348265358*^9, 3.6049023825893383`*^9}, {
+   3.6049024168564777`*^9, 3.6049024338503*^9}, {3.654947269446412*^9, 
+   3.65494727608672*^9}, 3.65494748004994*^9, {3.65494751788237*^9, 
+   3.654947558655526*^9}, 3.654947909263397*^9, {3.654947948820294*^9, 
+   3.654947989616829*^9}, {3.6549482226956367`*^9, 3.6549482457287207`*^9}, 
+   3.654948296149014*^9, 3.6549484280610647`*^9, 3.6549485088884172`*^9, 
+   3.654948612449235*^9, 3.817267317583197*^9, 3.817267593505403*^9, {
+   3.8172676783968153`*^9, 3.8172677072152987`*^9}, 3.817268107277684*^9, {
+   3.817268140998913*^9, 3.81726815522154*^9}, 3.817271078099421*^9},
+ CellLabel->
+  "Out[178]=",ExpressionUUID->"0d0516cc-09d3-4011-bfa4-045747cf803c"]
+}, Open  ]]
+},
+WindowSize->{1630, 997},
+WindowMargins->{{1, Automatic}, {Automatic, 0}},
+PrivateNotebookOptions->{"VersionedStylesheet"->{"Default.nb"[8.] -> False}},
+FrontEndVersion->"12.1 for Mac OS X x86 (64-bit) (March 18, 2020)",
+StyleDefinitions->"Default.nb",
+ExpressionUUID->"3c7c56bd-6c81-4a22-b04a-cb8a555fa189"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[CellGroupData[{
+Cell[579, 22, 3053, 71, 150, "Input",ExpressionUUID->"77eec204-a9b9-4efc-baad-e65e00623e86"],
+Cell[3635, 95, 242, 4, 34, "Output",ExpressionUUID->"ce3ece04-1c66-4250-83e8-b72dff1a2161"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[3914, 104, 748, 13, 30, "Input",ExpressionUUID->"a002501a-5c14-4890-8030-f82b52b8995e"],
+Cell[4665, 119, 316, 5, 34, "Output",ExpressionUUID->"46104ba2-fa89-408f-9562-e7f4c0997d23"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[5018, 129, 297, 7, 30, "Input",ExpressionUUID->"e38ebb05-a6ba-44ec-865c-11a975d2ebdf"],
+Cell[5318, 138, 574, 17, 30, "Print",ExpressionUUID->"c971d70b-a9dd-42ee-b76d-8d43c67d72ea"],
+Cell[5895, 157, 558, 8, 34, "Output",ExpressionUUID->"70f0e110-5760-4b76-bee8-94b6d41d8eec"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[6490, 170, 476, 11, 30, "Input",ExpressionUUID->"6e22b29f-3f0e-4062-ad45-6f9d7fcb7f0a"],
+Cell[6969, 183, 561, 16, 30, "Print",ExpressionUUID->"f72d3d47-274b-4927-8e2d-3477a3bf2e84"],
+Cell[7533, 201, 538, 9, 34, "Output",ExpressionUUID->"cad31e55-a534-4a36-8f88-f1f9e56d5b2b"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[8108, 215, 527, 12, 30, "Input",ExpressionUUID->"6e95e1ec-581c-4457-b876-952550d38d07"],
+Cell[8638, 229, 647, 18, 30, "Print",ExpressionUUID->"cbd738ba-4606-4af2-b872-817b3a0cb3fc"],
+Cell[9288, 249, 268, 5, 34, "Output",ExpressionUUID->"62cb1feb-ab50-483a-8acc-4617630167da"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[9593, 259, 360, 9, 30, "Input",ExpressionUUID->"de0cd2c1-07e0-474b-beb3-54962bd828bb"],
+Cell[9956, 270, 715, 19, 30, "Print",ExpressionUUID->"1f338575-d103-43b1-bde2-f540d06d166e"],
+Cell[10674, 291, 337, 6, 34, "Output",ExpressionUUID->"769d91ad-f044-44c8-abd7-4279cc83ca6a"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[11048, 302, 299, 7, 30, "Input",ExpressionUUID->"27af561f-c13e-42e7-ae11-8dfbf86b75ad"],
+Cell[11350, 311, 743, 19, 30, "Print",ExpressionUUID->"2f5dd52a-854d-4255-9cc6-676bd50856c0"],
+Cell[12096, 332, 364, 6, 34, "Output",ExpressionUUID->"cdb3f752-accf-427a-97e2-e00ae52f33f9"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[12497, 343, 298, 7, 30, "Input",ExpressionUUID->"11ff68ff-c7d7-4608-9a33-20e0202d9bc8"],
+Cell[12798, 352, 719, 19, 30, "Print",ExpressionUUID->"7a561d4d-29eb-492e-84c2-bad38f72f0cf"],
+Cell[13520, 373, 366, 6, 34, "Output",ExpressionUUID->"eeea919c-7425-47eb-9932-a84b05fc7d15"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[13923, 384, 298, 7, 30, "Input",ExpressionUUID->"975e0ace-c8f6-4955-b168-749d09a3ecca"],
+Cell[14224, 393, 676, 19, 30, "Print",ExpressionUUID->"44e19f6f-4165-4325-897c-30973565e7d7"],
+Cell[14903, 414, 341, 6, 34, "Output",ExpressionUUID->"90e4a4e8-610c-4c79-9852-7c0da292d26e"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[15281, 425, 363, 9, 30, "Input",ExpressionUUID->"ba569cf9-256a-4a82-8063-2875b720e498"],
+Cell[15647, 436, 805, 24, 30, "Print",ExpressionUUID->"94c874b7-da8f-475b-beea-9ec7154d8db7"],
+Cell[16455, 462, 363, 6, 34, "Output",ExpressionUUID->"d991d41a-26cc-4609-928a-d5a9f36a1261"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[16855, 473, 751, 17, 52, "Input",ExpressionUUID->"45029b0a-8ded-4d72-b71e-de48d8c37fd1"],
+Cell[17609, 492, 953, 22, 30, "Print",ExpressionUUID->"566793a4-4524-4ded-ac33-7160998387c4"],
+Cell[18565, 516, 583, 9, 34, "Output",ExpressionUUID->"24ca0d78-10f8-48f3-9127-ae9afd7b2f34"],
+Cell[19151, 527, 953, 22, 30, "Print",ExpressionUUID->"6a5a6dc4-e2fa-4cf6-addd-db51c2e807f2"],
+Cell[20107, 551, 583, 9, 34, "Output",ExpressionUUID->"dbd9f59b-bc7d-48f8-a78c-3e61898819d8"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[20727, 565, 345, 9, 30, "Input",ExpressionUUID->"36a8b756-6f41-41e2-8af2-490b79f94e90"],
+Cell[21075, 576, 703, 19, 30, "Print",ExpressionUUID->"181dc125-9414-4196-8179-ec043829c0f2"],
+Cell[21781, 597, 343, 6, 34, "Output",ExpressionUUID->"f20ee143-ad9d-452d-992d-3c701fdfc5bc"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[22161, 608, 396, 9, 30, "Input",ExpressionUUID->"a32d5998-da15-46d9-ba26-1b0fc132dbbd"],
+Cell[22560, 619, 803, 24, 30, "Print",ExpressionUUID->"ae4fbfc1-47dd-4a8f-992c-c0643e1801b6"],
+Cell[23366, 645, 367, 6, 34, "Output",ExpressionUUID->"b041854a-d5a1-4817-8c49-551d74d4f64e"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[23770, 656, 328, 8, 30, "Input",ExpressionUUID->"6f17d002-1b2e-4ec8-8c5d-8e19078fd7d2"],
+Cell[24101, 666, 886, 24, 30, "Print",ExpressionUUID->"6f790a10-2204-4c4e-a706-7ba1e3509797"],
+Cell[24990, 692, 340, 6, 34, "Output",ExpressionUUID->"9416cd4f-429c-48e4-ba42-39e22da75ffa"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[25367, 703, 2064, 52, 73, "Input",ExpressionUUID->"935e2335-4d69-450c-ac59-6f7aee532f42"],
+Cell[CellGroupData[{
+Cell[27456, 759, 1599, 35, 30, "Print",ExpressionUUID->"e2601ec9-83ff-439e-9f9f-363e372ad6ea"],
+Cell[29058, 796, 1597, 35, 30, "Print",ExpressionUUID->"76af3056-9ee3-4188-9484-9f9e4f530bb4"],
+Cell[30658, 833, 1527, 30, 30, "Print",ExpressionUUID->"f96c3437-8cb8-4035-9553-667548f6267f"],
+Cell[32188, 865, 1686, 40, 30, "Print",ExpressionUUID->"25415fa2-d25e-480e-80f5-9565adc4e26a"],
+Cell[33877, 907, 1598, 35, 30, "Print",ExpressionUUID->"170bdbce-005c-421a-85d2-21d26553b0fd"],
+Cell[35478, 944, 1483, 30, 30, "Print",ExpressionUUID->"0f04973c-1465-4023-bed3-2f1e971c3824"],
+Cell[36964, 976, 1687, 40, 30, "Print",ExpressionUUID->"6d828003-ebf4-4513-9cf9-9d87b27e663d"],
+Cell[38654, 1018, 1692, 35, 30, "Print",ExpressionUUID->"fcdb4b11-1225-45bb-b478-9b7c8a66c083"],
+Cell[40349, 1055, 1517, 30, 30, "Print",ExpressionUUID->"a01644c1-f866-415a-97d5-88dfe28256b1"],
+Cell[41869, 1087, 1597, 35, 30, "Print",ExpressionUUID->"92388029-8778-4771-ac04-a1408308ab94"],
+Cell[43469, 1124, 1685, 40, 30, "Print",ExpressionUUID->"8331269d-5372-4487-8e9a-8a7d08bd79d0"],
+Cell[45157, 1166, 1523, 30, 30, "Print",ExpressionUUID->"a6063b3d-8ed3-4abe-82e2-d220a4457c26"],
+Cell[46683, 1198, 1523, 30, 30, "Print",ExpressionUUID->"f429ee99-d096-4b60-b77a-629cc1da84f0"]
+}, Open  ]],
+Cell[48221, 1231, 1634, 24, 34, "Output",ExpressionUUID->"0d0516cc-09d3-4011-bfa4-045747cf803c"]
+}, Open  ]]
+}
+]
+*)
+

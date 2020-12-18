@@ -3,11 +3,10 @@ Add here global page variables to use throughout your
 website.
 The website_* must be defined for the RSS to work
 -->
-@def website_title = "Franklin Template"
-@def website_descr = "Example website using Franklin"
-@def website_url   = "https://tlienart.github.io/FranklinTemplates.jl/"
-
-@def author = "Septimia Zenobia"
+@def website_title = "P. San-Jose (ICMM-CSIC)"
+@def website_descr = "Homepage of P. San-Jose"
+@def website_url   = "https://pablosanjose.github.io/"
+@def author = "Pablo San-Jose"
 
 @def mintoclevel = 2
 
