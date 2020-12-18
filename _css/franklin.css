@@ -396,11 +396,14 @@ code {
 
 .franklin-content .column1 {
   float: left;
-  width: 25%;
+  width: -webkit-calc(25% - 10px);
+  width:    -moz-calc(25% - 10px);
+  width:         calc(25% - 10px);
+  padding-right: 10px
 }
 
 .franklin-content .column2 {
-  float: left;
+  float: right;
   width: 75%;
 }
 
