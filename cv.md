@@ -40,7 +40,7 @@ date = Date(2020, 12, 17)
 @@
 
 @@row
-@@column1 *Tel* @@
+@@column1 *Phone* @@
 @@column2 (+34) 91 334 9079 @@
 @@
 

@@ -42,7 +42,7 @@
 @@
 
 @@row
-@@column1 *Tel* @@
+@@column1 *Phone* @@
 @@column2 (+34) 91 334 9079 @@
 @@
 
