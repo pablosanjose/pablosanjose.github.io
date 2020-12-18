@@ -352,7 +352,9 @@ code {
 .franklin-content .paperdata {
   display: inline-block;
   height: 100%;
-  width: 89%;
+  width: -webkit-calc(100% - 70px);
+  width:    -moz-calc(100% - 70px);
+  width:         calc(100% - 70px);
   vertical-align: middle;
   background-color: #eef3f5;
   padding-top: 5px;
