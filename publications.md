@@ -4,7 +4,7 @@ hascode = false
 date = Date(2020, 12, 17)
 +++
 
-## Metrics:
+## Metrics
 <!-- @@paperdata [Google Scholar](https://scholar.google.com/citations?user=pt3gvQgAAAAJ) @@ -->
 @@colbox-blue [Google Scholar](https://scholar.google.com/citations?user=pt3gvQgAAAAJ) [![Google Scholar](/assets/icons/googlescholar.png)](https://scholar.google.com/citations?user=pt3gvQgAAAAJ) @@
 @@colbox-blue ~~~<a href="http://www.researcherid.com/rid/A-4795-2010">Publons</a><span id="badgeCont161"><script type="text/javascript" src="https://publons.com/mashlets?el=badgeCont161&rid=A-4795-2010&size=small"></script></span>~~~@@
