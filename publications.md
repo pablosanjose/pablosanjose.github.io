@@ -82,7 +82,9 @@ R. Frisenda, G. Sanchez-Santolino, N. Papadopoulos, J. Urban, M. Baranowski, A. 
 
 Penglin Gao, Daniel Torrent, Francisco Cevera, Pablo San-Jose, Jose Sanchez-Dehesa, Johan Christensen
 
-*[Phys. Rev. Lett. **123**, 196601 (2019)](https://link.aps.org/doi/10.1103/PhysRevLett.123.196601)*. Selected as [cover](/assets/pdfs/CoverPRL2019.pdf)
+*[Phys. Rev. Lett. **123**, 196601 (2019)](https://link.aps.org/doi/10.1103/PhysRevLett.123.196601)*. 
+
+Highlighted in the [cover](/assets/pdfs/CoverPRL2019.pdf) of Phys. Rev. Lett.
 @@
 
 @@papericon ![](/assets/icons/adm.png) @@
@@ -117,6 +119,7 @@ L. Chirolli, E. Prada, F. Guinea, R. Roldán, P. San-Jose
 **57. [Non-Hermitian topology: a unifying framework for the Andreev versus Majorana states controversy](https://arxiv.org/abs/1807.04677)**
 
 J. Avila, F. Peñaranda, E. Prada, P. San-Jose, R. Aguado
+
 *[Communications Physics **2**, 133 (2019)](https://www.nature.com/articles/s42005-019-0231-8)*
 @@
 
@@ -128,7 +131,9 @@ J. Avila, F. Peñaranda, E. Prada, P. San-Jose, R. Aguado
 
 F. Peñaranda, R. Aguado, P. San-Jose, E. Prada
 
-*[Phys. Rev. B **98**, 235406 (2018)](https://link.aps.org/doi/10.1103/PhysRevB.98.235406). Hilighted in [PRB Kaleidoscope](http://journals.aps.org/prb/kaleidoscope)*
+[Phys. Rev. B **98**, 235406 (2018)](https://link.aps.org/doi/10.1103/PhysRevB.98.235406)
+
+Highlighted in [PRB Kaleidoscope](http://journals.aps.org/prb/kaleidoscope)
 @@
 
 @@papericon ![](/assets/icons/prl.png) @@
@@ -155,7 +160,7 @@ Francesca Finocchiaro, Francisco Guinea, Pablo San-Jose
 
 M. T. Deng, S. Vaitiekénas, E. Prada, P. San-Jose, J. Nygård, P. Krogstrup, R. Aguado, C. M. Marcus.
 
-*[Phys. Rev. B **98**, 085125 (2018)](https://link.aps.org/doi/10.1103/PhysRevB.98.085125). [![](/assets/icons/editor.jpg)](https://journals.aps.org/prb/issues/98/8#highlighted-articles)*
+*[Phys. Rev. B **98**, 085125 (2018)](https://link.aps.org/doi/10.1103/PhysRevB.98.085125) [![](/assets/icons/editor.jpg)](https://journals.aps.org/prb/issues/98/8#highlighted-articles)*
 @@
 
 @@papericon ![](/assets/icons/prb.png) @@
@@ -184,8 +189,9 @@ Jorge Cayao, Pablo San-Jose, Annica Black-Schaffer, Ramón Aguado, Elsa Prada
 
 Rafael Roldán, Luca Chirolli, Elsa Prada, Jose Angel Silva-Guillén, Pablo San-Jose and Francisco Guinea
 
-*[Chemical Society Reviews **46**, 4387 (2017)](http://pubs.rsc.org/en/Content/ArticleLanding/2017/CS/C7CS00210F#!divAbstract).*
-**Highlighted in the [cover](/assets/pdfs/ChemSocRev-Cover.pdf) of Chemical Society Reviews**
+*[Chemical Society Reviews **46**, 4387 (2017)](http://pubs.rsc.org/en/Content/ArticleLanding/2017/CS/C7CS00210F#!divAbstract)*
+
+Highlighted in the [cover](/assets/pdfs/ChemSocRev-Cover.pdf) of Chemical Society Reviews
 @@
 
 @@papericon ![](/assets/icons/prl.png) @@
@@ -279,8 +285,9 @@ Jorge Quereda, Pablo San-Jose, Vincenzo Parente, Nicolás Agraït, Gabino Rubio-
 
 Pablo San-Jose, Jose Lado, Ramón Aguado, Francisco Guinea, Joaquín Fernández-Rossier
 
-*[Phys. Rev. X **5**, 041042 (2015)](http://journals.aps.org/prx/abstract/10.1103/PhysRevX.5.041042).*
-**Highlighted in [physics.aps.org](http://physics.aps.org/synopsis-for/10.1103/PhysRevX.5.041042), [Naukas](http://francis.naukas.com/2016/03/09/quasiparticulas-de-majorana-en-grafeno-sobre-un-superconductor/), [Europapress](http://www.europapress.es/ciencia/laboratorio/noticia-pueden-obtener-particulas-grafeno-son-materia-antimateria-20160304145608.HTML) and [others](http://www.madrimasd.org/informacionidi/noticias/noticia.asp?id=65908&origen=notiweb&dia_suplemento=lunes)**
+*[Phys. Rev. X **5**, 041042 (2015)](http://journals.aps.org/prx/abstract/10.1103/PhysRevX.5.041042)*
+
+Highlighted in [physics.aps.org](http://physics.aps.org/synopsis-for/10.1103/PhysRevX.5.041042), [Naukas](http://francis.naukas.com/2016/03/09/quasiparticulas-de-majorana-en-grafeno-sobre-un-superconductor/), [Europapress](http://www.europapress.es/ciencia/laboratorio/noticia-pueden-obtener-particulas-grafeno-son-materia-antimateria-20160304145608.HTML) and [others](http://www.madrimasd.org/informacionidi/noticias/noticia.asp?id=65908&origen=notiweb&dia_suplemento=lunes)
 @@
 
 @@papericon ![](/assets/icons/pr.png) @@
@@ -336,8 +343,9 @@ Pablo San-Jose, Ángel Gutiérrez, Mauricio Sturla, Francisco Guinea
 
 M. Yankowitz, J. I. Wang, A. G. Birdwell, Y. Chen, K. Watanabe, T. Taniguchi, P. Jacquod, P. San-Jose, P. Jarillo-Herrero, B. J. LeRoy
 
-*[Nature Materials **13**, 786–789 (2014)](http://dx.doi.org/10.1038/NMAT3965).*
-**Press coverage on [CSIC](http://www.csic.es/web/guest/home?p_p_id=contentviewerservice_WAR_alfresco_packportlet&p_p_lifecycle=1&p_p_state=maximized&p_p_mode=view&p_p_col_id=column-1-2&p_p_col_count=2&_contentviewerservice_WAR_alfresco_packportlet_struts_action=/contentviewer/view&_contentviewerservice_WAR_alfresco_packportlet_nodeRef=workspace://SpacesStore/fdbb2298-dff8-43a9-9930-37cefbf1a90f&_contentviewerservice_WAR_alfresco_packportlet_gsa_index=false&_contentviewerservice_WAR_alfresco_packportlet_title=noticias&contentType=news), [NanotechWeb](http://nanotechweb.org/cws/article/tech/57060), [ScienceDaily](http://www.sciencedaily.com/releases/2014/04/140430192747.htm), [SciTechDaily](http://scitechdaily.com/physicists-discover-change-crystal-structure-graphene/) and [UANews](http://uanews.org/story/playing-pool-with-carbon-atoms).**
+*[Nature Materials **13**, 786–789 (2014)](http://dx.doi.org/10.1038/NMAT3965)*
+
+Press coverage on [CSIC](http://www.csic.es/web/guest/home?p_p_id=contentviewerservice_WAR_alfresco_packportlet&p_p_lifecycle=1&p_p_state=maximized&p_p_mode=view&p_p_col_id=column-1-2&p_p_col_count=2&_contentviewerservice_WAR_alfresco_packportlet_struts_action=/contentviewer/view&_contentviewerservice_WAR_alfresco_packportlet_nodeRef=workspace://SpacesStore/fdbb2298-dff8-43a9-9930-37cefbf1a90f&_contentviewerservice_WAR_alfresco_packportlet_gsa_index=false&_contentviewerservice_WAR_alfresco_packportlet_title=noticias&contentType=news), [NanotechWeb](http://nanotechweb.org/cws/article/tech/57060), [ScienceDaily](http://www.sciencedaily.com/releases/2014/04/140430192747.htm), [SciTechDaily](http://scitechdaily.com/physicists-discover-change-crystal-structure-graphene/) and [UANews](http://uanews.org/story/playing-pool-with-carbon-atoms)
 @@
 
 @@papericon ![](/assets/icons/nl.png) @@
@@ -384,7 +392,7 @@ Máté Vigh, László Oroszlány, Szabolcs Vajna, Pablo San-Jose, Gyula Dávid, 
 
 Pablo San-Jose, Elsa Prada
 
-*[Phys. Rev. B **88**, 121408(R) (2013)](http://link.aps.org/doi/10.1103/PhysRevB.88.121408).![](/assets/icons/rapid.gif)*
+*[Phys. Rev. B **88**, 121408(R) (2013)](http://link.aps.org/doi/10.1103/PhysRevB.88.121408) ![](/assets/icons/rapid.gif)*
 @@
 
 @@papericon ![](/assets/icons/njp.png) @@
@@ -393,8 +401,9 @@ Pablo San-Jose, Elsa Prada
 
 Pablo San-Jose, Jorge Cayao, Elsa Prada, Ramón Aguado
 
-*[New J. Phys. **15**, 075019 (2013)](http://iopscience.iop.org/1367-2630/15/7/075019).*
-**Focus issue on [Majorana Fermions in Condensed Matter](http://iopscience.iop.org/1367-2630/focus/Focus%20on%20Majorana%20Fermions%20in%20Condensed%20Matter)**
+*[New J. Phys. **15**, 075019 (2013)](http://iopscience.iop.org/1367-2630/15/7/075019)*
+
+Focus issue on [Majorana Fermions in Condensed Matter](http://iopscience.iop.org/1367-2630/focus/Focus%20on%20Majorana%20Fermions%20in%20Condensed%20Matter)
 @@
 
 # 2012
@@ -423,7 +432,7 @@ P. San-Jose, E. Prada, H. Schomerus and S. Kohler
 
 E. Prada, P. San-Jose and R. Aguado
 
-*[Phys. Rev. B **86**, 180503(R) (2012)](http://link.aps.org/doi/10.1103/PhysRevB.86.180503).* [![](/assets/icons/editor.jpg)](http://prb.aps.org/toc/PRB/v86/i18#highlighted-articles) ![](/assets/icons/rapid.gif)
+*[Phys. Rev. B **86**, 180503(R) (2012)](http://link.aps.org/doi/10.1103/PhysRevB.86.180503)* [![](/assets/icons/editor.jpg)](http://prb.aps.org/toc/PRB/v86/i18#highlighted-articles) ![](/assets/icons/rapid.gif)
 @@
 
 @@papericon ![](/assets/icons/prl.png) @@
@@ -462,7 +471,8 @@ P. San-Jose, E. Prada, S. Kohler, H. Schomerus
 P. San-Jose, J. González, F. Guinea
 
 *[Phys. Rev. Lett. **106**, 045502 (2011)](http://link.aps.org/doi/10.1103/PhysRevLett.106.045502)*.
-**Featured in [Nature](/assets/icons/GrapheneHiggs-Nature.pdf), [Physics World](http://physicsworld.com/cws/article/news/44994), [El Público](http://www.publico.es/ciencias/363609/una-mina-de-lapiz-basta-para-estudiar-la-particula-de-dios), [and](http://news.discovery.com/space/could-the-higgs-be-hiding-in-graphene.html) [other](http://www.popsci.com/technology/article/2011-02/graphene-could-help-physicists-probe-higgs-bosons-secrets) [media](http://www.electroiq.com/index/display/nanotech-article-display/5395487017/articles/small-times/nanotechmems/materials/graphene/2011/2/higgs-boson_and_graphene.html?utm_source=twitterfeed&utm_medium=twitter)**
+
+Featured in [Nature](/assets/icons/GrapheneHiggs-Nature.pdf), [Physics World](http://physicsworld.com/cws/article/news/44994), [El Público](http://www.publico.es/ciencias/363609/una-mina-de-lapiz-basta-para-estudiar-la-particula-de-dios), [and](http://news.discovery.com/space/could-the-higgs-be-hiding-in-graphene.html) [other](http://www.popsci.com/technology/article/2011-02/graphene-could-help-physicists-probe-higgs-bosons-secrets) [media](http://www.electroiq.com/index/display/nanotech-article-display/5395487017/articles/small-times/nanotechmems/materials/graphene/2011/2/higgs-boson_and_graphene.html?utm_source=twitterfeed&utm_medium=twitter)
 @@
 
 @@papericon ![](/assets/icons/ssc.png) @@
@@ -491,8 +501,9 @@ E. Prada, P. San-Jose, H. Schomerus
 
 E. Prada, P. San-Jose, L. Brey
 
-*[Phys. Rev. Lett. **105**, 106802 (2010)](http://link.aps.org/doi/10.1103/PhysRevLett.105.106802).*
-**Highlighted in the viewpoint [Graphene prêt-à-porter](https://physics.aps.org/articles/v4/51), in the [APS Physics](http://physics.aps.org) portal.**
+*[Phys. Rev. Lett. **105**, 106802 (2010)](http://link.aps.org/doi/10.1103/PhysRevLett.105.106802)*
+
+Highlighted in the viewpoint [Graphene prêt-à-porter](https://physics.aps.org/articles/v4/51), in the [APS Physics](http://physics.aps.org) portal.
 @@
 
 @@papericon ![](/assets/icons/prb.png) @@
@@ -501,8 +512,9 @@ E. Prada, P. San-Jose, L. Brey
 
 V. Brosco, M. Jerger, P. San-Jose, G. Zarand, A. Shnirman, G. Schön
 
-*[Phys. Rev. B **82**, 041309(R) (2010)](http://link.aps.org/doi/10.1103/PhysRevB.82.041309)* ![](/assets/icons/rapid.gif).
-**Highlighted in the [July 2010 PRB Kaleidoscope](http://prb.aps.org/kaleidoscope/prb/82/4/041309).**
+*[Phys. Rev. B **82**, 041309(R) (2010)](http://link.aps.org/doi/10.1103/PhysRevB.82.041309)* ![](/assets/icons/rapid.gif)
+
+Highlighted in the [July 2010 PRB Kaleidoscope](http://prb.aps.org/kaleidoscope/prb/82/4/041309)
 @@
 
 @@papericon ![](/assets/icons/prb.png) @@
@@ -540,8 +552,9 @@ P. Dietl, G. Metalidis, D. Golubev, P. San-Jose, E. Prada, H. Schomerus, G. Sch�
 
 P. San-Jose, E. Prada, E. McCann, H. Schomerus
 
-*[Phys. Rev. Lett. **102**, 247204 (2009)](http://link.aps.org/doi/10.1103/PhysRevLett.102.247204).*
-**Highlighted in the [cover](http://prl.aps.org/covers/102/24) of Physical Review Letters.**
+*[Phys. Rev. Lett. **102**, 247204 (2009)](http://link.aps.org/doi/10.1103/PhysRevLett.102.247204)*
+
+Highlighted in the [cover](http://prl.aps.org/covers/102/24) of Physical Review Letters
 @@
 
 # 2008
@@ -552,8 +565,9 @@ P. San-Jose, E. Prada, E. McCann, H. Schomerus
 
 P. San-Jose, B. Scharfenberger, G. Schön, A. Shnirman, G. Zarand,
 
-*[Phys. Rev. B **77**, 045305 (2008)](http://link.aps.org/abstract/PRB/v77/e045305).*
-**Highlighted in the [January 2008 PRB Kaleidoscope](http://prb.aps.org/kaleidoscope/prb/77/4/45305).**
+*[Phys. Rev. B **77**, 045305 (2008)](http://link.aps.org/abstract/PRB/v77/e045305)*
+
+Highlighted in the [January 2008 PRB Kaleidoscope](http://prb.aps.org/kaleidoscope/prb/77/4/45305)
 @@
 
 # 2007
@@ -610,7 +624,7 @@ P. San-Jose, C. P. Herrero, F. Guinea, D. P. Arovas,
 
 P. San-Jose and E. Prada
 
-*[Phys. Rev. B **74**, 045305 (2006)](http://link.aps.org/abstract/PRB/v74/e045305).*
+*[Phys. Rev. B **74**, 045305 (2006)](http://link.aps.org/abstract/PRB/v74/e045305)*
 @@
 
 # 2005
