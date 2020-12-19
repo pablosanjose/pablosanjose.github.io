@@ -4,9 +4,9 @@ title = "Code"
 
 # Quantica.jl
 
-**Quantica** is a Julia package for simulations of quantum systems.
+**Quantica.jl** is a Julia package for simulations of quantum systems.
 
-[Quantica Github repository](https://github.com/pablosanjose/Quantica.jl)
+[Quantica.jl Github repository](https://github.com/pablosanjose/Quantica.jl)
 
 # MathQ
 @@row
