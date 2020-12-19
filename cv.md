@@ -1,7 +1,5 @@
 +++
 title = "Curriculum Vitae"
-hascode = false
-date = Date(2020, 12, 17)
 +++
 
 # Personal information
