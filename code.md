@@ -69,4 +69,4 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 Citations to MathQ may simply point to this webpage, as follows
 
-@@colbox-blue P. San-Jose, "MathQ, a Mathematica simulator for quantum systems", http://www.icmm.csic.es/sanjose/MathQ/MathQ.html @@
+@@colbox-blue P. San-Jose, "MathQ, a Mathematica simulator for quantum systems", https://pablosanjose.github.io/code/#mathq @@
