@@ -1,7 +1,7 @@
 @def title = "Pablo San-Jose"
 @def tags = ["syntax", "code"]
 
-![alt text](/assets/CSIC_logo.png)
+![ICMM-CSIC](/assets/CSIC_logo.png)
 
 ## Coordinates
 
