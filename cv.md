@@ -47,7 +47,7 @@ date = Date(2020, 12, 17)
 @@row
 @@column1 *e-mail* @@
 @@column2
-~~~<a href="mailto:pablo.sanjose@csic.es" id="rw_email_contact">show</a><script type="text/javascript">var _rwObsfuscatedHref0 = "mai";var _rwObsfuscatedHref1 = "lto";var _rwObsfuscatedHref2 = ":pa";var _rwObsfuscatedHref3 = "blo";var _rwObsfuscatedHref4 = ".sa";var _rwObsfuscatedHref5 = "njo";var _rwObsfuscatedHref6 = "se@";var _rwObsfuscatedHref7 = "csi";var _rwObsfuscatedHref8 = "c.e";var _rwObsfuscatedHref9 = "s";var _rwObsfuscatedHref = _rwObsfuscatedHref0+_rwObsfuscatedHref1+_rwObsfuscatedHref2+_rwObsfuscatedHref3+_rwObsfuscatedHref4+_rwObsfuscatedHref5+_rwObsfuscatedHref6+_rwObsfuscatedHref7+_rwObsfuscatedHref8+_rwObsfuscatedHref9; document.getElementById('rw_email_contact').href = _rwObsfuscatedHref;</script>~~~
+~~~<a href="#" id="obfuscated_address">show</a><script type="text/javascript">var _ref0 = "mai";var _ref1 = "lto";var _ref2 = ":pa";var _ref3 = "blo";var _ref4 = ".sa";var _ref5 = "njo";var _ref6 = "se@";var _ref7 = "csi";var _ref8 = "c.e";var _ref9 = "s";var _ref = _ref0+_ref1+_ref2+_ref3+_ref4+_ref5+_ref6+_ref7+_ref8+_ref9; document.getElementById('obfuscated_address').href = _ref;</script>~~~
 @@ @@
 
 @@row
