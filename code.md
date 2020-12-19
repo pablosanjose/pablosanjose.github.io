@@ -17,7 +17,7 @@ title = "Code"
 
 ## Tutorial
 
-The Mathematica notebooks `(.nb)` below require the `MathQ-beta.nb` file to be available on the same directory
+To run the Mathematica notebooks below, please copy `MathQ-beta.nb` to the same directory
 @@papericon ![](/assets/icons/nb.png) @@
 @@paperdata
 **[MathQ-demo.nb](/assets/MathQ/MathQ-demo.nb)**
@@ -29,12 +29,12 @@ Demo notebook
 @@paperdata
 **[MathQ-course.nb](/assets/MathQ/MathQ-course.nb)**
 
-Brief course on MathQ usage
+Notebook with a brief course on MathQ usage
 @@
 
 @@papericon ![](/assets/icons/mp4.png) @@
 @@paperdata
-MathQ presentation ([video](/assets/MathQ/MathQ-cristalera.mp4), [notebook](/assets/MathQ/MathQ-cristalera.nb), [slides](/assets/MathQ/MathQ-cristalera.key) and [PDF](/assets/MathQ/MathQ-cristalera.pdf)) for the "Nicolás Cabrera" summer school 2017 (Miraflores, Spain)
+MathQ course ([video](/assets/MathQ/MathQ-cristalera.mp4), [notebook](/assets/MathQ/MathQ-cristalera.nb), [slides](/assets/MathQ/MathQ-cristalera.key) and [PDF](/assets/MathQ/MathQ-cristalera.pdf)) for the "Nicolás Cabrera" summer school 2017 (Miraflores, Spain)
 @@
 
 ## Download
