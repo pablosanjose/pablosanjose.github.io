@@ -575,7 +575,7 @@ ResearcherID [A-4795-2010](http://www.researcherid.com/rid/A-4795-2010)
 
 - Course on **"Numerical simulations in Mathematica"**, as part of the Official Master Programme on Advanced Materials and Nanotechnologies (Autonoma University), Madrid, November 2010 [19.5 hours].
 
-- Co-advisor to the Diploma thesis by Petra Dietl, **"Numerical studies of electronic transport through graphene nanoribbons with disorder"**, Karlsruhe, October 2008.
+- Co-advisor to the Diploma thesis by Petra Dietl, **"Numerical studies of electronic transport through graphene nanoribbons with disorder"**, Karlsruhe, March 2009.
 
 - Advisor to the Diploma thesis by Burkhard Scharfenberger, **"Spin-orbit interaction in quantum dot rings: spin manipulation and transport"**, Karlsruhe, September 2007.
 
