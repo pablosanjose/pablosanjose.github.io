@@ -11,7 +11,7 @@ title = "Publications"
 
 @@papericon ![](/assets/icons/prl.png) @@
 @@paperdata
-**68. [Flat bands in magic-angle vibrating plates](https://arxiv.org/abs2008.11706)**
+**68. [Flat bands in magic-angle vibrating plates](https://arxiv.org/abs/2008.11706)**
 
 María Rosendo, Fernando Peñaranda, Johan Christensen, Pablo San-Jose
 
