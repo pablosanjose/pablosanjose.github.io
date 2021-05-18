@@ -9,6 +9,15 @@ title = "Publications"
 
 # 2021
 
+@@papericon ![](/assets/icons/zen.png) @@
+@@paperdata
+**70. [Quantica.jl: a quantum lattice simulation library in the Julia language](https://doi.org/10.5281/zenodo.4762964)**
+
+Pablo San-Jose
+
+*Zenodo DOI:[10.5281/zenodo.4762964](https://doi.org/10.5281/zenodo.4762964)*
+@@
+
 @@papericon ![](/assets/icons/arxiv.png) @@
 @@paperdata
 **69. [Deflation algorithm for the Green function of quasi-1D lattices](https://arxiv.org/abs/2105.08038)**
@@ -18,24 +27,24 @@ Pablo San-Jose
 *Preprint [arXiv:2105.08038](https://arxiv.org/abs/2105.08038)*
 @@
 
+@@papericon ![](/assets/icons/sci.png) @@
+@@paperdata
+**68. [Flux-tunable Andreev bound states in hybrid full-shell nanowires](https://arxiv.org/abs/2008.02348)**
+
+M. Valentini, F. Peñaranda, A. Hofmann, M. Brauns, R. Hauschild, P. Krogstrup, P. San-Jose, E. Prada, R. Aguado, G. Katsaros
+
+*Accepted in Science. Preprint [arXiv:2008.02348](https://arxiv.org/abs/2008.02348)*
+@@
+
 # 2020
 
 @@papericon ![](/assets/icons/prl.png) @@
 @@paperdata
-**68. [Flat bands in magic-angle vibrating plates](https://arxiv.org/abs/2008.11706)**
+**67. [Flat bands in magic-angle vibrating plates](https://arxiv.org/abs/2008.11706)**
 
 María Rosendo, Fernando Peñaranda, Johan Christensen, Pablo San-Jose
 
 *[Phys. Rev. Lett. **125**, 214301 (2020)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.214301)*
-@@
-
-@@papericon ![](/assets/icons/arxiv.png) @@
-@@paperdata
-**67. [Flux-tunable Andreev bound states in hybrid full-shell nanowires](https://arxiv.org/abs/2008.02348)**
-
-M. Valentini, F. Peñaranda, A. Hofmann, M. Brauns, R. Hauschild, P. Krogstrup, P. San-Jose, E. Prada, R. Aguado, G. Katsaros
-
-*Preprint [arXiv:2008.02348](https://arxiv.org/abs/2008.02348)*
 @@
 
 @@papericon ![](/assets/icons/prr.png) @@
