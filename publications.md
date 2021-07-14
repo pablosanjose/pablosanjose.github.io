@@ -27,13 +27,13 @@ Pablo San-Jose
 *Preprint [arXiv:2105.08038](https://arxiv.org/abs/2105.08038)*
 @@
 
-@@papericon ![](/assets/icons/arxiv.png) @@
+@@papericon ![](/assets/icons/sci.png) @@
 @@paperdata
 **68. [Flux-tunable Andreev bound states in hybrid full-shell nanowires](https://arxiv.org/abs/2008.02348)**
 
 M. Valentini, F. Peñaranda, A. Hofmann, M. Brauns, R. Hauschild, P. Krogstrup, P. San-Jose, E. Prada, R. Aguado, G. Katsaros
 
-*Preprint [arXiv:2008.02348](https://arxiv.org/abs/2008.02348)*
+*[Science **373**, 82 (2021)](hhttps://science.sciencemag.org/content/373/6550/82)*
 @@
 
 # 2020
