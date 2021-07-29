@@ -9,6 +9,15 @@ title = "Publications"
 
 # 2021
 
+@@papericon ![](/assets/icons/arxiv.png) @@
+@@paperdata
+**71. [Vortex-induced pairing suppression and near-zero modes in quantum dots coupled to full-shell nanowires](https://arxiv.org/abs/2107.13011)**
+
+S. D. Escribano, A. L. Yeyati, R. Aguado, E. Prada, and P. San-Jose
+
+*Preprint [arXiv:2107.13011](https://arxiv.org/abs/2107.13011)*
+@@
+
 @@papericon ![](/assets/icons/zen.png) @@
 @@paperdata
 **70. [Quantica.jl: a quantum lattice simulation library in the Julia language](https://doi.org/10.5281/zenodo.4762964)**
