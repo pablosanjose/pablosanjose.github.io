@@ -83,7 +83,7 @@ Fernando Peñaranda, Ramón Aguado, Pablo San-Jose, Elsa Prada
 *[Phys. Rev. Research **2**, 023171 (2020)](https://doi.org/10.1103/PhysRevResearch.2.023171)*
 @@
 
-@@papericon ![](/assets/icons/nrp.png) @@
+@@papericon ![](/assets/icons/nat.png) @@
 @@paperdata
 **63. [From Andreev to Majorana bound states in hybrid superconductor-semiconductor nanowires](https://arxiv.org/abs/1911.04512)**
 
