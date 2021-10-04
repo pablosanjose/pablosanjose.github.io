@@ -128,103 +128,103 @@ ResearcherID [A-4795-2010](http://www.researcherid.com/rid/A-4795-2010)
 	</li>
 
 	<li>
-	<p>March 15-19 2021, <strong>March Meeting 2021</strong>, (online)  </p>
+	<p>March 15-19 2021, <strong>March Meeting 2021</strong> (online)  </p>
 	<div class="colbox-blue">
          <strong>[Oral]</strong>: <i>Flat bands in magic-angle vibrating plates</i> </br>
          </div>
 	</li>
 
 	<li>
-	<p>April 4-5 2019, <strong>SP2 Workshop 2019</strong>, (Granada, Spain)  </p>
+	<p>April 4-5 2019, <strong>SP2 Workshop 2019</strong> (Granada, Spain)  </p>
 	</li>
 
 	<li>
-	<p>January 14-15 2019, <strong>KITE quantum transport software workshop</strong>, (Porto, Portugal)  </p>
+	<p>January 14-15 2019, <strong>KITE quantum transport software workshop</strong> (Porto, Portugal)  </p>
 	</li>
 
 	<li>
-	<p>April 20th 2018, <strong>Symposium in honor of Prof. Schön's 70th birthday</strong>, (Karlsruhe, Germany)  </p>
+	<p>April 20th 2018, <strong>Symposium in honor of Prof. Schön's 70th birthday</strong> (Karlsruhe, Germany)  </p>
          <div class="colbox-blue">
          <strong>[Invited]</strong>: <i>Moiré patterns in 2D crystals</i> </br>
          </div>
 	</li>
 
 	<li>
-	<p>October (23-25) 2017, <strong>2D Materials and Interfaces for Spintronics</strong>, (Barcelona, Spain)  </p>
+	<p>October (23-25) 2017, <strong>2D Materials and Interfaces for Spintronics</strong> (Barcelona, Spain)  </p>
          <div class="colbox-blue">
          <strong>[Invited]</strong>: <i>Opportunities for Majoranas in 2D</i> </br>
          </div>
 	</li>
 
 	 <li>
-	<p>September (4-8) 2017, <strong>XXIV International summer school "Nicolás Cabrera": Quantum transport in topological materials</strong>, (Miraflores de la Sierra, Madrid, Spain)  </p>
+	<p>September (4-8) 2017, <strong>XXIV International summer school "Nicolás Cabrera": Quantum transport in topological materials</strong> (Miraflores de la Sierra, Madrid, Spain)  </p>
          <div class="colbox-blue">
          <strong>[Invited]</strong>: <i>Overview of MathQ, a Mathematica simulator for quantum systems</i> </br>
          </div>
 	</li>
 
 	 <li>
-	<p>July (18-19) 2017, <strong>GEFES Simposium "Quantum Materials And Technologies"</strong>, (Santiago de Compostela, Spain)  </p>
+	<p>July (18-19) 2017, <strong>GEFES Simposium "Quantum Materials And Technologies"</strong> (Santiago de Compostela, Spain)  </p>
          <div class="colbox-blue">
          <strong>[Oral]</strong>: <i>Zero-energy pinning from interactions in Majorana nanowires</i> </br>
          </div>
 	</li>
 
 	 <li>
-	<p>May (14-20) 2017, <strong>Majorana States In Condensed Matter: Towards Topological Quantum Computation</strong>, (Mallorca, Spain)  </p>
+	<p>May (14-20) 2017, <strong>Majorana States In Condensed Matter: Towards Topological Quantum Computation</strong> (Mallorca, Spain)  </p>
          <div class="colbox-blue">
          <strong>[Poster]</strong>: <i>Majorana Zero Modes in Graphene</i> </br>
          </div>
 	</li>
 
 	 <li>
-	<p>May (8-9) 2017, <strong>Workshop "New Trends in Material Science"</strong>, (Miraflores de la Sierra, Madrid, Spain)  </p>
+	<p>May (8-9) 2017, <strong>Workshop "New Trends in Material Science"</strong> (Miraflores de la Sierra, Madrid, Spain)  </p>
          <div class="colbox-blue">
          <strong>[Invited]</strong>: <i>Zero-energy pinning of Majorana in nanowires</i> </br>
          </div>
 	</li>
 
 	 <li>
-	<p>February (22-26) 2016, <strong>Spinograph Workshop 2016 - New trends in 2D materials </strong>, (IMDEA Nanoscience, Madrid, Spain)  </p>
+	<p>February (22-26) 2016, <strong>Spinograph Workshop 2016 - New trends in 2D materials </strong> (IMDEA Nanoscience, Madrid, Spain)  </p>
          <div class="colbox-blue">
          <strong>[Oral]</strong>: <i>Controlling Commensuration in Graphene/hBN multilayers</i> </br>
          </div>
 	</li>
 
     <li>
-	<p>February (16-19) 2016, <strong>NanoPT-2016 International Conference</strong>, (Braga, Portugal)  </p>
+	<p>February (16-19) 2016, <strong>NanoPT-2016 International Conference</strong> (Braga, Portugal)  </p>
          <div class="colbox-blue">
          <strong>[Invited]</strong>: <i>Majorana Zero Modes in Graphene</i> </br>
          </div>
 	</li>
 
     <li>
-	<p>January (13-15) 2016, <strong>IX GEFES Meeting 2016</strong>, (Cuenca, Spain)  </p>
+	<p>January (13-15) 2016, <strong>IX GEFES Meeting 2016</strong> (Cuenca, Spain)  </p>
          <div class="colbox-blue">
          <strong>[Poster]</strong>: <i>Majorana Zero Modes in Graphene</i> </br>
          </div>
 	</li>
 
     <li>
-	<p>July (13-17) 2015, <strong>Interaction effects in graphene and related materials</strong>, (San Sebastian, Spain)  </p>
+	<p>July (13-17) 2015, <strong>Interaction effects in graphene and related materials</strong> (San Sebastian, Spain)  </p>
          <div class="colbox-blue">
          <strong>[Invited]</strong>: <i>Majorana Zero Modes in Graphene</i> </br>
          </div>
 	</li>
 
     <li>
-	<p>June (22-26) 2015, <strong>Graphene Week 2015</strong>, (Manchester, UK)  </p>
+	<p>June (22-26) 2015, <strong>Graphene Week 2015</strong> (Manchester, UK)  </p>
          <div class="colbox-blue">
          <strong>[Poster]</strong>: <i>Majorana Zero Modes in Graphene</i> </br>
          </div>
 	</li>
 
     <li>
-	<p>May (13-17) 2015, <strong>Microsoft Numerics Meeting</strong>, (Copenhaguen, Denmark)  </p>
+	<p>May (13-17) 2015, <strong>Microsoft Numerics Meeting</strong> (Copenhaguen, Denmark)  </p>
  </li>
 
     <li>
-	<p>March (2-6) 2015, <strong>APS March Meeting 2015</strong>, (San Antonio, USA)  </p>
+	<p>March (2-6) 2015, <strong>APS March Meeting 2015</strong> (San Antonio, USA)  </p>
          <div class="colbox-blue">
          <strong>[Oral]</strong>: <i>Majorana bound states without topological superconductivity</i> </br>
 	<strong>[Oral]</strong>: <i>SNS junctions in nanowires with spin-orbit coupling: role of confinement and helicity on the sub-gap spectrum </i>
@@ -232,71 +232,71 @@ ResearcherID [A-4795-2010](http://www.researcherid.com/rid/A-4795-2010)
 	</li>
 
     <li>
-	<p>September (23-24) 2014, <strong>Mini-workshop “Topological Nanodevice Modeling” </strong>, (Delft, The Netherlands)  </p>
+	<p>September (23-24) 2014, <strong>Mini-workshop “Topological Nanodevice Modeling” </strong> (Delft, The Netherlands)  </p>
          <div class="colbox-blue">
          <strong>[Invited]</strong>: <i>MatG, a quantum simulator</i>
          </div>
 	</li>
 
 	<li>
-	<p>February (18-21) 2014, <strong>GraphEsp2014</strong>, (Lanzarote, Spain)  </p>
+	<p>February (18-21) 2014, <strong>GraphEsp2014</strong> (Lanzarote, Spain)  </p>
          <div class="colbox-blue">
          <strong>[Oral]</strong>: <i>Stacking boundaries and transport in bilayer graphenes</i>
          </div>
 	</li>
 
 	<li>
-	<p>June (10-14) 2013, <strong>Novel 2D materials: Tuning electronic properties on the atomic scale</strong>, (Bremen, Germany)  </p>
+	<p>June (10-14) 2013, <strong>Novel 2D materials: Tuning electronic properties on the atomic scale</strong> (Bremen, Germany)  </p>
          <div class="colbox-blue">
          <strong>[Invited]</strong>: <i>Properties of small-angle twisted graphene bilayers</i>
          </div>
 	</li>
 
 	<li>
-	<p>September (10-14) 2012, <strong>Trends in Nanotechnology TNT2012</strong>, (Madrid, Spain)  </p>
+	<p>September (10-14) 2012, <strong>Trends in Nanotechnology TNT2012</strong> (Madrid, Spain)  </p>
          <div class="colbox-blue">
          <strong>[Oral]</strong>: <i>AC Josephson effect and Majorana Fermions</i>
          </div>
 	</li>
 
 	<li>
-	<p>January (24-27) 2012, <strong>Reunión bianual GEFES</strong>, (University of Seville, Spain) </p>
+	<p>January (24-27) 2012, <strong>Reunión bianual GEFES</strong> (University of Seville, Spain) </p>
          <div class="colbox-blue">
          <strong>[Invited]</strong>: <i>Localization in twisted graphene bilayers</i>
          </div>
 	</li>
 
 	<li>
-	<p>January (9-13) 2012, <strong>Fundamental Aspects of Graphene and Other Carbon Allotropes</strong>, (KITP, Santa Barbara, USA) </p>
+	<p>January (9-13) 2012, <strong>Fundamental Aspects of Graphene and Other Carbon Allotropes</strong> (KITP, Santa Barbara, USA) </p>
          <div class="colbox-blue">
          <strong>[Oral+Poster]</strong>: <i>Non-Abelian gauge fields in Moiré graphene bilayers</i>
          </div>
 	</li>
 
 	<li>
-	<p>October 18th, 2011, <strong>Graphene for Future Emerging technologies</strong>, (CSIC, Madrid,Spain) </p>
+	<p>October 18th, 2011, <strong>Graphene for Future Emerging technologies</strong> (CSIC, Madrid,Spain) </p>
 	</li>
 
 	<li>
-	<p>September 27th, 2011, <strong>Graphene: transport and spintronics</strong>, (ICMM, Madrid,Spain) </p>
+	<p>September 27th, 2011, <strong>Graphene: transport and spintronics</strong> (ICMM, Madrid,Spain) </p>
 	</li>
 
 	<li>
-	<p>April (11-14) 2011, <strong>ImagineNANO 2011 - Graphene</strong>, (Bilbao, Spain) </p>
+	<p>April (11-14) 2011, <strong>ImagineNANO 2011 - Graphene</strong> (Bilbao, Spain) </p>
          <div class="colbox-blue">
          <strong>[Oral]</strong>: <i>Graphene Ratchets</i>
          </div>
 	</li>
 
 	<li>
-	<p>March (13-19) 2010, <strong>APS March Meeting</strong>, (Portland, USA) </p>
+	<p>March (13-19) 2010, <strong>APS March Meeting</strong> (Portland, USA) </p>
          <div class="colbox-blue">
          <strong>[Oral]</strong>: <i>Quantum pumping in graphene</i>
          </div>
 	</li>
 
 	<li>
-	<p>August (1-8) 2009, <strong>Graphene</strong>, (Benasque, Spain) </p>
+	<p>August (1-8) 2009, <strong>Graphene</strong> (Benasque, Spain) </p>
          <div class="colbox-blue">
          <strong>[Poster]</strong>: <i>Pseudospintronics in bilayer graphene</i></br>
          <strong>[Poster]</strong>: <i>Quantum pumping in graphene</i></br>
@@ -305,7 +305,7 @@ ResearcherID [A-4795-2010](http://www.researcherid.com/rid/A-4795-2010)
 	</li>
 
 	<li>
-	<p>September (9-14) 2007, <strong>Fundamental Problems of Mesoscopic Physics and Nanoelectronics</strong>, (Mojacar, Spain)</p>
+	<p>September (9-14) 2007, <strong>Fundamental Problems of Mesoscopic Physics and Nanoelectronics</strong> (Mojacar, Spain)</p>
          <div class="colbox-blue">
          <strong>[Poster]</strong>: <i>Geometrical spin dephasing in quantum dots</i></br>
          <strong>[Poster]</strong>: <i>Pseudodiffusive magnetotransport in graphene</i>
@@ -313,14 +313,14 @@ ResearcherID [A-4795-2010](http://www.researcherid.com/rid/A-4795-2010)
 	</li>
 
 	<li>
-	<p>August (29-31) 2007, <strong>CFN Summer School on Nanoelectronics</strong>, (Bad Herrenalb, Germany) </p>
+	<p>August (29-31) 2007, <strong>CFN Summer School on Nanoelectronics</strong> (Bad Herrenalb, Germany) </p>
          <div class="colbox-blue">
          <strong>[Invited]</strong>: <i>Spin qubits</i>
          </div>
 	</li>
 
 	<li>
-	<p>August 2006, <strong>MCRTN International School on the Fundamentals of Nanoelectronics</strong>, (Balaton, Hungary) </p>
+	<p>August 2006, <strong>MCRTN International School on the Fundamentals of Nanoelectronics</strong> (Balaton, Hungary) </p>
          <div class="colbox-blue">
          <strong>[Oral+Poster]</strong>: <i>Geometrical spin dephasing in quantum dots</i>
          </div>
@@ -331,11 +331,11 @@ ResearcherID [A-4795-2010](http://www.researcherid.com/rid/A-4795-2010)
 	</li>
 
 	<li>
-	<p>March 2006,<strong> EuroSQIP meeting</strong>, (Paris, France). </p>
+	<p>March 2006,<strong> EuroSQIP meeting</strong> (Paris, France). </p>
 	</li>
 
 	<li>
-	<p>October (2-5) 2005, <strong>Marie Curie RTN Network meeting, Nanoscale Dynamics and Quantum Coherence</strong>, (Catania, Italy)</p>
+	<p>October (2-5) 2005, <strong>Marie Curie RTN Network meeting, Nanoscale Dynamics and Quantum Coherence</strong> (Catania, Italy)</p>
          <div class="colbox-blue">
          <strong>[Poster]</strong>: <i>Current conserving model of inelastic scattering</i>
          </div>
