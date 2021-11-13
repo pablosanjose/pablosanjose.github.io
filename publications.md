@@ -38,7 +38,7 @@ Pablo San-Jose
 
 @@papericon ![](/assets/icons/sci.png) @@
 @@paperdata
-**68. [Flux-tunable Andreev bound states in hybrid full-shell nanowires](https://arxiv.org/abs/2008.02348)**
+**68. [Nontopological zero-bias peaks in full-shell nanowires induced by flux-tunable Andreev states](https://arxiv.org/abs/2008.02348)**
 
 M. Valentini, F. Peñaranda, A. Hofmann, M. Brauns, R. Hauschild, P. Krogstrup, P. San-Jose, E. Prada, R. Aguado, G. Katsaros
 
