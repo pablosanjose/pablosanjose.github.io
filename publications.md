@@ -183,7 +183,7 @@ Francesca Finocchiaro, Francisco Guinea, Pablo San-Jose
 
 @@papericon ![](/assets/icons/prb.png) @@
 @@paperdata
-**53. [Majorana non-locality in hybrid nanowires](https://arxiv.org/abs/1712.03536)**
+**53. [Nonlocality of Majorana modes in hybrid nanowires](https://arxiv.org/abs/1712.03536)**
 
 M. T. Deng, S. Vaitiekénas, E. Prada, P. San-Jose, J. Nygård, P. Krogstrup, R. Aguado, C. M. Marcus.
 
