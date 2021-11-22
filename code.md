@@ -10,7 +10,7 @@ title = "Code"
 
 # MathQ
 @@row
-<!-- @@column1 ![](/assets/mathq.png) @@ -->
+<!-- @@column11 ![](/assets/mathq.png) @@ -->
 @@container ~~~<img class="left" src="/assets/MathQ/mathq.png" height="60">~~~ @@
 @@column **MathQ** is a Mathematica package for the computation of transport and spectral properties of generic quantum systems. It is no longer actively developed, see Quantica above for the next generation. @@
 @@

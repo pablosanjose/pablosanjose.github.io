@@ -5,52 +5,52 @@ title = "Curriculum Vitae"
 # Personal information
 
 @@row
-@@column1 ![Pablo circa 2018](/assets/Pablo_2018.png) @@
+@@column11 ![Pablo circa 2018](/assets/Pablo_2018.png) @@
 
-@@column2 @@container
+@@column12 @@container
 
 @@row
-@@column1 *Center* @@
-@@column2 [**Consejo Superior de Investigaciones Científicas**](http://www.csic.es) @@
+@@column11 *Center* @@
+@@column12 [**Consejo Superior de Investigaciones Científicas**](http://www.csic.es) @@
 @@
 
 @@row
-@@column1 *Institute* @@
-@@column2 [**Instituto de Ciencia de Materiales de Madrid**](http://www.icmm.csic.es) @@
-@@
-
-
-@@row
-@@column1 *Address* @@
-@@column2 Sor Juana Inés de la Cruz 3, 28049 Madrid (Spain) @@
+@@column11 *Institute* @@
+@@column12 [**Instituto de Ciencia de Materiales de Madrid**](http://www.icmm.csic.es) @@
 @@
 
 
 @@row
-@@column1 *Position* @@
-@@column2 Tenured scientist (Condensed matter, theory) @@
+@@column11 *Address* @@
+@@column12 Sor Juana Inés de la Cruz 3, 28049 Madrid (Spain) @@
 @@
 
 
 @@row
-@@column1 *Office* @@
-@@column2 216 @@
+@@column11 *Position* @@
+@@column12 Tenured scientist (Condensed matter, theory) @@
+@@
+
+
+@@row
+@@column11 *Office* @@
+@@column12 216 @@
 @@
 
 @@row
-@@column1 *Phone* @@
-@@column2 (+34) 91 334 9079 @@
+@@column11 *Phone* @@
+@@column12 (+34) 91 334 9079 @@
 @@
 
 @@row
-@@column1 *e-mail* @@
-@@column2
+@@column11 *e-mail* @@
+@@column12
 ~~~<a href="#" id="obfuscated_address">show</a><script type="text/javascript">var _ref0 = "mai";var _ref1 = "lto";var _ref2 = ":pa";var _ref3 = "blo";var _ref4 = ".sa";var _ref5 = "njo";var _ref6 = "se@";var _ref7 = "csi";var _ref8 = "c.e";var _ref9 = "s";var _ref = _ref0+_ref1+_ref2+_ref3+_ref4+_ref5+_ref6+_ref7+_ref8+_ref9; document.getElementById('obfuscated_address').href = _ref;</script>~~~
 @@ @@
 
 @@row
-@@column1 *IDs* @@
-@@column2 [Google Scholar](https://scholar.google.com/citations?user=pt3gvQgAAAAJ), ORCID [0000-0002-7920-5273](http://orcid.org/0000-0002-7920-5273),
+@@column11 *IDs* @@
+@@column12 [Google Scholar](https://scholar.google.com/citations?user=pt3gvQgAAAAJ), ORCID [0000-0002-7920-5273](http://orcid.org/0000-0002-7920-5273),
 ResearcherID [A-4795-2010](http://www.researcherid.com/rid/A-4795-2010)
 @@ @@
 @@ @@ @@
@@ -58,63 +58,58 @@ ResearcherID [A-4795-2010](http://www.researcherid.com/rid/A-4795-2010)
 # Academic career
 
 @@row
-@@column1 *Mar 2017 - present* @@
-@@column2 Tenured Scientist at the [ICMM](http://www.icmm.csic.es) - [CSIC](http://www.csic.es) (Madrid, Spain)@@
+@@column11 *Mar 2017 - present* @@
+@@column12 Tenured Scientist at the [ICMM](http://www.icmm.csic.es) - [CSIC](http://www.csic.es) (Madrid, Spain)@@
 @@
 
 @@row
-@@column1 *Mar 2017 - present* @@
-@@column2 Tenured Scientist at the [ICMM](http://www.icmm.csic.es/) - [CSIC](http://www.csic.es/) (Madrid, Spain)@@
+@@column11 *April 2015 - Mar 2017* @@
+@@column12 Ramón y Cajal Fellow at the [ICMM](http://www.icmm.csic.es/) - [CSIC](http://www.csic.es/) (Madrid, Spain)@@
 @@
 
 @@row
-@@column1 *April 2015 - Mar 2017* @@
-@@column2 Ramón y Cajal Fellow at the [ICMM](http://www.icmm.csic.es/) - [CSIC](http://www.csic.es/) (Madrid, Spain)@@
+@@column11 *Nov 2012 - Mar 2015* @@
+@@column12 Postdoctoral Research Associate at the [ICMM](http://www.icmm.csic.es/) - [CSIC](http://www.csic.es/) (Madrid, Spain), with [Prof. F. Guinea](https://scholar.google.com/citations?user=5FPqkUgAAAAJ)@@
 @@
 
 @@row
-@@column1 *Nov 2012 - Mar 2015* @@
-@@column2 Postdoctoral Research Associate at the [ICMM](http://www.icmm.csic.es/) - [CSIC](http://www.csic.es/) (Madrid, Spain), with [Prof. F. Guinea](https://scholar.google.com/citations?user=5FPqkUgAAAAJ)@@
+@@column11 *Nov 2009 - Oct 2012* @@
+@@column12 JAE-Doc Research Associate at the [IEM](http://www.iem.cfmac.csic.es/) - [CSIC](http://www.csic.es/) (Madrid, Spain), with [Prof. J. González](http://perso.ya.com/gonzalezc/home.html)@@
 @@
 
 @@row
-@@column1 *Nov 2009 - Oct 2012* @@
-@@column2 JAE-Doc Research Associate at the [IEM](http://www.iem.cfmac.csic.es/) - [CSIC](http://www.csic.es/) (Madrid, Spain), with [Prof. J. González](http://perso.ya.com/gonzalezc/home.html)@@
+@@column11 *Aug 2008 - Oct 2009* @@
+@@column12 Research Associate at [Lancaster Univesity](http://www.lancs.ac.uk/) (UK) with [Prof. H. Schomerus](http://www.lancs.ac.uk/depts/physics/staff/schomerus/)@@
 @@
 
 @@row
-@@column1 *Aug 2008 - Oct 2009* @@
-@@column2 Research Associate at [Lancaster Univesity](http://www.lancs.ac.uk/) (UK) with [Prof. H. Schomerus](http://www.lancs.ac.uk/depts/physics/staff/schomerus/)@@
+@@column11 *Mar 2005 - Jul 2008* @@
+@@column12 Research Associate at the [Institut für Theoretische Festkörperphysik](http://www.tfp.uni-karlsruhe.de/) ([Karlsruhe Univesity](http://www.uni-karlsruhe.de/), Germany) with [Prof. G. Schön](http://www.tfp.uni-karlsruhe.de/schoen)@@
 @@
 
 @@row
-@@column1 *Mar 2005 - Jul 2008* @@
-@@column2 Research Associate at the [Institut für Theoretische Festkörperphysik](http://www.tfp.uni-karlsruhe.de/) ([Karlsruhe Univesity](http://www.uni-karlsruhe.de/), Germany) with [Prof. G. Schön](http://www.tfp.uni-karlsruhe.de/schoen)@@
+@@column11 *14th Jan 2005* @@
+@@column12 Viva for PhD thesis titled [Non-perturbative approaches to transport in nanostructures and granular arrays](http://digital.csic.es/bitstream/10261/33681/1/ThesisSan-Jose.pdf)@@
 @@
 
 @@row
-@@column1 *14th Jan 2005* @@
-@@column2 Viva for PhD thesis titled [Non-perturbative approaches to transport in nanostructures and granular arrays](http://digital.csic.es/bitstream/10261/33681/1/ThesisSan-Jose.pdf)@@
+@@column11 *Sep 2000 - Sep 2004* @@
+@@column12 PhD studies under the direction of [Prof. Francisco Guinea](https://scholar.google.com/citations?user=5FPqkUgAAAAJ) ([ICMM](http://www.icmm.csic.es/) - [CSIC](http://www.csic.es/) - Spain)@@
 @@
 
 @@row
-@@column1 *Sep 2000 - Sep 2004* @@
-@@column2 PhD studies under the direction of [Prof. Francisco Guinea](https://scholar.google.com/citations?user=5FPqkUgAAAAJ) ([ICMM](http://www.icmm.csic.es/) - [CSIC](http://www.csic.es/) - Spain)@@
+@@column11 *Sep 1999 - Sep 2000* @@
+@@column12 Pre-doctoral research project on "Resonant scattering in light waveguides", with [Prof. J. Sáenz](http://www.uam.es/gruposinv/MoLE/page/index_uk.html) ([Autónoma University](http://www.uam.es/), Madrid, Spain)@@
 @@
 
 @@row
-@@column1 *Sep 1999 - Sep 2000* @@
-@@column2 Pre-doctoral research project on "Resonant scattering in light waveguides", with [Prof. J. Sáenz](http://www.uam.es/gruposinv/MoLE/page/index_uk.html) ([Autónoma University](http://www.uam.es/), Madrid, Spain)@@
+@@column11 *Feb 1999* @@
+@@column12 Graduate degree in Theoretical Physics by the [Autónoma University](http://www.uam.es/) (Extraordinary Graduate Award)@@
 @@
 
 @@row
-@@column1 *Feb 1999* @@
-@@column2 Graduate degree in Theoretical Physics by the [Autónoma University](http://www.uam.es/) (Extraordinary Graduate Award)@@
-@@
-
-@@row
-@@column1 *Sep 1994 - Feb 1999* @@
-@@column2 Undergraduate studies in [Autónoma University](http://www.uam.es/) (Madrid, Spain)@@
+@@column11 *Sep 1994 - Feb 1999* @@
+@@column12 Undergraduate studies in [Autónoma University](http://www.uam.es/) (Madrid, Spain)@@
 @@
 
 # Scientific conferences
