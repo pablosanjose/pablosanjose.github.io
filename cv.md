@@ -116,7 +116,7 @@ ResearcherID [A-4795-2010](http://www.researcherid.com/rid/A-4795-2010)
 ~~~
 <ol reversed>
 	<li>
-	<p>September 4-5 2021, <strong>IOP-EPS mini-colloquium: Real-space simulations of topological matter and disordered materials</strong>, (online)  </p>
+	<p>October 4-5 2021, <strong>IOP-EPS mini-colloquium: Real-space simulations of topological matter and disordered materials</strong>, (online)  </p>
 	<div class="colbox-blue">
          <strong>[Invited]</strong>: <i>Engineering Majoranas in 2D crystals: three graphene-based recipes</i> </br>
          </div>
