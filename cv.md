@@ -396,6 +396,13 @@ ResearcherID [A-4795-2010](http://www.researcherid.com/rid/A-4795-2010)
 ~~~
 <ol reversed>
 	<li>
+	<p><strong>Theory Seminar series in LPS Orsay</strong>, Paris, France, 27th January 2022 (online)</p>
+	<div class="colbox-blue">
+	<strong>[Seminar]</strong>: <i>Three Graphene-based Recipes for Majorana Bound States</i>
+	</div>
+	</li>
+
+	<li>
 	<p><strong>Seminarios alternativos del Instituto de Ciencia de Materiales de Madrid (CSIC)</strong>, Madrid, Spain, 26th April 2018</p>
 	<div class="colbox-blue">
 	<strong>[Seminar]</strong>: <i>Moiré patterns and spontaneous deformations in 2D crystals</i>
