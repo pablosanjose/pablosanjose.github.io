@@ -7,6 +7,17 @@ title = "Publications"
 @@colbox-blue [Google Scholar](https://scholar.google.com/citations?user=pt3gvQgAAAAJ) [![Google Scholar](/assets/icons/googlescholar.png)](https://scholar.google.com/citations?user=pt3gvQgAAAAJ) @@
 @@colbox-blue ~~~<a href="http://www.researcherid.com/rid/A-4795-2010">Publons</a><span id="badgeCont161"><script type="text/javascript" src="https://publons.com/mashlets?el=badgeCont161&rid=A-4795-2010&size=small"></script></span>~~~@@
 
+# 2022
+
+@@papericon ![](/assets/icons/arxiv.png) @@
+@@paperdata
+**72. [Majorana bound states in encapsulated bilayer graphene](https://arxiv.org/abs/2202.00593)**
+
+Fernando Peñaranda, Ramón Aguado, Elsa Prada, Pablo San-Jose
+
+*Preprint [arXiv:2202.00593](https://arxiv.org/abs/2202.00593)*
+@@
+
 # 2021
 
 @@papericon ![](/assets/icons/prb.png) @@
