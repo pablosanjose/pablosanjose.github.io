@@ -4,7 +4,7 @@ title = "Jobs"
 
 # 4-year PhD position (open call)
 
-One PhD student position is now open to work on **Many-body attosecond optoelectronics in two-dimensional crystals**.
+One theory PhD student position is now open to work on **Many-body attosecond optoelectronics in two-dimensional crystals**.
 
 The project lies at the interface between ultrafast laser physics and many-body condensed matter physics, and has  both formal and computational components. The position is financially supported by a Spanish national PhD fellowship (formerly known as FPI).
 
