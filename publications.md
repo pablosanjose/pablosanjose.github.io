@@ -11,6 +11,15 @@ title = "Publications"
 
 @@papericon ![](/assets/icons/arxiv.png) @@
 @@paperdata
+**74. [Theory of Caroli-de Gennes-Matricon analogs in full-shell nanowires](https://arxiv.org/abs/2207.07606)**
+
+P. San-Jose, C. Payá, C. M. Marcus, S. Vaitiekėnas, E. Prada
+
+*Preprint [arXiv:2203.07829](https://arxiv.org/abs/2207.07606)*
+@@
+
+@@papericon ![](/assets/icons/arxiv.png) @@
+@@paperdata
 **73. [Majorana-like Coulomb spectroscopy in the absence of zero bias peaks](https://arxiv.org/abs/2203.07829)**
 
 M. Valentini, M. Borovkov, E. Prada, S. Marti-Sanchez, M. Botifoll, A. Hofmann, J. Arbiol, R. Aguado, P. San-Jose and G. Katsaros.
