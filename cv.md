@@ -116,6 +116,13 @@ ResearcherID [A-4795-2010](http://www.researcherid.com/rid/A-4795-2010)
 ~~~
 <ol reversed>
 	<li>
+	<p>July 18-21 2022, <strong>Quantum Designer Physics 2022</strong>, (San Sebastián, Spain)  </p>
+	<div class="colbox-blue">
+         <strong>[Poster]</strong>: <i>Majorana-like Coulomb spectroscopy in the absence of zero bias peaks</i> </br>
+         </div>
+	</li>
+
+	<li>
 	<p>March 14-18 2022, <strong>March Meeting 2022</strong>, (Chicago - online)  </p>
 	<div class="colbox-blue">
          <strong>[Oral]</strong>: <i>Majorana bound states in encapsulated bilayer graphene</i> </br>
