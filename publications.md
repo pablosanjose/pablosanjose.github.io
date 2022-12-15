@@ -18,13 +18,13 @@ P. San-Jose, C. Payá, C. M. Marcus, S. Vaitiekėnas, E. Prada
 *Preprint [arXiv:2203.07829](https://arxiv.org/abs/2207.07606)*
 @@
 
-@@papericon ![](/assets/icons/arxiv.png) @@
+@@papericon ![](/assets/icons/nat.png) @@
 @@paperdata
 **73. [Majorana-like Coulomb spectroscopy in the absence of zero bias peaks](https://arxiv.org/abs/2203.07829)**
 
 M. Valentini, M. Borovkov, E. Prada, S. Marti-Sanchez, M. Botifoll, A. Hofmann, J. Arbiol, R. Aguado, P. San-Jose and G. Katsaros.
 
-*Preprint [arXiv:2203.07829](https://arxiv.org/abs/2203.07829)*
+*[Nature **612**, 442–447 (2022)](https://doi.org/10.1038/s41586-022-05382-w)*
 @@
 
 @@papericon ![](/assets/icons/arxiv.png) @@
