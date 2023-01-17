@@ -539,11 +539,13 @@ ResearcherID [A-4795-2010](http://www.researcherid.com/rid/A-4795-2010)
 
 # Outreach
 
-- **[Radio interview](https://www.icmm.csic.es/sanjose/resources/universoparalelo.mp3)** about topological materials and quantum computation for [Universo Paralelo (Radio Círculo)](https://universoparalelociencia.com/) - July 18th, 2018.
+- **[Press interview](/assets/Impostora-ElPais.pdf)** about our Nature article on Majoranas in full shell nanowires for *[El Pais](https://elpais.com/tecnologia/2023-01-13/descubierta-una-impostora-que-simula-ser-una-particula-de-majorana-el-santo-grial-cuantico.html)* - January 13th, 2023.
+- 
+- **[Radio interview](/assets/universoparalelo.mp3)** about topological materials and quantum computation for *[Universo Paralelo (Radio Círculo)](https://universoparalelociencia.com/)* - July 18th, 2018.
 
-- **[Youtube Interview](https://www.youtube.com/watch?v=93AbfHZadTU)** about quantum technologies and topological materials for [Fundación BBVA](https://www.fbbva.es/noticias/pablo-san-jose-parece-inminente-ordenador-cuantico-venza-ciertas-tareas-uno-clasico/) - September 18th, 2017.
+- **[Youtube Interview](https://www.youtube.com/watch?v=93AbfHZadTU)** about quantum technologies and topological materials for *[Fundación BBVA](https://www.fbbva.es/noticias/pablo-san-jose-parece-inminente-ordenador-cuantico-venza-ciertas-tareas-uno-clasico/)* - September 18th, 2017.
 
-- **[TV Interview](https://www.icmm.csic.es/sanjose/resources/La2Noticias-QuantumComputing.mp4)** about Quantum Computation for La2 Noticias, TVE2 - September 12th, 2017.
+- **[TV Interview](/assets/La2Noticias-QuantumComputing.mp4)** about Quantum Computation for La2 Noticias, TVE2 - September 12th, 2017.
 
 - **[Journal article](http://revistadefisica.es/) titled  'Materiales 2D'**. Rafael Roldán, Andres Castellanos-Gomez, Pablo San-Jose. *[Revista Española de Física **31** (3), (2017)](http://revistadefisica.es/)*.
 
@@ -555,13 +557,13 @@ ResearcherID [A-4795-2010](http://www.researcherid.com/rid/A-4795-2010)
 
 - **[Radio interview](https://www.icmm.csic.es/sanjose/outreach/%25Luciernagas_Apr_16.mp3%25)** about Majoranas in graphene, in the program ["Luciérnagas" (rtvd.org)](http://ciencia-luciernagas.blogspot.com.es/2016/04/particulas-de-majorana-en-grafeno.html) - April 5th, 2016.
 
-- **[Press interview](https://www.icmm.csic.es/sanjose/resources/europapress.pdf)** about graphene by [Europa Press](http://www.europapress.es/economia/noticia-tecnologia-apuesta-grafeno-material-unico-enorme-potencial-descubrir-20160403085934.html), titled 'La tecnología apuesta por el grafeno' - April 3rd, 2016.
+- **[Press interview](/assets/europapress.pdf)** about graphene by [Europa Press](http://www.europapress.es/economia/noticia-tecnologia-apuesta-grafeno-material-unico-enorme-potencial-descubrir-20160403085934.html), titled 'La tecnología apuesta por el grafeno' - April 3rd, 2016.
 
-- **[Radio interview](https://www.icmm.csic.es/sanjose/resources/CanalExtremadura_Mar_2016.mp3)** about graphene Majoranas and quantum computation, in the program ["Principio de Incertidumbre" (Canal Extremadura)](http://www.canalextremadura.es/alacarta/radio/audios/principio-de-incertidumbre-majorana-grafeno-y-computacion-cuantica-120316) - March 12th, 2016.
+- **[Radio interview](/assets/CanalExtremadura_Mar_2016.mp3)** about graphene Majoranas and quantum computation, in the program ["Principio de Incertidumbre" (Canal Extremadura)](http://www.canalextremadura.es/alacarta/radio/audios/principio-de-incertidumbre-majorana-grafeno-y-computacion-cuantica-120316) - March 12th, 2016.
 
 - **[Press interview](http://www.agenciasinc.es/Noticias/Demostrado-se-pueden-obtener-particulas-de-Majorana-en-grafeno)** for [SINC](http://www.agenciasinc.es/), titled 'Demostrado: se pueden obtener partículas de Majorana en grafeno' - March 4th, 2016.
 
-- **[Radio interview](https://www.icmm.csic.es/sanjose/resources/OndaCero_Interview.mp4)** about rare earths in the program ["Más de uno" (Onda Cero)](http://www.ondacero.es/programas/mas-de-uno/audios-podcast/ciencia/ciencia_2015051455548d1b0cf2e9eb7e5d954f.html) - May 14th, 2015.
+- **[Radio interview](/assets/OndaCero_Interview.mp4)** about rare earths in the program ["Más de uno" (Onda Cero)](http://www.ondacero.es/programas/mas-de-uno/audios-podcast/ciencia/ciencia_2015051455548d1b0cf2e9eb7e5d954f.html) - May 14th, 2015.
 
 - **[Press interview](http://www.elmundo.es/economia/2014/06/06/5390b98222601da77a8b4594.html)** for the science section INnovadores of the Spanish newspaper [El Mundo](http://www.elmundo.es/), titled 'Del petróleo al coltán, las materias primas que pueden hacer tambalear a la geopolítica mundial' - June 6th, 2014.
 
@@ -569,9 +571,9 @@ ResearcherID [A-4795-2010](http://www.researcherid.com/rid/A-4795-2010)
 
 - **School presentation** at the 'Príncipe de Asturias' primary school, titled 'El Grafeno' - January 28th, 2014.
 
-- **[Press interview](https://www.icmm.csic.es/sanjose/resources/ElMundo_EM2_Oct_2012.pdf)** for the science section EM2 of the Spanish newspaper [El Mundo](http://www.elmundo.es/), titled 'El periódico electrónico y enrollable llegará en 2015' - October 12th, 2012.
+- **[Press interview](/assets/ElMundo_EM2_Oct_2012.pdf)** for the science section EM2 of the Spanish newspaper [El Mundo](http://www.elmundo.es/), titled 'El periódico electrónico y enrollable llegará en 2015' - October 12th, 2012.
 
-- **[Press interview](https://www.icmm.csic.es/sanjose/resources/ElMundoPantallasFlexibles.pdf)** for the science section EM2 of the Spanish newspaper [El Mundo](http://www.elmundo.es/), titled 'Pantallas flexibles: la revolución del grafeno' - November 25th, 2011.
+- **[Press interview](/assets/ElMundoPantallasFlexibles.pdf)** for the science section EM2 of the Spanish newspaper [El Mundo](http://www.elmundo.es/), titled 'Pantallas flexibles: la revolución del grafeno' - November 25th, 2011.
 
 - **[School presentations](http://hdl.handle.net/10261/49921)** titled 'Materiales asombrosos'
 
@@ -586,9 +588,9 @@ ResearcherID [A-4795-2010](http://www.researcherid.com/rid/A-4795-2010)
 
 - **[Press interview](http://www.publico.es/ciencias/mina-lapiz-basta-estudiar-particula.html)** for [El Público](http://physicsworld.com/) titled 'Una mina de lápiz basta para estudiar la "partícula de Dios"'- February 28th, 2011.
 
-- **[Journal interview](http://physicsworld.com/cws/article/news/44994)** for [Physics World](http://physicsworld.com/) (February 1st, 2011), titled 'Theorists turn to graphene for clues to Higgs'. Also featured in [Nature](https://www.icmm.csic.es/sanjose/resources/GrapheneHiggs-Nature.pdf), [and](http://news.discovery.com/space/could-the-higgs-be-hiding-in-graphene.html) [other](http://www.popsci.com/technology/article/2011-02/graphene-could-help-physicists-probe-higgs-bosons-secrets) [media](http://www.electroiq.com/index/display/nanotech-article-display/5395487017/articles/small-times/nanotechmems/materials/graphene/2011/2/higgs-boson_and_graphene.html?utm_source=twitterfeed&utm_medium=twitter).
+- **[Journal interview](http://physicsworld.com/cws/article/news/44994)** for [Physics World](http://physicsworld.com/) (February 1st, 2011), titled 'Theorists turn to graphene for clues to Higgs'. Also featured in [Nature](/assets/GrapheneHiggs-Nature.pdf), [and](http://news.discovery.com/space/could-the-higgs-be-hiding-in-graphene.html) [other](http://www.popsci.com/technology/article/2011-02/graphene-could-help-physicists-probe-higgs-bosons-secrets) [media](http://www.electroiq.com/index/display/nanotech-article-display/5395487017/articles/small-times/nanotechmems/materials/graphene/2011/2/higgs-boson_and_graphene.html?utm_source=twitterfeed&utm_medium=twitter).
 
-- **[Press interview](https://www.icmm.csic.es/sanjose/resources/Fluorografeno-ElMundo.pdf)** for the science section Eureka of the Spanish newspaper [El Mundo](http://www.elmundo.es/), titled '"Superteflón" para el hogar del futuro' - November 14th, 2010.
+- **[Press interview](/assets/Fluorografeno-ElMundo.pdf)** for the science section Eureka of the Spanish newspaper [El Mundo](http://www.elmundo.es/), titled '"Superteflón" para el hogar del futuro' - November 14th, 2010.
 
 
 # Teaching
