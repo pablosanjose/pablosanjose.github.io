@@ -7,16 +7,18 @@ title = "Publications"
 @@colbox-blue [Google Scholar](https://scholar.google.com/citations?user=pt3gvQgAAAAJ) [![Google Scholar](/assets/icons/googlescholar.png)](https://scholar.google.com/citations?user=pt3gvQgAAAAJ) @@
 <!-- @@colbox-blue ~~~<a href="https://www.webofscience.com/wos/author/rid/A-4795-2010">Publons</a><span id="badgeCont161"><script type="text/javascript" src="https://publons.com/mashlets?el=badgeCont161&rid=A-4795-2010&size=small"></script></span>~~~@@ -->
 
-# 2022
+# 2023
 
-@@papericon ![](/assets/icons/arxiv.png) @@
+@@papericon ![](/assets/icons/prb.png) @@
 @@paperdata
 **74. [Theory of Caroli-de Gennes-Matricon analogs in full-shell nanowires](https://arxiv.org/abs/2207.07606)**
 
 P. San-Jose, C. Payá, C. M. Marcus, S. Vaitiekėnas, E. Prada
 
-*Preprint [arXiv:2203.07829](https://arxiv.org/abs/2207.07606)*
+Accepted in Phys. Rev. B. *Preprint [arXiv:2203.07829](https://arxiv.org/abs/2207.07606)*
 @@
+
+# 2022
 
 @@papericon ![](/assets/icons/nat.png) @@
 @@paperdata
@@ -27,13 +29,13 @@ M. Valentini, M. Borovkov, E. Prada, S. Marti-Sanchez, M. Botifoll, A. Hofmann, 
 *[Nature **612**, 442–447 (2022)](https://doi.org/10.1038/s41586-022-05382-w)*
 @@
 
-@@papericon ![](/assets/icons/arxiv.png) @@
+@@papericon ![](/assets/icons/sci.png) @@
 @@paperdata
 **72. [Majorana bound states in encapsulated bilayer graphene](https://arxiv.org/abs/2202.00593)**
 
 Fernando Peñaranda, Ramón Aguado, Elsa Prada, Pablo San-Jose
 
-*Preprint [arXiv:2202.00593](https://arxiv.org/abs/2202.00593)*
+Accepted in Scipost. *Preprint [arXiv:2202.00593](https://arxiv.org/abs/2202.00593)*
 @@
 
 # 2021
