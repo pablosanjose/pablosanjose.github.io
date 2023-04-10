@@ -29,7 +29,7 @@ M. Valentini, M. Borovkov, E. Prada, S. Marti-Sanchez, M. Botifoll, A. Hofmann, 
 *[Nature **612**, 442–447 (2022)](https://doi.org/10.1038/s41586-022-05382-w)*
 @@
 
-@@papericon ![](/assets/icons/sci.png) @@
+@@papericon ![](/assets/icons/sp.png) @@
 @@paperdata
 **72. [Majorana bound states in encapsulated bilayer graphene](https://arxiv.org/abs/2202.00593)**
 
