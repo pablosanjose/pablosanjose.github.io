@@ -24,7 +24,7 @@ Accepted in Phys. Rev. B. *Preprint [arXiv:2203.07829](https://arxiv.org/abs/220
 @@paperdata
 **73. [Majorana-like Coulomb spectroscopy in the absence of zero bias peaks](https://arxiv.org/abs/2203.07829)**
 
-M. Valentini, M. Borovkov, E. Prada, S. Marti-Sanchez, M. Botifoll, A. Hofmann, J. Arbiol, R. Aguado, P. San-Jose and G. Katsaros.
+M. Valentini, M. Borovkov, E. Prada, S. Marti-Sanchez, M. Botifoll, A. Hofmann, J. Arbiol, R. Aguado, P. San-Jose, G. Katsaros.
 
 *[Nature **612**, 442–447 (2022)](https://doi.org/10.1038/s41586-022-05382-w)*
 @@
@@ -44,7 +44,7 @@ Accepted in Scipost. *Preprint [arXiv:2202.00593](https://arxiv.org/abs/2202.005
 @@paperdata
 **71. [Fluxoid-induced pairing suppression and near-zero modes in quantum dots coupled to full-shell nanowires](https://arxiv.org/abs/2107.13011)**
 
-S. D. Escribano, A. L. Yeyati, R. Aguado, E. Prada, and P. San-Jose
+S. D. Escribano, A. L. Yeyati, R. Aguado, E. Prada, P. San-Jose
 
 *[Phys. Rev. B **105**, 045418 (2022)](https://doi.org/10.1103/PhysRevB.105.045418)*
 @@
@@ -225,7 +225,7 @@ M. T. Deng, S. Vaitiekénas, E. Prada, P. San-Jose, J. Nygård, P. Krogstrup, R.
 @@paperdata
 **52. [Modulation of Kekulé adatom ordering due to strain in graphene](https://arxiv.org/abs/1711.07902)**
 
-L. González-Árraga, F. Guinea and P. San-Jose
+L. González-Árraga, F. Guinea, P. San-Jose
 
 *[Phys. Rev. B **97**, 165430 (2018)](https://link.aps.org/doi/10.1103/PhysRevB.97.165430)*
 @@
@@ -245,7 +245,7 @@ Jorge Cayao, Pablo San-Jose, Annica Black-Schaffer, Ramón Aguado, Elsa Prada
 @@paperdata
 **50. [Theory of 2D crystals: graphene and beyond](https://arxiv.org/abs/1703.07200 )**
 
-Rafael Roldán, Luca Chirolli, Elsa Prada, Jose Angel Silva-Guillén, Pablo San-Jose and Francisco Guinea
+Rafael Roldán, Luca Chirolli, Elsa Prada, Jose Angel Silva-Guillén, Pablo San-Jose, Francisco Guinea
 
 *[Chemical Society Reviews **46**, 4387 (2017)](http://pubs.rsc.org/en/Content/ArticleLanding/2017/CS/C7CS00210F#!divAbstract)*
 
@@ -419,7 +419,7 @@ P. San-Jose, R. V. Gorbachev, A. K. Geim, K. S. Novoselov, F. Guinea
 @@paperdata
 **32. [Mapping the Topological Phase Diagram of Multiband Semiconductors with Supercurrents](http://arxiv.org/abs/1309.2239)**
 
-Pablo San-Jose, Elsa Prada and Ramón Aguado
+Pablo San-Jose, Elsa Prada, Ramón Aguado
 
 *[Phys. Rev. Lett. **112**, 137001 (2014)](http://dx.doi.org/10.1103/PhysRevLett.112.137001)*
 @@
@@ -430,7 +430,7 @@ Pablo San-Jose, Elsa Prada and Ramón Aguado
 @@paperdata
 **31. [Optical conductivity, Drude weight and plasmons in twisted graphene bilayers](http://arxiv.org/abs/1307.4606)**
 
-Tobias Stauber, Pablo San-Jose and Luis Brey
+Tobias Stauber, Pablo San-Jose, Luis Brey
 
 *[New. J. Phys **15**, 113050 (2013)](http://iopscience.iop.org/1367-2630/15/11/113050)*
 @@
@@ -479,7 +479,7 @@ T. Löfwander, P. San-Jose, E. Prada
 @@paperdata
 **26. [Laser-induced quantum pumping in graphene](http://arxiv.org/abs/1206.4411)**
 
-P. San-Jose, E. Prada, H. Schomerus and S. Kohler
+P. San-Jose, E. Prada, H. Schomerus, S. Kohler
 
 *[Appl. Phys. Lett. **101**, 153506 (2012)](http://dx.doi.org/10.1063/1.4758695)*
 @@
@@ -488,7 +488,7 @@ P. San-Jose, E. Prada, H. Schomerus and S. Kohler
 @@paperdata
 **25. [Transport spectroscopy of NS nanowire junctions with Majorana fermions](http://arxiv.org/abs/1203.4488)**
 
-E. Prada, P. San-Jose and R. Aguado
+E. Prada, P. San-Jose, R. Aguado
 
 *[Phys. Rev. B **86**, 180503(R) (2012)](http://link.aps.org/doi/10.1103/PhysRevB.86.180503)* [![](/assets/icons/editor.jpg)](http://prb.aps.org/toc/PRB/v86/i18#highlighted-articles) ![](/assets/icons/rapid.gif)
 @@
@@ -497,7 +497,7 @@ E. Prada, P. San-Jose and R. Aguado
 @@paperdata
 **24. [ac Josephson Effect in Finite-Length Nanowire Junctions with Majorana Modes](http://arxiv.org/abs/1112.5983)**
 
-P. San-Jose, E. Prada and R. Aguado
+P. San-Jose, E. Prada, R. Aguado
 
 *[Phys. Rev. Lett. **108**, 257001 (2012)](http://link.aps.org/doi/10.1103/PhysRevLett.108.257001)*
 @@
@@ -506,7 +506,7 @@ P. San-Jose, E. Prada and R. Aguado
 @@paperdata
 **23. [Non-Abelian Gauge Potentials in Graphene Bilayers](http://arxiv.org/abs/1110.2883)**
 
-P. San-Jose, J. González and F. Guinea
+P. San-Jose, J. González, F. Guinea
 
 *[Phys. Rev. Lett. **108**, 216802 (2012)](http://link.aps.org/doi/10.1103/PhysRevLett.108.216802)*
 @@
@@ -680,7 +680,7 @@ P. San-Jose, C. P. Herrero, F. Guinea, D. P. Arovas,
 @@paperdata
 **6. [Effect of inelastic scattering on spin entanglement detection through current noise](http://www.arxiv.org/abs/cond-mat/0601365)**
 
-P. San-Jose and E. Prada
+P. San-Jose, E. Prada
 
 *[Phys. Rev. B **74**, 045305 (2006)](http://link.aps.org/abstract/PRB/v74/e045305)*
 @@
@@ -702,7 +702,7 @@ P. San-Jose, T. Martin, F. Guinea
 @@paperdata
 **4. [Coherence and Coulomb blockade in single-electron devices: A unified treatment of interaction effects](http://www.arxiv.org/abs/cond-mat/0307207)**
 
-S. Florens, P. San-Jose, F. Guinea, and A. Georges
+S. Florens, P. San-Jose, F. Guinea, A. Georges
 
 *[Phys. Rev. B **68**, 245311 (2003)](http://link.aps.org/abstract/PRB/v68/e245311)*
 @@
@@ -711,7 +711,7 @@ S. Florens, P. San-Jose, F. Guinea, and A. Georges
 @@paperdata
 **3. [Granular systems in the Coulomb blockade regime](http://www.arxiv.org/abs/cond-mat/0211686)**
 
-D. P. Arovas, F. Guinea, C. P. Herrero, and P. San-Jose
+D. P. Arovas, F. Guinea, C. P. Herrero, P. San-Jose
 
 *[Phys. Rev. B **68**, 085306 (2003)](http://link.aps.org/abstract/PRB/v68/e085306)*
 @@
@@ -722,7 +722,7 @@ D. P. Arovas, F. Guinea, C. P. Herrero, and P. San-Jose
 @@paperdata
 **2. [Dynamical Encoding by Networks of Competing Neuron Groups: Winnerless Competition](http://link.aps.org/abstract/PRL/v87/e068102)**
 
-M. Rabinovich, A. Volkovskii, P. Lecanda, R. Huerta, H. D. I. Abarbanel and G. Laurent
+M. Rabinovich, A. Volkovskii, P. Lecanda, R. Huerta, H. D. I. Abarbanel, G. Laurent
 (signed as P. Lecanda)
 
 *[Phys. Rev. Lett. **87**, 068102 (2001)](http://link.aps.org/abstract/PRL/v87/e068102)*
@@ -732,7 +732,7 @@ M. Rabinovich, A. Volkovskii, P. Lecanda, R. Huerta, H. D. I. Abarbanel and G. L
 @@paperdata
 **1. [Resonant Radiation Pressure on Neutral Particles in a Waveguide](http://arxiv.org/abs/physics/0103017)**
 
-R. Gómez-Medina, P. San-Jose, A. García-Martín, M. Lester, M. Nieto-Vesperinas, and J. J. Sáenz
+R. Gómez-Medina, P. San-Jose, A. García-Martín, M. Lester, M. Nieto-Vesperinas, J. J. Sáenz
 
 *[Phys. Rev. Lett. **86**, 4275 (2001)](http://link.aps.org/abstract/PRL/v86/p4275)*
 @@
