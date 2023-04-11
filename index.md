@@ -55,7 +55,7 @@
 @@row
 @@column11 *IDs* @@
 @@column12 [Google Scholar](https://scholar.google.com/citations?user=pt3gvQgAAAAJ), ORCID [0000-0002-7920-5273](http://orcid.org/0000-0002-7920-5273),
-ResearcherID [A-4795-2010](https://www.webofscience.com/wos/author/rid/A-4795-2010)
+ResearcherID [A-4795-2010](https://www.webofscience.com/wos/author/rid/A-4795-2010), Scopus [14039527400](https://www.scopus.com/authid/detail.uri?authorId=14039527400)
 @@ @@
 @@ @@ @@
 
