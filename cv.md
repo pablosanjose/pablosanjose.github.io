@@ -123,7 +123,7 @@ ResearcherID [A-4795-2010](http://www.researcherid.com/rid/A-4795-2010)
 	</li>
 
 	<li>
-	<p>March 14-18 2022, <strong>March Meeting 2022</strong>, (Chicago - online)  </p>
+	<p>March 14-18 2022, <strong>APS March Meeting 2022</strong>, (Chicago - online)  </p>
 	<div class="colbox-blue">
          <strong>[Oral]</strong>: <i>Majorana bound states in encapsulated bilayer graphene</i> </br>
          </div>
@@ -137,7 +137,7 @@ ResearcherID [A-4795-2010](http://www.researcherid.com/rid/A-4795-2010)
 	</li>
 
 	<li>
-	<p>March 15-19 2021, <strong>March Meeting 2021</strong> (online)  </p>
+	<p>March 15-19 2021, <strong>APS March Meeting 2021</strong> (online)  </p>
 	<div class="colbox-blue">
          <strong>[Oral]</strong>: <i>Flat bands in magic-angle vibrating plates</i> </br>
          </div>
