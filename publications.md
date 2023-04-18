@@ -35,7 +35,7 @@ M. Valentini, M. Borovkov, E. Prada, S. Marti-Sanchez, M. Botifoll, A. Hofmann, 
 
 Fernando Peñaranda, Ramón Aguado, Elsa Prada, Pablo San-Jose
 
-Accepted in Scipost. *Preprint [arXiv:2202.00593](https://arxiv.org/abs/2202.00593)*
+*[Scipost Physics **14**, 075 (2023)](https://scipost.org/SciPostPhys.14.4.075*
 @@
 
 # 2021
