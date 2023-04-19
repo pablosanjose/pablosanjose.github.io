@@ -15,7 +15,7 @@ title = "Publications"
 
 P. San-Jose, C. Payá, C. M. Marcus, S. Vaitiekėnas, E. Prada
 
-Accepted in Phys. Rev. B. *Preprint [arXiv:2203.07829](https://arxiv.org/abs/2207.07606)*
+*[Phys. Rev. B **107**, 155423 (2023)]*(https://doi.org/10.1103/PhysRevB.107.155423)*
 @@
 
 # 2022
