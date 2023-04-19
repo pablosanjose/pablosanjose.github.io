@@ -15,7 +15,7 @@ title = "Publications"
 
 P. San-Jose, C. Payá, C. M. Marcus, S. Vaitiekėnas, E. Prada
 
-*[Phys. Rev. B **107**, 155423 (2023)]*(https://doi.org/10.1103/PhysRevB.107.155423)*
+*[Phys. Rev. B **107**, 155423 (2023)](https://doi.org/10.1103/PhysRevB.107.155423)*
 @@
 
 # 2022
@@ -35,7 +35,7 @@ M. Valentini, M. Borovkov, E. Prada, S. Marti-Sanchez, M. Botifoll, A. Hofmann, 
 
 Fernando Peñaranda, Ramón Aguado, Elsa Prada, Pablo San-Jose
 
-*[SciPost Physics **14**, 075 (2023)](https://scipost.org/SciPostPhys.14.4.075*
+*[SciPost Physics **14**, 075 (2023)](https://scipost.org/SciPostPhys.14.4.075)*
 @@
 
 # 2021
