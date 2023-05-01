@@ -27,6 +27,8 @@ P. San-Jose, C. Payá, C. M. Marcus, S. Vaitiekėnas, E. Prada
 M. Valentini, M. Borovkov, E. Prada, S. Marti-Sanchez, M. Botifoll, A. Hofmann, J. Arbiol, R. Aguado, P. San-Jose, G. Katsaros.
 
 *[Nature **612**, 442–447 (2022)](https://doi.org/10.1038/s41586-022-05382-w)*
+
+Featured in a [Nature News & Views](https://www.nature.com/articles/d41586-022-04351-7)
 @@
 
 @@papericon ![](/assets/icons/sp.png) @@
