@@ -28,7 +28,7 @@ M. Valentini, M. Borovkov, E. Prada, S. Marti-Sanchez, M. Botifoll, A. Hofmann, 
 
 *[Nature **612**, 442–447 (2022)](https://doi.org/10.1038/s41586-022-05382-w)*
 
-Featured in a [Nature News & Views](https://www.nature.com/articles/d41586-022-04351-7)
+Featured in a [Nature News & Views](https://www.nature.com/articles/d41586-022-04351-7) and in an interview for [El País](https://elpais.com/tecnologia/2023-01-13/descubierta-una-impostora-que-simula-ser-una-particula-de-majorana-el-santo-grial-cuantico.html)
 @@
 
 @@papericon ![](/assets/icons/sp.png) @@
