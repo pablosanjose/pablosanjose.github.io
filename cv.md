@@ -605,6 +605,8 @@ ResearcherID [A-4795-2010](http://www.researcherid.com/rid/A-4795-2010)
 
 - Co-advisor to the PhD thesis by Francesca Finocchiaro **"Quantum Transport And Topological Features In Two-Dimensional Materials"** (defended cum laude on June 22nd, 2018).
 
+- Co-advisor to the PhD thesis by Fernando Peñaranda **"Topological superconductivity in nanowires and two-dimensional crystals"** (defended cum laude on April 19th, 2023).
+
 - Course on **"Numerical simulations in Mathematica"**, as part of the Official Master Programme on Advanced Materials and Nanotechnologies (Autonoma University), Madrid, November 2010 [19.5 hours].
 
 - Co-advisor to the Diploma thesis by Petra Dietl, **"Numerical studies of electronic transport through graphene nanoribbons with disorder"**, Karlsruhe, March 2009.
