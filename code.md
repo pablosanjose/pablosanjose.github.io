@@ -8,6 +8,11 @@ title = "Code"
 
 [Quantica.jl Github repository](https://github.com/pablosanjose/Quantica.jl)
 
+@@papericon ![](/assets/icons/mp4.png) @@
+@@paperdata
+Quantica.jl presentation for the [Quantum tinkerer group](https://quantumtinkerer.tudelft.nl) at TUDelft ([video](https://youtu.be/MVuk5npVZjU) and [jupyter notebook](/assets/Quantica/Quantica_demo.zip)).
+@@
+
 # MathQ
 @@row
 <!-- @@column11 ![](/assets/mathq.png) @@ -->
