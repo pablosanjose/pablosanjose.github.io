@@ -116,6 +116,12 @@ ResearcherID [A-4795-2010](http://www.researcherid.com/rid/A-4795-2010)
 ~~~
 <ol reversed>
 	<li>
+	<p>July 3-6 2023, <strong>"Control of Ultrafast (Attosecond and Strong Field) Processes Using Structured Light" (CUPUSL23)</strong>, (Dresden, Germany)  </p>
+	<div class="colbox-blue">
+         <strong>[Poster]</strong>: <i>Quantica.jl: simulating tight-binding systems in the Julia language</i> </br>
+         </div>
+	</li>
+
 	<p>June 22-23 2023, <strong>"Stories in the flatland (with a twist in the end)", Symposium in honor of Prof. Francisco Guinea</strong>, (Madrid, Spain)  </p>
 	<div class="colbox-blue">
          <strong>[Invited]</strong>: <i>Helical modes and Majoranas in encapsulated graphene bilayers</i> </br>
@@ -417,6 +423,13 @@ ResearcherID [A-4795-2010](http://www.researcherid.com/rid/A-4795-2010)
 ~~~
 <ol reversed>
 	<li>
+	<p><strong> Seminar series in Quantum Tinkerer group</strong>, Delft, Netherlands, 23rd October 2023 (online)</p>
+	<div class="colbox-blue">
+	<strong>[Seminar]</strong>: <i>Quantica.jl: simulations of tight-binding systems in the Julia language</i>
+	</div>
+	</li>
+
+	<li>
 	<p><strong>Theory Seminar series in LPS Orsay</strong>, Paris, France, 27th January 2022 (online)</p>
 	<div class="colbox-blue">
 	<strong>[Seminar]</strong>: <i>Three Graphene-based Recipes for Majorana Bound States</i>
@@ -601,6 +614,7 @@ ResearcherID [A-4795-2010](http://www.researcherid.com/rid/A-4795-2010)
 
 
 # Teaching
+- **"Introduction to Graphene"**, classes in official Master "Nanophysics and Advanced Materials" UCM, Madrid, 21st-23rd November 2023 [3 hours].
 
 - **"Introduction to Graphene"**, classes in official Master "Nanophysics and Advanced Materials" UCM, Madrid, 15th-17th December 2020 [3 hours].
 
