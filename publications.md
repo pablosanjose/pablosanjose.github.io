@@ -11,6 +11,24 @@ title = "Publications"
 
 @@papericon ![](/assets/icons/arxiv.png) @@
 @@paperdata
+**77. [Phenomenology of Majorana zero modes in full-shell hybrid nanowires](https://arxiv.org/abs/2312.11613)**
+
+C. Payá, S. D. Escribano, A. Vezzosi, F. Peñaranda, R. Aguado, P. San-Jose, E. Prada
+
+Preprint *[arXiv:2312.11613](https://arxiv.org/abs/2312.11613)*
+@@
+
+@@papericon ![](/assets/icons/arxiv.png) @@
+@@paperdata
+**76. [Formation, stability, and highly nonlinear optical response of excitons to intense light fields interacting with two-dimensional materials](https://arxiv.org/abs/2307.16647)**
+
+E. B. Molinero, B. Amorim, M. Malakhov, G. Cistaro, A. Jiménez-Galán, M. Ivanov, A. Picón, P. San-Jose, R. E. F. Silva
+
+Preprint *[arXiv:2307.16647](https://arxiv.org/abs/2307.16647)*
+@@
+
+@@papericon ![](/assets/icons/arxiv.png) @@
+@@paperdata
 **75. [Supercurrent mediated by helical edge modes in bilayer graphene](https://arxiv.org/abs/2305.10505)**
 
 P. Rout, N. Papadopoulos, F. Peñaranda, K. Watanabe, T. Taniguchi, E. Prada, P. San-Jose, S. Goswami
@@ -152,7 +170,7 @@ R. Frisenda, G. Sanchez-Santolino, N. Papadopoulos, J. Urban, M. Baranowski, A. 
 
 Penglin Gao, Daniel Torrent, Francisco Cevera, Pablo San-Jose, Jose Sanchez-Dehesa, Johan Christensen
 
-*[Phys. Rev. Lett. **123**, 196601 (2019)](https://link.aps.org/doi/10.1103/PhysRevLett.123.196601)*. 
+*[Phys. Rev. Lett. **123**, 196601 (2019)](https://link.aps.org/doi/10.1103/PhysRevLett.123.196601)*.
 
 Highlighted in the [cover](/assets/pdfs/CoverPRL2019.pdf) of Phys. Rev. Lett.
 @@
