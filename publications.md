@@ -27,13 +27,13 @@ E. B. Molinero, B. Amorim, M. Malakhov, G. Cistaro, A. Jiménez-Galán, M. Ivano
 Preprint *[arXiv:2307.16647](https://arxiv.org/abs/2307.16647)*
 @@
 
-@@papericon ![](/assets/icons/arxiv.png) @@
+@@papericon ![](/assets/icons/nat.png) @@
 @@paperdata
 **75. [Supercurrent mediated by helical edge modes in bilayer graphene](https://arxiv.org/abs/2305.10505)**
 
 P. Rout, N. Papadopoulos, F. Peñaranda, K. Watanabe, T. Taniguchi, E. Prada, P. San-Jose, S. Goswami
 
-Preprint *[arXiv:2305.10505](https://arxiv.org/abs/2305.10505)*
+*[Nature Communications **15**, 856 (2024)](https://doi.org/10.1038/s41467-024-44952-6)*
 @@
 
 
