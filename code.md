@@ -4,7 +4,7 @@ title = "Code"
 
 # Quantica.jl
 
-![Quantica.jl logo](assets/banner_small.png)
+![Quantica.jl logo](/assets/banner_small.png)
 
 **Quantica.jl** is a Julia package for simulations of quantum systems.
 
