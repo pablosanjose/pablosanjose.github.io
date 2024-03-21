@@ -9,13 +9,13 @@ title = "Publications"
 
 # 2023
 
-@@papericon ![](/assets/icons/arxiv.png) @@
+@@papericon ![](/assets/icons/prb.png) @@
 @@paperdata
 **77. [Phenomenology of Majorana zero modes in full-shell hybrid nanowires](https://arxiv.org/abs/2312.11613)**
 
 C. Payá, S. D. Escribano, A. Vezzosi, F. Peñaranda, R. Aguado, P. San-Jose, E. Prada
 
-Preprint *[arXiv:2312.11613](https://arxiv.org/abs/2312.11613)*
+*[Phys. Rev. B **109**, 115428 (2024)](https://link.aps.org/doi/10.1103/PhysRevB.109.115428)*
 @@
 
 @@papericon ![](/assets/icons/arxiv.png) @@
