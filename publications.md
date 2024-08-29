@@ -7,6 +7,17 @@ title = "Publications"
 @@colbox-blue [Google Scholar](https://scholar.google.com/citations?user=pt3gvQgAAAAJ) [![Google Scholar](/assets/icons/googlescholar.png)](https://scholar.google.com/citations?user=pt3gvQgAAAAJ) @@
 <!-- @@colbox-blue ~~~<a href="https://www.webofscience.com/wos/author/rid/A-4795-2010">Publons</a><span id="badgeCont161"><script type="text/javascript" src="https://publons.com/mashlets?el=badgeCont161&rid=A-4795-2010&size=small"></script></span>~~~@@ -->
 
+# 2024
+
+@@papericon ![](/assets/icons/arxiv.png) @@
+@@paperdata
+**78. [Absence of Majorana oscillations in finite-length full-shell hybrid nanowires](https://arxiv.org/abs/2407.06330)**
+
+Carlos Payá, Pablo San-Jose, Carlos J. Sánchez Martínez, Ramón Aguado, Elsa Prada
+
+Preprint *[arXiv:2307.16647](https://arxiv.org/abs/2407.06330)*
+@@
+
 # 2023
 
 @@papericon ![](/assets/icons/prb.png) @@
