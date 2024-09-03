@@ -35,7 +35,7 @@ C. Payá, S. D. Escribano, A. Vezzosi, F. Peñaranda, R. Aguado, P. San-Jose, E.
 
 E. B. Molinero, B. Amorim, M. Malakhov, G. Cistaro, A. Jiménez-Galán, M. Ivanov, A. Picón, P. San-Jose, R. E. F. Silva
 
-*[Science Advances **10**, 35 (2024)](DOI: 10.1126/sciadv.adn6985)*
+*[Science Advances **10**, 35 (2024)](https://doi.org/10.1126/sciadv.adn6985)*
 @@
 
 @@papericon ![](/assets/icons/nat.png) @@
