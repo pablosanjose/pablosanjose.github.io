@@ -115,6 +115,20 @@ ResearcherID [A-4795-2010](http://www.researcherid.com/rid/A-4795-2010)
 # Scientific conferences
 ~~~
 <ol reversed>
+    <li>
+	<p>September 2-6 2024, <strong>"EPS-CMD31 conference"</strong>, (Braga, Portugal). Minicolloquium Organizer.  </p>
+	</li>
+
+	<li>
+	<p>July 15-19 2024, <strong>Quantum Designer Physics 2024</strong>, (San Sebastián, Spain)  </p>,
+	<div class="colbox-blue">
+         <strong>[Poster]</strong>: <i>Quantica.jl: simulating tight-binding systems in the Julia language</i> </br>
+         </div>
+    <div class="colbox-blue">
+         <strong>[Oral]</strong>: <i>Helical modes and Majoranas in encapsulated graphene bilayers</i></br>
+         </div>
+	</li>
+
 	<li>
 	<p>July 3-6 2023, <strong>"Control of Ultrafast (Attosecond and Strong Field) Processes Using Structured Light" (CUPUSL23)</strong>, (Dresden, Germany)  </p>
 	<div class="colbox-blue">
@@ -639,6 +653,7 @@ ResearcherID [A-4795-2010](http://www.researcherid.com/rid/A-4795-2010)
 
 # Organization of scientific events
 
+- September (4-6) 2024, Minicolloquium in CMD31, **Attosecond physics in condensed matter** (Braga, Portugal) -- Organizer
 - April (11-12) 2018, Kick-off workshop of the **Spanish Network for 2D Materials (SP2)** (Madrid, Spain) -- Organizer
 - May (14-20) 2017, **Majorana States In Condensed Matter: Towards Topological Quantum Computation** (Majorca, Spain) -- Organizing - committee
 - January (13-15) 2016, **IX GEFES Meeting 2016** (Cuenca, Spain) -- Organizing committee

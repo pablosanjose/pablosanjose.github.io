@@ -29,13 +29,13 @@ C. Payá, S. D. Escribano, A. Vezzosi, F. Peñaranda, R. Aguado, P. San-Jose, E.
 *[Phys. Rev. B **109**, 115428 (2024)](https://link.aps.org/doi/10.1103/PhysRevB.109.115428)*
 @@
 
-@@papericon ![](/assets/icons/arxiv.png) @@
+@@papericon ![](/assets/icons/sci.png) @@
 @@paperdata
-**76. [Formation, stability, and highly nonlinear optical response of excitons to intense light fields interacting with two-dimensional materials](https://arxiv.org/abs/2307.16647)**
+**76. [Subcycle dynamics of excitons under strong laser fields](https://arxiv.org/abs/2307.16647)**
 
 E. B. Molinero, B. Amorim, M. Malakhov, G. Cistaro, A. Jiménez-Galán, M. Ivanov, A. Picón, P. San-Jose, R. E. F. Silva
 
-Preprint *[arXiv:2307.16647](https://arxiv.org/abs/2307.16647)*
+*[Science Advances **10**, 35 (2024)](DOI: 10.1126/sciadv.adn6985)*
 @@
 
 @@papericon ![](/assets/icons/nat.png) @@
