@@ -120,7 +120,7 @@ ResearcherID [A-4795-2010](http://www.researcherid.com/rid/A-4795-2010)
 	</li>
 
 	<li>
-	<p>July 15-19 2024, <strong>Quantum Designer Physics 2024</strong>, (San Sebastián, Spain)  </p>,
+	<p>July 15-19 2024, <strong>Quantum Designer Physics 2024</strong>, (San Sebastián, Spain)  </p>
 	<div class="colbox-blue">
          <strong>[Poster]</strong>: <i>Quantica.jl: simulating tight-binding systems in the Julia language</i> </br>
          </div>
