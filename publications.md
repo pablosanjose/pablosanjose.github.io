@@ -9,13 +9,13 @@ title = "Publications"
 
 # 2024
 
-@@papericon ![](/assets/icons/arxiv.png) @@
+@@papericon ![](/assets/icons/prb.png) @@
 @@paperdata
 **78. [Absence of Majorana oscillations in finite-length full-shell hybrid nanowires](https://arxiv.org/abs/2407.06330)**
 
 Carlos Payá, Pablo San-Jose, Carlos J. Sánchez Martínez, Ramón Aguado, Elsa Prada
 
-Preprint *[arXiv:2307.16647](https://arxiv.org/abs/2407.06330)*
+*[Phys. Rev. B **110**, 115417 (2024)](https://doi.org/10.1103/PhysRevB.110.115417)*
 @@
 
 # 2023
