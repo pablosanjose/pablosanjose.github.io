@@ -18,8 +18,6 @@ Carlos Payá, Pablo San-Jose, Carlos J. Sánchez Martínez, Ramón Aguado, Elsa 
 *[Phys. Rev. B **110**, 115417 (2024)](https://doi.org/10.1103/PhysRevB.110.115417)*
 @@
 
-# 2023
-
 @@papericon ![](/assets/icons/prb.png) @@
 @@paperdata
 **77. [Phenomenology of Majorana zero modes in full-shell hybrid nanowires](https://arxiv.org/abs/2312.11613)**
@@ -47,6 +45,7 @@ P. Rout, N. Papadopoulos, F. Peñaranda, K. Watanabe, T. Taniguchi, E. Prada, P.
 *[Nature Communications **15**, 856 (2024)](https://doi.org/10.1038/s41467-024-44952-6)*
 @@
 
+# 2023
 
 @@papericon ![](/assets/icons/prb.png) @@
 @@paperdata
@@ -55,6 +54,15 @@ P. Rout, N. Papadopoulos, F. Peñaranda, K. Watanabe, T. Taniguchi, E. Prada, P.
 P. San-Jose, C. Payá, C. M. Marcus, S. Vaitiekėnas, E. Prada
 
 *[Phys. Rev. B **107**, 155423 (2023)](https://doi.org/10.1103/PhysRevB.107.155423)*
+@@
+
+@@papericon ![](/assets/icons/sp.png) @@
+@@paperdata
+**72. [Majorana bound states in encapsulated bilayer graphene](https://arxiv.org/abs/2202.00593)**
+
+Fernando Peñaranda, Ramón Aguado, Elsa Prada, Pablo San-Jose
+
+*[SciPost Physics **14**, 075 (2023)](https://scipost.org/SciPostPhys.14.4.075)*
 @@
 
 # 2022
@@ -70,17 +78,6 @@ M. Valentini, M. Borovkov, E. Prada, S. Marti-Sanchez, M. Botifoll, A. Hofmann, 
 Featured in a [Nature News & Views](https://www.nature.com/articles/d41586-022-04351-7) and in an interview for [El País](https://elpais.com/tecnologia/2023-01-13/descubierta-una-impostora-que-simula-ser-una-particula-de-majorana-el-santo-grial-cuantico.html)
 @@
 
-@@papericon ![](/assets/icons/sp.png) @@
-@@paperdata
-**72. [Majorana bound states in encapsulated bilayer graphene](https://arxiv.org/abs/2202.00593)**
-
-Fernando Peñaranda, Ramón Aguado, Elsa Prada, Pablo San-Jose
-
-*[SciPost Physics **14**, 075 (2023)](https://scipost.org/SciPostPhys.14.4.075)*
-@@
-
-# 2021
-
 @@papericon ![](/assets/icons/prb.png) @@
 @@paperdata
 **71. [Fluxoid-induced pairing suppression and near-zero modes in quantum dots coupled to full-shell nanowires](https://arxiv.org/abs/2107.13011)**
@@ -89,6 +86,8 @@ S. D. Escribano, A. L. Yeyati, R. Aguado, E. Prada, P. San-Jose
 
 *[Phys. Rev. B **105**, 045418 (2022)](https://doi.org/10.1103/PhysRevB.105.045418)*
 @@
+
+# 2021
 
 @@papericon ![](/assets/icons/zen.png) @@
 @@paperdata
@@ -311,17 +310,6 @@ Elsa Prada, Ramón Aguado, Pablo San-Jose
 *[Phys. Rev. B **96**, 085418 (2017)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.085418)*
 @@
 
-# 2016
-
-@@papericon ![](/assets/icons/as.png) @@
-@@paperdata
-**47. [Electronic Band Structure of Transition Metal Dichalcogenides from Ab Initio and Slater–Koster Tight-Binding Model](http://www.mdpi.com/2076-3417/6/10/284)**
-
-J.A. Silva-Guillén, P. San-Jose, R. Roldán
-
-*[Applied Sciences **6**, 284 (2016)](http://www.mdpi.com/2076-3417/6/10/284)*
-@@
-
 @@papericon ![](/assets/icons/2dm.png) @@
 @@paperdata
 **46. [Quantum Spin Hall Effect in Twisted Bilayer Graphene](http://arxiv.org/abs/1609.07734)**
@@ -338,6 +326,28 @@ F. Finocchiaro, F. Guinea, P. San-Jose
 Fernando Domínguez, Jorge Cayao, Pablo San-Jose, Ramón Aguado, Alfredo Levy Yeyati, Elsa Prada
 
 *[npj Quantum Materials **2**, 13 (2017)](http://www.nature.com/articles/s41535-017-0012-0)*
+@@
+
+
+@@papericon ![](/assets/icons/nat.png) @@
+@@paperdata
+**42. [Magnetically-driven colossal supercurrent enhancement in InAs nanowire Josephson junctions](http://arxiv.org/abs/1601.02955)**
+
+J. Paajaste, E. Strambini, M. Amado, S. Roddaro, P. San-Jose, R. Aguado, F. S. Bergeret, D. Ercolani, L. Sorba, F. Giazotto
+
+*[Nature Communications **8**, 14984 (2017)](https://www.nature.com/articles/ncomms14984)*
+@@
+
+
+# 2016
+
+@@papericon ![](/assets/icons/as.png) @@
+@@paperdata
+**47. [Electronic Band Structure of Transition Metal Dichalcogenides from Ab Initio and Slater–Koster Tight-Binding Model](http://www.mdpi.com/2076-3417/6/10/284)**
+
+J.A. Silva-Guillén, P. San-Jose, R. Roldán
+
+*[Applied Sciences **6**, 284 (2016)](http://www.mdpi.com/2076-3417/6/10/284)*
 @@
 
 @@papericon ![](/assets/icons/prx.png) @@
@@ -358,17 +368,6 @@ Matthew Yankowitz, K. Watanabe, T. Taniguchi, Pablo San-Jose, Brian J. LeRoy
 *[Nature Communications **7**, 13168 (2016)](http://www.nature.com/articles/ncomms13168)*
 @@
 
-@@papericon ![](/assets/icons/nat.png) @@
-@@paperdata
-**42. [Magnetically-driven colossal supercurrent enhancement in InAs nanowire Josephson junctions](http://arxiv.org/abs/1601.02955)**
-
-J. Paajaste, E. Strambini, M. Amado, S. Roddaro, P. San-Jose, R. Aguado, F. S. Bergeret, D. Ercolani, L. Sorba, F. Giazotto
-
-*[Nature Communications **8**, 14984 (2017)](https://www.nature.com/articles/ncomms14984)*
-@@
-
-# 2015
-
 @@papericon ![](/assets/icons/nl.png) @@
 @@paperdata
 **41. [Strong modulation of optical properties in black phosphorus through strain-engineered rippling](http://arxiv.org/abs/1509.01182)**
@@ -377,6 +376,26 @@ Jorge Quereda, Pablo San-Jose, Vincenzo Parente, Nicolás Agraït, Gabino Rubio-
 
 *[Nano Letters **16**, 2931 (2016)](http://pubs.acs.org/doi/abs/10.1021/acs.nanolett.5b04670)*
 @@
+
+@@papericon ![](/assets/icons/pr.png) @@
+@@paperdata
+**39. [Novel effects of strains in graphene and other two dimensional materials](http://arxiv.org/abs/1503.00747)**
+
+B. Amorim, A. Cortijo, F. de Juan, A. G. Grushin, F. Guinea, A. Gutiérrez-Rubio, H. Ochoa, V. Parente, R. Roldán, P. San-Jose, J. Schiefele, M. Sturla, M. A. H. Vozmediano
+
+*[Physics Reports **617**, 1-54 (2016)](http://dx.doi.org/10.1016/j.physrep.2015.12.006)*
+@@
+
+@@papericon ![](/assets/icons/sr.png) @@
+@@paperdata
+**37. [Majorana bound states from exceptional points in non-topological superconductors](http://arxiv.org/abs/1409.7306)**
+
+Pablo San-Jose, Jorge Cayao, Elsa Prada, Ramón Aguado
+
+*[Scientific Reports 6, 21427 (2016)](http://www.nature.com/articles/srep21427)*
+@@
+
+# 2015
 
 @@papericon ![](/assets/icons/prx.png) @@
 @@paperdata
@@ -389,15 +408,6 @@ Pablo San-Jose, Jose Lado, Ramón Aguado, Francisco Guinea, Joaquín Fernández-
 Highlighted in [physics.aps.org](http://physics.aps.org/synopsis-for/10.1103/PhysRevX.5.041042), [Naukas](http://francis.naukas.com/2016/03/09/quasiparticulas-de-majorana-en-grafeno-sobre-un-superconductor/), [Europapress](http://www.europapress.es/ciencia/laboratorio/noticia-pueden-obtener-particulas-grafeno-son-materia-antimateria-20160304145608.HTML) and [others](http://www.madrimasd.org/informacionidi/noticias/noticia.asp?id=65908&origen=notiweb&dia_suplemento=lunes)
 @@
 
-@@papericon ![](/assets/icons/pr.png) @@
-@@paperdata
-**39. [Novel effects of strains in graphene and other two dimensional materials](http://arxiv.org/abs/1503.00747)**
-
-B. Amorim, A. Cortijo, F. de Juan, A. G. Grushin, F. Guinea, A. Gutiérrez-Rubio, H. Ochoa, V. Parente, R. Roldán, P. San-Jose, J. Schiefele, M. Sturla, M. A. H. Vozmediano
-
-*[Physics Reports **617**, 1-54 (2016)](http://dx.doi.org/10.1016/j.physrep.2015.12.006)*
-@@
-
 @@papericon ![](/assets/icons/prb.png) @@
 @@paperdata
 **38. [SNS junctions in nanowires with spin-orbit coupling: Role of confinement and helicity on the subgap spectrum](http://arxiv.org/abs/1410.6074)**
@@ -408,15 +418,6 @@ Jorge Cayao, Elsa Prada, Pablo San-Jose, Ramón Aguado
 @@
 
 # 2014
-
-@@papericon ![](/assets/icons/sr.png) @@
-@@paperdata
-**37. [Majorana bound states from exceptional points in non-topological superconductors](http://arxiv.org/abs/1409.7306)**
-
-Pablo San-Jose, Jorge Cayao, Elsa Prada, Ramón Aguado
-
-*[Scientific Reports 6, 21427 (2016)](http://www.nature.com/articles/srep21427)*
-@@
 
 @@papericon ![](/assets/icons/prb.png) @@
 @@paperdata
@@ -505,8 +506,6 @@ Pablo San-Jose, Jorge Cayao, Elsa Prada, Ramón Aguado
 Focus issue on [Majorana Fermions in Condensed Matter](http://iopscience.iop.org/1367-2630/focus/Focus%20on%20Majorana%20Fermions%20in%20Condensed%20Matter)
 @@
 
-# 2012
-
 @@papericon ![](/assets/icons/prb.png) @@
 @@paperdata
 **27. [Quantum Hall effect in graphene with twisted bilayer stripe defects](http://arxiv.org/abs/1211.5351)**
@@ -515,6 +514,8 @@ T. Löfwander, P. San-Jose, E. Prada
 
 *[Phys. Rev. B **87**, 205429 (2013)](http://link.aps.org/doi/10.1103/PhysRevB.87.205429)*
 @@
+
+# 2012
 
 @@papericon ![](/assets/icons/apl.png) @@
 @@paperdata
