@@ -11,6 +11,14 @@ title = "Publications"
 
 @@papericon ![](/assets/icons/prb.png) @@
 @@paperdata
+**79. [Ultrafast valleytronic logic operations](https://arxiv.org/abs/2412.08318)**
+
+Francesco Gucci, Eduardo B. Molinero, Mattia Russo, Pablo San-Jose, Franco V. A. Camargo, Margherita Maiuri, Misha Ivanov, Álvaro Jiménez-Galán, Rui E. F. Silva, Stefano Dal Conte, Giulio Cerullo
+*Preprint [arXiv:2412.08318](https://arxiv.org/abs/2412.08318)*
+@@
+
+@@papericon ![](/assets/icons/prb.png) @@
+@@paperdata
 **78. [Absence of Majorana oscillations in finite-length full-shell hybrid nanowires](https://arxiv.org/abs/2407.06330)**
 
 Carlos Payá, Pablo San-Jose, Carlos J. Sánchez Martínez, Ramón Aguado, Elsa Prada
