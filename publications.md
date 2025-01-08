@@ -14,6 +14,7 @@ title = "Publications"
 **80. [Exponential suppression of the topological gap in self-consistent intrinsic Majorana nanowires](https://arxiv.org/abs/2412.15174)**
 
 Francisco Lobo, Elsa Prada, Pablo San-Jose
+
 *Preprint [arXiv:2412.15174](https://arxiv.org/abs/2412.15174)*
 @@
 
@@ -22,6 +23,7 @@ Francisco Lobo, Elsa Prada, Pablo San-Jose
 **79. [Ultrafast valleytronic logic operations](https://arxiv.org/abs/2412.08318)**
 
 Francesco Gucci, Eduardo B. Molinero, Mattia Russo, Pablo San-Jose, Franco V. A. Camargo, Margherita Maiuri, Misha Ivanov, Álvaro Jiménez-Galán, Rui E. F. Silva, Stefano Dal Conte, Giulio Cerullo
+
 *Preprint [arXiv:2412.08318](https://arxiv.org/abs/2412.08318)*
 @@
 
