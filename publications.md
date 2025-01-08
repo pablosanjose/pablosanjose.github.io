@@ -9,7 +9,15 @@ title = "Publications"
 
 # 2024
 
-@@papericon ![](/assets/icons/prb.png) @@
+@@papericon ![](/assets/icons/arxiv.png) @@
+@@paperdata
+**80. [Exponential suppression of the topological gap in self-consistent intrinsic Majorana nanowires](https://arxiv.org/abs/2412.15174)**
+
+Francisco Lobo, Elsa Prada, Pablo San-Jose
+*Preprint [arXiv:2412.15174](https://arxiv.org/abs/2412.15174)*
+@@
+
+@@papericon ![](/assets/icons/arxiv.png) @@
 @@paperdata
 **79. [Ultrafast valleytronic logic operations](https://arxiv.org/abs/2412.08318)**
 
