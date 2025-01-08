@@ -264,7 +264,9 @@ ResearcherID [A-4795-2010](http://www.researcherid.com/rid/A-4795-2010)
 	<p>March (2-6) 2015, <strong>APS March Meeting 2015</strong> (San Antonio, USA)  </p>
          <div class="colbox-blue">
          <strong>[Oral]</strong>: <i>Majorana bound states without topological superconductivity</i> </br>
-	<strong>[Oral]</strong>: <i>SNS junctions in nanowires with spin-orbit coupling: role of confinement and helicity on the sub-gap spectrum </i>
+         </div>
+         <div class="colbox-blue">
+         <strong>[Oral]</strong>: <i>SNS junctions in nanowires with spin-orbit coupling: role of confinement and helicity on the sub-gap spectrum </i> </br>
          </div>
 	</li>
 
@@ -336,8 +338,12 @@ ResearcherID [A-4795-2010](http://www.researcherid.com/rid/A-4795-2010)
 	<p>August (1-8) 2009, <strong>Graphene</strong> (Benasque, Spain) </p>
          <div class="colbox-blue">
          <strong>[Poster]</strong>: <i>Pseudospintronics in bilayer graphene</i></br>
+         </div>
+         <div class="colbox-blue">
          <strong>[Poster]</strong>: <i>Quantum pumping in graphene</i></br>
-         <strong>[Poster]</strong>: <i>Strains and magnetic fields in suspended graphene</i>
+         </div>
+         <div class="colbox-blue">
+         <strong>[Poster]</strong>: <i>Strains and magnetic fields in suspended graphene</i></br>
          </div>
 	</li>
 
@@ -345,7 +351,9 @@ ResearcherID [A-4795-2010](http://www.researcherid.com/rid/A-4795-2010)
 	<p>September (9-14) 2007, <strong>Fundamental Problems of Mesoscopic Physics and Nanoelectronics</strong> (Mojacar, Spain)</p>
          <div class="colbox-blue">
          <strong>[Poster]</strong>: <i>Geometrical spin dephasing in quantum dots</i></br>
-         <strong>[Poster]</strong>: <i>Pseudodiffusive magnetotransport in graphene</i>
+         </div>
+         <div class="colbox-blue">
+         <strong>[Poster]</strong>: <i>Pseudodiffusive magnetotransport in graphene</i></br>
          </div>
 	</li>
 
