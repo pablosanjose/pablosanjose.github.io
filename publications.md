@@ -76,7 +76,7 @@ P. San-Jose, C. Payá, C. M. Marcus, S. Vaitiekėnas, E. Prada
 
 @@papericon ![](/assets/icons/sp.png) @@
 @@paperdata
-**72. [Majorana bound states in encapsulated bilayer graphene](https://arxiv.org/abs/2202.00593)**
+**73. [Majorana bound states in encapsulated bilayer graphene](https://arxiv.org/abs/2202.00593)**
 
 Fernando Peñaranda, Ramón Aguado, Elsa Prada, Pablo San-Jose
 
@@ -87,7 +87,7 @@ Fernando Peñaranda, Ramón Aguado, Elsa Prada, Pablo San-Jose
 
 @@papericon ![](/assets/icons/nat.png) @@
 @@paperdata
-**73. [Majorana-like Coulomb spectroscopy in the absence of zero bias peaks](https://arxiv.org/abs/2203.07829)**
+**72. [Majorana-like Coulomb spectroscopy in the absence of zero bias peaks](https://arxiv.org/abs/2203.07829)**
 
 M. Valentini, M. Borovkov, E. Prada, S. Marti-Sanchez, M. Botifoll, A. Hofmann, J. Arbiol, R. Aguado, P. San-Jose, G. Katsaros.
 
