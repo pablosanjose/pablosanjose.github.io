@@ -7,6 +7,17 @@ title = "Publications"
 @@colbox-blue [Google Scholar](https://scholar.google.com/citations?user=pt3gvQgAAAAJ) [![Google Scholar](/assets/icons/googlescholar.png)](https://scholar.google.com/citations?user=pt3gvQgAAAAJ) @@
 <!-- @@colbox-blue ~~~<a href="https://www.webofscience.com/wos/author/rid/A-4795-2010">Publons</a><span id="badgeCont161"><script type="text/javascript" src="https://publons.com/mashlets?el=badgeCont161&rid=A-4795-2010&size=small"></script></span>~~~@@ -->
 
+# 2025
+
+@@papericon ![](/assets/icons/arxiv.png) @@
+@@paperdata
+**81. [Caroli-de Gennes-Matricon Analogs in Full-Shell Hybrid Nanowires](https://arxiv.org/abs/2501.05419)**
+
+M. T. Deng, Carlos Payá, P. San-Jose, E. Prada, C. M. Marcus, S. Vaitiekėnas
+
+*Preprint [arXiv:2501.05419](https://arxiv.org/abs/2501.05419)*
+@@
+
 # 2024
 
 @@papericon ![](/assets/icons/arxiv.png) @@
