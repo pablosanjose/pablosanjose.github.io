@@ -116,6 +116,10 @@ ResearcherID [A-4795-2010](http://www.researcherid.com/rid/A-4795-2010)
 ~~~
 <ol reversed>
     <li>
+	<p>February 18-19 2025, <strong>"Microsoft Station Q meeting 2025"</strong>, (Montecito, USA). </p>
+	</li>
+
+    <li>
 	<p>September 2-6 2024, <strong>"EPS-CMD31 conference"</strong>, (Braga, Portugal). Minicolloquium Organizer.  </p>
 	</li>
 
