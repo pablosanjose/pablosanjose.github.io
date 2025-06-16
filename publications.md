@@ -11,23 +11,43 @@ title = "Publications"
 
 @@papericon ![](/assets/icons/arxiv.png) @@
 @@paperdata
-**81. [Caroli-de Gennes-Matricon Analogs in Full-Shell Hybrid Nanowires](https://arxiv.org/abs/2501.05419)**
+**83. [Fluxoid Valve Effect in Full-Shell Nanowire Josephson Junctions](https://arxiv.org/abs/2504.16989)**
 
-M. T. Deng, Carlos Payá, P. San-Jose, E. Prada, C. M. Marcus, S. Vaitiekėnas
+Carlos Payá, F. J. Matute-Cañadas, A. Levy Yeyati, Ramón Aguado, Pablo San-Jose, Elsa Prada
 
-*Preprint [arXiv:2501.05419](https://arxiv.org/abs/2501.05419)*
+*Preprint [arXiv:2504.16989](https://arxiv.org/abs/2504.16989)*
 @@
 
-# 2024
+@@papericon ![](/assets/icons/prb.png) @@
+@@paperdata
+**82. [Josephson effect and critical currents in trivial and topological full-shell hybrid nanowires](https://arxiv.org/abs/2503.09756)**
 
-@@papericon ![](/assets/icons/arxiv.png) @@
+Carlos Payá, Ramón Aguado, Pablo San-Jose, Elsa Prada
+
+*[Phys. Rev. B **111**, 235420 (2025)](https://link.aps.org/doi/10.1103/8mzs-dx7h)*
+@@
+
+@@papericon ![](/assets/icons/prl.png) @@
+@@paperdata
+**81. [Caroli-de Gennes-Matricon Analogs in Full-Shell Hybrid Nanowires](https://arxiv.org/abs/2501.05419)**
+
+M. T. Deng, Carlos Payá, Pablo San-Jose, Elsa Prada, C. M. Marcus, S. Vaitiekėnas
+
+*[Phys. Rev. Lett. **134**, 206302 (2025)](https://doi.org/10.1103/PhysRevLett.134.206302)*
+
+See also *Niels Bohr Institute News*: [A 1960s idea inspires NBI researchers to study hitherto inaccessible quantum states](https://nbi.ku.dk/english/news/news25/a-1960s-idea-inspires-nbi-researchers-to-study-hitherto-inaccessible-quantum-states/)
+@@
+
+@@papericon ![](/assets/icons/prb.png) @@
 @@paperdata
 **80. [Exponential suppression of the topological gap in self-consistent intrinsic Majorana nanowires](https://arxiv.org/abs/2412.15174)**
 
 Francisco Lobo, Elsa Prada, Pablo San-Jose
 
-*Preprint [arXiv:2412.15174](https://arxiv.org/abs/2412.15174)*
+*[Phys. Rev. B **111**, 195415 (2025)](https://doi.org/10.1103/PhysRevB.111.195415)*
 @@
+
+# 2024
 
 @@papericon ![](/assets/icons/arxiv.png) @@
 @@paperdata
