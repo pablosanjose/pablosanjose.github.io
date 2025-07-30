@@ -15,7 +15,7 @@ title = "Publications"
 
 Pablo San-Jose, Elsa Prada
 
-*Preprint [arXiv:506.15502](https://arxiv.org/abs/2506.15502)*
+*Preprint [arXiv:2506.15502](https://arxiv.org/abs/2506.15502)*
 @@
 
 @@papericon ![](/assets/icons/arxiv.png) @@
