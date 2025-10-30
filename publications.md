@@ -11,6 +11,24 @@ title = "Publications"
 
 @@papericon ![](/assets/icons/arxiv.png) @@
 @@paperdata
+**86. [Semiconductor Wannier equations: a real-time, real-space approach to the nonlinear optical response in crystals (ATATA)](https://arxiv.org/abs/2510.22064)**
+
+Eduardo B. Molinero, Bruno Amorim, Misha Ivanov, Graham G. Brown, Giovanni Cistaro, João M. Viana Parente Lopes, Álvaro Jiménez-Galán, Pablo San-Jose, Rui E. F. Silva
+
+*Preprint [arXiv:2510.22064](https://arxiv.org/abs/2510.22064)*
+@@
+
+@@papericon ![](/assets/icons/arxiv.png) @@
+@@paperdata
+**85. [Fluxoid solitons in superconducting tapered tubes and bottlenecks](https://arxiv.org/abs/2510.20892)**
+
+Tim Kokkeler, Mateo Uldemolins, Francisco Lobo, F. Sebastian Bergeret, Elsa Prada, Pablo San-Jose
+
+*Preprint [arXiv:2510.20892](https://arxiv.org/abs/2510.20892)*
+@@
+
+@@papericon ![](/assets/icons/arxiv.png) @@
+@@paperdata
 **84. [Solitonic Andreev Spin Qubit](https://arxiv.org/abs/2506.15502)**
 
 Pablo San-Jose, Elsa Prada
