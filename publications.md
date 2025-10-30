@@ -36,15 +36,14 @@ Pablo San-Jose, Elsa Prada
 *Preprint [arXiv:2506.15502](https://arxiv.org/abs/2506.15502)*
 @@
 
-@@papericon ![](/assets/icons/arxiv.png) @@
+@@papericon ![](/assets/icons/prb.png) @@
 @@paperdata
 **83. [Fluxoid Valve Effect in Full-Shell Nanowire Josephson Junctions](https://arxiv.org/abs/2504.16989)**
 
 Carlos Payá, F. J. Matute-Cañadas, A. Levy Yeyati, Ramón Aguado, Pablo San-Jose, Elsa Prada
 
-*Preprint [arXiv:2504.16989](https://arxiv.org/abs/2504.16989)*
+*[Phys. Rev. B **112**, 134520 (2025)](https://doi.org/10.1103/sdmw-qwcn)*
 @@
-
 
 @@papericon ![](/assets/icons/prb.png) @@
 @@paperdata
@@ -75,8 +74,6 @@ Francisco Lobo, Elsa Prada, Pablo San-Jose
 *[Phys. Rev. B **111**, 195415 (2025)](https://doi.org/10.1103/PhysRevB.111.195415)*
 @@
 
-# 2024
-
 @@papericon ![](/assets/icons/arxiv.png) @@
 @@paperdata
 **79. [Ultrafast valleytronic logic operations](https://arxiv.org/abs/2412.08318)**
@@ -85,6 +82,8 @@ Francesco Gucci, Eduardo B. Molinero, Mattia Russo, Pablo San-Jose, Franco V. A.
 
 *Preprint [arXiv:2412.08318](https://arxiv.org/abs/2412.08318)*
 @@
+
+# 2024
 
 @@papericon ![](/assets/icons/prb.png) @@
 @@paperdata
