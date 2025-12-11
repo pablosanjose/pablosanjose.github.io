@@ -11,6 +11,15 @@ title = "Publications"
 
 @@papericon ![](/assets/icons/arxiv.png) @@
 @@paperdata
+**87. [Effects of Zero-Point Motion in the High Harmonic Generation Spectrum of Solids ](https://arxiv.org/abs/2512.01712)**
+
+Aday Cárdenas, David N. Purschke, Graham G. Brown, Pablo San-Jose, Rui E.F. Silva, Álvaro Jiménez-Galán
+
+*Preprint [arXiv:2512.01712](https://arxiv.org/abs/2512.01712)*
+@@
+
+@@papericon ![](/assets/icons/arxiv.png) @@
+@@paperdata
 **86. [Semiconductor Wannier equations: a real-time, real-space approach to the nonlinear optical response in crystals (ATATA)](https://arxiv.org/abs/2510.22064)**
 
 Eduardo B. Molinero, Bruno Amorim, Misha Ivanov, Graham G. Brown, Giovanni Cistaro, João M. Viana Parente Lopes, Álvaro Jiménez-Galán, Pablo San-Jose, Rui E. F. Silva
