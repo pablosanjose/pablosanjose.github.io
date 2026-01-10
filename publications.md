@@ -11,7 +11,7 @@ title = "Publications"
 
 @@papericon ![](/assets/icons/arxiv.png) @@
 @@paperdata
-**87. [Effects of Zero-Point Motion in the High Harmonic Generation Spectrum of Solids ](https://arxiv.org/abs/2512.01712)**
+**87. [Effects of Zero-Point Motion in the High Harmonic Generation Spectrum of Solids](https://arxiv.org/abs/2512.01712)**
 
 Aday Cárdenas, David N. Purschke, Graham G. Brown, Pablo San-Jose, Rui E.F. Silva, Álvaro Jiménez-Galán
 
@@ -36,13 +36,13 @@ Tim Kokkeler, Mateo Uldemolins, Francisco Lobo, F. Sebastian Bergeret, Elsa Prad
 *Preprint [arXiv:2510.20892](https://arxiv.org/abs/2510.20892)*
 @@
 
-@@papericon ![](/assets/icons/arxiv.png) @@
+@@papericon ![](/assets/icons/prr.png) @@
 @@paperdata
-**84. [Solitonic Andreev Spin Qubit](https://arxiv.org/abs/2506.15502)**
+**84. [Solitonic Andreev spin qubits from Andreev states in Corbino Josephson junctions](https://arxiv.org/abs/2506.15502)**
 
 Pablo San-Jose, Elsa Prada
 
-*Preprint [arXiv:2506.15502](https://arxiv.org/abs/2506.15502)*
+*Accepted in Physical Review Research (https://arxiv.org/abs/2506.15502)*
 @@
 
 @@papericon ![](/assets/icons/prb.png) @@
@@ -83,13 +83,13 @@ Francisco Lobo, Elsa Prada, Pablo San-Jose
 *[Phys. Rev. B **111**, 195415 (2025)](https://doi.org/10.1103/PhysRevB.111.195415)*
 @@
 
-@@papericon ![](/assets/icons/arxiv.png) @@
+@@papericon ![](/assets/icons/nat.png) @@
 @@paperdata
-**79. [Ultrafast valleytronic logic operations](https://arxiv.org/abs/2412.08318)**
+**79. [Encoding and manipulating ultrafast coherent valleytronic information with lightwaves](https://arxiv.org/abs/2412.08318)**
 
 Francesco Gucci, Eduardo B. Molinero, Mattia Russo, Pablo San-Jose, Franco V. A. Camargo, Margherita Maiuri, Misha Ivanov, Álvaro Jiménez-Galán, Rui E. F. Silva, Stefano Dal Conte, Giulio Cerullo
 
-*Preprint [arXiv:2412.08318](https://arxiv.org/abs/2412.08318)*
+*[Nature Photonics **1** (2026)](https://doi.org/10.1038/s41566-025-01823-w)*
 @@
 
 # 2024
