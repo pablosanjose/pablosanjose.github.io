@@ -27,13 +27,13 @@ Eduardo B. Molinero, Bruno Amorim, Misha Ivanov, Graham G. Brown, Giovanni Cista
 *Preprint [arXiv:2510.22064](https://arxiv.org/abs/2510.22064)*
 @@
 
-@@papericon ![](/assets/icons/arxiv.png) @@
+@@papericon ![](/assets/icons/prl.png) @@
 @@paperdata
 **85. [Fluxoid solitons in superconducting tapered tubes and bottlenecks](https://arxiv.org/abs/2510.20892)**
 
 Tim Kokkeler, Mateo Uldemolins, Francisco Lobo, F. Sebastian Bergeret, Elsa Prada, Pablo San-Jose
 
-*Preprint [arXiv:2510.20892](https://arxiv.org/abs/2510.20892)*
+*Accepted in Phys. Rev. Lett. [arXiv:2510.20892](https://arxiv.org/abs/2510.20892)*
 @@
 
 @@papericon ![](/assets/icons/prr.png) @@
@@ -42,7 +42,7 @@ Tim Kokkeler, Mateo Uldemolins, Francisco Lobo, F. Sebastian Bergeret, Elsa Prad
 
 Pablo San-Jose, Elsa Prada
 
-*Accepted in Physical Review Research (https://arxiv.org/abs/2506.15502)*
+*[Phys. Rev. Research **8**, 013076 (2026)](https://arxiv.org/abs/2506.15502)*
 @@
 
 @@papericon ![](/assets/icons/prb.png) @@
