@@ -89,7 +89,7 @@ Francisco Lobo, Elsa Prada, Pablo San-Jose
 
 Francesco Gucci, Eduardo B. Molinero, Mattia Russo, Pablo San-Jose, Franco V. A. Camargo, Margherita Maiuri, Misha Ivanov, Álvaro Jiménez-Galán, Rui E. F. Silva, Stefano Dal Conte, Giulio Cerullo
 
-*[Nature Photonics **1** (2026)](https://doi.org/10.1038/s41566-025-01823-w)*
+*[Nature Photonics **20** (2026)](https://doi.org/10.1038/s41566-025-01823-w)*
 @@
 
 # 2024
