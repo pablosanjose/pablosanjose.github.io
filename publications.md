@@ -42,7 +42,7 @@ Tim Kokkeler, Mateo Uldemolins, Francisco Lobo, F. Sebastian Bergeret, Elsa Prad
 
 Pablo San-Jose, Elsa Prada
 
-*[Phys. Rev. Research **8**, 013076 (2026)](https://arxiv.org/abs/2506.15502)*
+*[Phys. Rev. Research **8**, 013076 (2026)](https://doi.org/10.1103/nnzv-7nqy)*
 @@
 
 @@papericon ![](/assets/icons/prb.png) @@
