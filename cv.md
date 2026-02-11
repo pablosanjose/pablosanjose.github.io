@@ -123,7 +123,7 @@ ResearcherID [A-4795-2010](http://www.researcherid.com/rid/A-4795-2010)
 	</li>
 
     <li>
-	<p>July 14-18 (2025), <strong>Quantum Designer's Special Edition: 100 years of Quantum</strong>, (Copenhagen, Denmark)  </p>
+	<p>July 14-18 (2025), <strong>Quantum Designer's Special Edition: 100 years of Quantum</strong>, (San Sebastian, Spain)  </p>
 	<div class="colbox-blue">
          <strong>[Invited]</strong>: <i>Solitonic Andreev Spin Qubit</i> </br>
          </div>
