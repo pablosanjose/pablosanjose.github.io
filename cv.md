@@ -116,6 +116,13 @@ ResearcherID [A-4795-2010](http://www.researcherid.com/rid/A-4795-2010)
 ~~~
 <ol reversed>
     <li>
+	<p>Februrary 2-6 (2026), <strong>International Workshop on Superconductor Semiconductor Hybrids</strong>, (Villard-de-Lans, France)  </p>
+	<div class="colbox-blue">
+         <strong>[Oral]</strong>: <i>Fluxoid solitons in superconducting tapered tubes and bottlenecks</i> </br>
+         </div>
+	</li>
+
+    <li>
 	<p>July 14-18 (2025), <strong>Quantum Designer's Special Edition: 100 years of Quantum</strong>, (Copenhagen, Denmark)  </p>
 	<div class="colbox-blue">
          <strong>[Invited]</strong>: <i>Solitonic Andreev Spin Qubit</i> </br>
