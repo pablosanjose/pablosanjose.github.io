@@ -33,7 +33,9 @@ Eduardo B. Molinero, Bruno Amorim, Misha Ivanov, Graham G. Brown, Giovanni Cista
 
 Tim Kokkeler, Mateo Uldemolins, Francisco Lobo, F. Sebastian Bergeret, Elsa Prada, Pablo San-Jose
 
-*Accepted in Phys. Rev. Lett. [arXiv:2510.20892](https://arxiv.org/abs/2510.20892)*
+*[Phys. Rev. Lett **136**, 086001 (2026)](https://doi.org/10.1103/qb8l-cj9j)*
+
+[Editor's Suggestion](https://journals.aps.org/prl/issues/136/8)
 @@
 
 @@papericon ![](/assets/icons/prr.png) @@
