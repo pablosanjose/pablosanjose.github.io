@@ -7,6 +7,18 @@ title = "Publications"
 @@colbox-blue [Google Scholar](https://scholar.google.com/citations?user=pt3gvQgAAAAJ) [![Google Scholar](/assets/icons/googlescholar.png)](https://scholar.google.com/citations?user=pt3gvQgAAAAJ) @@
 <!-- @@colbox-blue ~~~<a href="https://www.webofscience.com/wos/author/rid/A-4795-2010">Publons</a><span id="badgeCont161"><script type="text/javascript" src="https://publons.com/mashlets?el=badgeCont161&rid=A-4795-2010&size=small"></script></span>~~~@@ -->
 
+# 2026
+
+@@papericon ![](/assets/icons/arxiv.png) @@
+@@paperdata
+**88. [Absence of Quasi-Majorana False Positives in Full-Shell Hybrid Nanowires](https://arxiv.org/abs/2604.24858)**
+
+Carlos Payá, César Robles, Pablo San-Jose, Elsa Prada
+
+*Preprint [arXiv:2604.24858](https://arxiv.org/abs/2604.24858)*
+@@
+
+
 # 2025
 
 @@papericon ![](/assets/icons/arxiv.png) @@
