@@ -116,6 +116,14 @@ ResearcherID [A-4795-2010](http://www.researcherid.com/rid/A-4795-2010)
 ~~~
 <ol reversed>
     <li>
+	<p>June 8-10 (2026), <strong>Emergent phenomena in quantum materials and devices for unconventional superconducting systems (SuperQUMAP 2026)</strong>, (Twente, Netherlands)  </p>
+	<div class="colbox-blue">
+         <strong>[Invited]</strong>: <i>Transport between quarter-metallic and chiral
+superconducting domains in rhombohedral graphene</i> </br>
+         </div>
+	</li>
+
+    <li>
 	<p>Februrary 2-6 (2026), <strong>International Workshop on Superconductor Semiconductor Hybrids</strong>, (Villard-de-Lans, France)  </p>
 	<div class="colbox-blue">
          <strong>[Oral]</strong>: <i>Fluxoid solitons in superconducting tapered tubes and bottlenecks</i> </br>
@@ -477,6 +485,10 @@ ResearcherID [A-4795-2010](http://www.researcherid.com/rid/A-4795-2010)
 
 ~~~
 <ol reversed>
+    <li>
+	<p><strong> Tensor train workshop</strong>, Aalto, Finland, April 12-17 (2026)</p>
+	</li>
+
 	<li>
 	<p><strong> Seminar series in Quantum Tinkerer group</strong>, Delft, Netherlands, 23rd October 2023 (online)</p>
 	<div class="colbox-blue">
