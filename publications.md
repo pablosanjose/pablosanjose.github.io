@@ -21,6 +21,7 @@ Vo Tien Phong, Elsa Prada, Pablo San-Jose, Francisco Guinea, Eugene J. Mele
 
 @@papericon ![](/assets/icons/prl.png) @@
 @@paperdata
+
 **88. [Absence of Quasi-Majorana False Positives in Full-Shell Hybrid Nanowires](https://arxiv.org/abs/2604.24858)**
 
 Carlos Payá, César Robles, Pablo San-Jose, Elsa Prada
@@ -31,13 +32,13 @@ Carlos Payá, César Robles, Pablo San-Jose, Elsa Prada
 
 # 2025
 
-@@papericon ![](/assets/icons/arxiv.png) @@
+@@papericon ![](/assets/icons/prb.png) @@
 @@paperdata
 **87. [Effects of Zero-Point Motion in the High Harmonic Generation Spectrum of Solids](https://arxiv.org/abs/2512.01712)**
 
 Aday Cárdenas, David N. Purschke, Graham G. Brown, Pablo San-Jose, Rui E.F. Silva, Álvaro Jiménez-Galán
 
-*Preprint [arXiv:2512.01712](https://arxiv.org/abs/2512.01712)*
+*[Physical Review B **113** (2026)](https://doi.org/10.1103/msy5-4yxd)*
 @@
 
 @@papericon ![](/assets/icons/arxiv.png) @@
