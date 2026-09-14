@@ -41,13 +41,13 @@ Aday Cárdenas, David N. Purschke, Graham G. Brown, Pablo San-Jose, Rui E.F. Sil
 *[Physical Review B **113** (2026)](https://doi.org/10.1103/msy5-4yxd)*
 @@
 
-@@papericon ![](/assets/icons/arxiv.png) @@
+@@papericon ![](/assets/icons/prr.png) @@
 @@paperdata
 **86. [Semiconductor Wannier equations: a real-time, real-space approach to the nonlinear optical response in crystals (ATATA)](https://arxiv.org/abs/2510.22064)**
 
 Eduardo B. Molinero, Bruno Amorim, Misha Ivanov, Graham G. Brown, Giovanni Cistaro, João M. Viana Parente Lopes, Álvaro Jiménez-Galán, Pablo San-Jose, Rui E. F. Silva
 
-*Preprint [arXiv:2510.22064](https://arxiv.org/abs/2510.22064)*
+*[Phys. Rev. Research **8**, 033302 (2026) (https://doi.org/10.1103/sxcl-yqs7)*
 @@
 
 @@papericon ![](/assets/icons/prl.png) @@
@@ -56,7 +56,7 @@ Eduardo B. Molinero, Bruno Amorim, Misha Ivanov, Graham G. Brown, Giovanni Cista
 
 Tim Kokkeler, Mateo Uldemolins, Francisco Lobo, F. Sebastian Bergeret, Elsa Prada, Pablo San-Jose
 
-*[Phys. Rev. Lett **136**, 086001 (2026)](https://doi.org/10.1103/qb8l-cj9j)*
+*[Phys. Rev. Lett. **136**, 086001 (2026)](https://doi.org/10.1103/qb8l-cj9j)*
 
 [Editor's Suggestion](https://journals.aps.org/prl/issues/136/8)
 @@
