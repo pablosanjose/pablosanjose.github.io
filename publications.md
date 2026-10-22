@@ -57,7 +57,7 @@ Aday Cárdenas, David N. Purschke, Graham G. Brown, Pablo San-Jose, Rui E.F. Sil
 
 Eduardo B. Molinero, Bruno Amorim, Misha Ivanov, Graham G. Brown, Giovanni Cistaro, João M. Viana Parente Lopes, Álvaro Jiménez-Galán, Pablo San-Jose, Rui E. F. Silva
 
-*[Phys. Rev. Research **8**, 033302 (2026) (https://doi.org/10.1103/sxcl-yqs7)*
+*[Phys. Rev. Research **8**, 033302 (2026)](https://doi.org/10.1103/sxcl-yqs7)*
 @@
 
 @@papericon ![](/assets/icons/prl.png) @@
