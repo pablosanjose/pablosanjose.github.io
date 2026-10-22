@@ -12,11 +12,21 @@ title = "Publications"
 @@papericon ![](/assets/icons/arxiv.png) @@
 @@paperdata
 
-**89. [Valley Valves at Domain Walls in Symmetry-Broken Rhombohedral Graphene](https://arxiv.org/abs/2604.24858)**
+**90. [Valley-Selective Transport through Structural Domain Walls in Rhombohedral Graphene Quarter Metals](https://arxiv.org/abs/2610.22521)**
+
+ Vo Tien Phong, Pablo San-Jose, Bing Cheng, Zhengguang Lu, Elsa Prada, Long Ju, Eugene Mele, Cyprian Lewandowski, Francisco Guinea
+
+*Preprint [arXiv:2610.22521](https://arxiv.org/abs/2610.22521)*
+@@
+
+@@papericon ![](/assets/icons/arxiv.png) @@
+@@paperdata
+
+**89. [Valley Valves at Domain Walls in Symmetry-Broken Rhombohedral Graphene](https://arxiv.org/abs/2606.14878)**
 
 Vo Tien Phong, Elsa Prada, Pablo San-Jose, Francisco Guinea, Eugene J. Mele
 
-*Preprint [arXiv:2604.24858](https://arxiv.org/abs/2604.24858)*
+*Preprint [arXiv:2606.14878](https://arxiv.org/abs/2606.14878)*
 @@
 
 @@papericon ![](/assets/icons/prl.png) @@
