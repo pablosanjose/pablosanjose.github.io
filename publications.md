@@ -9,6 +9,15 @@ title = "Publications"
 
 # 2026
 
+@@papericon ![](/assets/icons/jccmp.png) @@
+@@paperdata
+**91. [Novel phases, orbital magnetism, and domain walls in rhombohedral graphene stacks](https://www.condmatjclub.org/uploads/2026/10/JCCM_October_2026_02.pdf)**
+
+F. Guinea, E.J. Mele, V. T. Phong, E. Prada, P. San-Jose
+
+*[Journal Club for Condensed Matter Physics (October 2026)](https://doi.org/10.36471/JCCM_October_2026_02)*
+@@
+
 @@papericon ![](/assets/icons/arxiv.png) @@
 @@paperdata
 
