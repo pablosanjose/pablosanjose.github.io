@@ -58,6 +58,11 @@ ResearcherID [A-4795-2010](http://www.researcherid.com/rid/A-4795-2010)
 # Academic career
 
 @@row
+@@column11 *Dec 2025 - present* @@
+@@column12 Senior Scientist at the [ICMM](http://www.icmm.csic.es) - [CSIC](http://www.csic.es) (Madrid, Spain)@@
+@@
+
+@@row
 @@column11 *Mar 2017 - present* @@
 @@column12 Tenured Scientist at the [ICMM](http://www.icmm.csic.es) - [CSIC](http://www.csic.es) (Madrid, Spain)@@
 @@
