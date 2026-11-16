@@ -43,7 +43,7 @@ F. Guinea, E.J. Mele, V. T. Phong, E. Prada, P. San-Jose
 
 **89. [Valley Valves at Domain Walls in Symmetry-Broken Rhombohedral Graphene](https://arxiv.org/abs/2606.14878)**
 
-Vo Tien Phong, Elsa Prada, Pablo San-Jose, Francisco Guinea, Eugene J. Mele
+Vo Tien Phong, Francisco Lobo, Elsa Prada, Pablo San-Jose, Francisco Guinea, Eugene J. Mele
 
 *Preprint [arXiv:2606.14878](https://arxiv.org/abs/2606.14878)*
 @@
